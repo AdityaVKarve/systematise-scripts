@@ -1,7 +1,6 @@
 # app/engine/trigger_engine.py
 
 from app.db import queries
-from app.engine.process_manager import create_process_and_link
 
 
 # app/engine/trigger_engine.py

@@ -5,6 +5,15 @@ from app.engine.trigger_engine import handle_event_trigger
 from app.db import queries
 from app.simulator.customer_simulator import Customer
 import json
+import logging
+
+# === LOGGER SETUP ===
+logger = logging.getLogger("simulation_logger")
+logger.setLevel(logging.DEBUG)
+fh = logging.FileHandler("simulation.log")
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+fh.setFormatter(formatter)
+logger.addHandler(fh)
 
 # === CONFIGURATION ===
 
@@ -55,7 +64,7 @@ def simulate_day(date):
     customer_count = random.randint(20, 30)
     for _ in range(customer_count):
         name = random.choice(["Alice", "Bob", "Carlos", "Diana", "Eva", "Frank"])
-        customer = Customer(f"{name}-{random.randint(1000, 9999)}")
+        customer = Customer(f"{name}-{random.randint(1000, 9999)}", logger=logger)
         customer.visited_at = datetime.combine(date.date(), datetime.min.time()) + timedelta(
             minutes=random.randint(8 * 60, 18 * 60)
         )
@@ -73,6 +82,7 @@ def run_simulation():
         current_day += timedelta(days=1)
 
     print("Simulation complete.")
+    logger.info("Simulation complete.")
 
 # === ENTRY POINT ===
 

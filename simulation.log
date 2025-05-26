@@ -1,0 +1,2252 @@
+2025-05-26 22:49:05,037 - INFO - Event logged: Walk In with ID 10166
+2025-05-26 22:49:05,037 - INFO - Event logged: Order Drink with ID 10167
+2025-05-26 22:49:05,039 - INFO - Triggered process 'Order Drink' (ID: 2143) from event 'Order Drink' (ID: 10167)
+2025-05-26 22:49:05,039 - INFO - Event logged: Customer Not Sign Up with ID 10168
+2025-05-26 22:49:05,040 - INFO - Event logged: Drink readied with ID 10169
+2025-05-26 22:49:05,041 - INFO - Event logged: Customer Walk Out with ID 10170
+2025-05-26 22:49:05,041 - INFO - Event logged: Walk In with ID 10171
+2025-05-26 22:49:05,041 - INFO - Event logged: Order Drink with ID 10172
+2025-05-26 22:49:05,042 - INFO - Triggered process 'Order Drink' (ID: 2144) from event 'Order Drink' (ID: 10172)
+2025-05-26 22:49:05,043 - INFO - Event logged: Customer Sign Up with ID 10173
+2025-05-26 22:49:05,044 - INFO - Triggered process 'Register Customer' (ID: 2145) from event 'Customer Sign Up' (ID: 10173)
+2025-05-26 22:49:05,044 - INFO - Event logged: Drink readied with ID 10174
+2025-05-26 22:49:05,045 - INFO - Event logged: Customer Walk Out with ID 10175
+2025-05-26 22:49:05,045 - INFO - Event logged: Walk In with ID 10176
+2025-05-26 22:49:05,046 - INFO - Event logged: Order Drink with ID 10177
+2025-05-26 22:49:05,047 - INFO - Triggered process 'Order Drink' (ID: 2146) from event 'Order Drink' (ID: 10177)
+2025-05-26 22:49:05,047 - INFO - Event logged: Customer Sign Up with ID 10178
+2025-05-26 22:49:05,048 - INFO - Triggered process 'Register Customer' (ID: 2147) from event 'Customer Sign Up' (ID: 10178)
+2025-05-26 22:49:05,048 - INFO - Event logged: Drink readied with ID 10179
+2025-05-26 22:49:05,048 - INFO - Event logged: Customer Walk Out with ID 10180
+2025-05-26 22:49:05,049 - INFO - Event logged: Walk In with ID 10181
+2025-05-26 22:49:05,049 - INFO - Event logged: Order Drink with ID 10182
+2025-05-26 22:49:05,050 - INFO - Triggered process 'Order Drink' (ID: 2148) from event 'Order Drink' (ID: 10182)
+2025-05-26 22:49:05,050 - INFO - Event logged: Customer Sign Up with ID 10183
+2025-05-26 22:49:05,051 - INFO - Triggered process 'Register Customer' (ID: 2149) from event 'Customer Sign Up' (ID: 10183)
+2025-05-26 22:49:05,051 - INFO - Event logged: Drink readied with ID 10184
+2025-05-26 22:49:05,052 - INFO - Event logged: Customer Walk Out with ID 10185
+2025-05-26 22:49:05,052 - INFO - Event logged: Walk In with ID 10186
+2025-05-26 22:49:05,053 - INFO - Event logged: Order Drink with ID 10187
+2025-05-26 22:49:05,053 - INFO - Triggered process 'Order Drink' (ID: 2150) from event 'Order Drink' (ID: 10187)
+2025-05-26 22:49:05,053 - INFO - Event logged: Customer Not Sign Up with ID 10188
+2025-05-26 22:49:05,054 - INFO - Event logged: Drink readied with ID 10189
+2025-05-26 22:49:05,055 - INFO - Event logged: Customer Walk Out with ID 10190
+2025-05-26 22:49:05,055 - INFO - Event logged: Walk In with ID 10191
+2025-05-26 22:49:05,056 - INFO - Event logged: Order Drink with ID 10192
+2025-05-26 22:49:05,056 - INFO - Triggered process 'Order Drink' (ID: 2151) from event 'Order Drink' (ID: 10192)
+2025-05-26 22:49:05,056 - INFO - Event logged: Customer Sign Up with ID 10193
+2025-05-26 22:49:05,057 - INFO - Triggered process 'Register Customer' (ID: 2152) from event 'Customer Sign Up' (ID: 10193)
+2025-05-26 22:49:05,057 - INFO - Event logged: Drink readied with ID 10194
+2025-05-26 22:49:05,058 - INFO - Event logged: Customer Walk Out with ID 10195
+2025-05-26 22:49:05,058 - INFO - Event logged: Walk In with ID 10196
+2025-05-26 22:49:05,058 - INFO - Event logged: Order Drink with ID 10197
+2025-05-26 22:49:05,059 - INFO - Triggered process 'Order Drink' (ID: 2153) from event 'Order Drink' (ID: 10197)
+2025-05-26 22:49:05,059 - INFO - Event logged: Customer Sign Up with ID 10198
+2025-05-26 22:49:05,060 - INFO - Triggered process 'Register Customer' (ID: 2154) from event 'Customer Sign Up' (ID: 10198)
+2025-05-26 22:49:05,060 - INFO - Event logged: Drink readied with ID 10199
+2025-05-26 22:49:05,061 - INFO - Event logged: Customer Walk Out with ID 10200
+2025-05-26 22:49:05,061 - INFO - Event logged: Walk In with ID 10201
+2025-05-26 22:49:05,061 - INFO - Event logged: Order Drink with ID 10202
+2025-05-26 22:49:05,062 - INFO - Triggered process 'Order Drink' (ID: 2155) from event 'Order Drink' (ID: 10202)
+2025-05-26 22:49:05,062 - INFO - Event logged: Customer Sign Up with ID 10203
+2025-05-26 22:49:05,063 - INFO - Triggered process 'Register Customer' (ID: 2156) from event 'Customer Sign Up' (ID: 10203)
+2025-05-26 22:49:05,063 - INFO - Event logged: Drink readied with ID 10204
+2025-05-26 22:49:05,064 - INFO - Event logged: Customer Walk Out with ID 10205
+2025-05-26 22:49:05,064 - INFO - Event logged: Walk In with ID 10206
+2025-05-26 22:49:05,065 - INFO - Event logged: Order Drink with ID 10207
+2025-05-26 22:49:05,065 - INFO - Triggered process 'Order Drink' (ID: 2157) from event 'Order Drink' (ID: 10207)
+2025-05-26 22:49:05,066 - INFO - Event logged: Customer Sign Up with ID 10208
+2025-05-26 22:49:05,066 - INFO - Triggered process 'Register Customer' (ID: 2158) from event 'Customer Sign Up' (ID: 10208)
+2025-05-26 22:49:05,067 - INFO - Event logged: Drink readied with ID 10209
+2025-05-26 22:49:05,067 - INFO - Event logged: Customer Walk Out with ID 10210
+2025-05-26 22:49:05,068 - INFO - Event logged: Walk In with ID 10211
+2025-05-26 22:49:05,068 - INFO - Event logged: Customer Walk Out with ID 10212
+2025-05-26 22:49:05,069 - INFO - Event logged: Walk In with ID 10213
+2025-05-26 22:49:05,069 - INFO - Event logged: Order Drink with ID 10214
+2025-05-26 22:49:05,070 - INFO - Triggered process 'Order Drink' (ID: 2159) from event 'Order Drink' (ID: 10214)
+2025-05-26 22:49:05,070 - INFO - Event logged: Customer Sign Up with ID 10215
+2025-05-26 22:49:05,071 - INFO - Triggered process 'Register Customer' (ID: 2160) from event 'Customer Sign Up' (ID: 10215)
+2025-05-26 22:49:05,071 - INFO - Event logged: Drink readied with ID 10216
+2025-05-26 22:49:05,072 - INFO - Event logged: Customer Walk Out with ID 10217
+2025-05-26 22:49:05,072 - INFO - Event logged: Walk In with ID 10218
+2025-05-26 22:49:05,073 - INFO - Event logged: Order Drink with ID 10219
+2025-05-26 22:49:05,074 - INFO - Triggered process 'Order Drink' (ID: 2161) from event 'Order Drink' (ID: 10219)
+2025-05-26 22:49:05,074 - INFO - Event logged: Customer Sign Up with ID 10220
+2025-05-26 22:49:05,074 - INFO - Triggered process 'Register Customer' (ID: 2162) from event 'Customer Sign Up' (ID: 10220)
+2025-05-26 22:49:05,075 - INFO - Event logged: Drink readied with ID 10221
+2025-05-26 22:49:05,075 - INFO - Event logged: Customer Walk Out with ID 10222
+2025-05-26 22:49:05,076 - INFO - Event logged: Walk In with ID 10223
+2025-05-26 22:49:05,076 - INFO - Event logged: Customer Walk Out with ID 10224
+2025-05-26 22:49:05,076 - INFO - Event logged: Walk In with ID 10225
+2025-05-26 22:49:05,077 - INFO - Event logged: Order Drink with ID 10226
+2025-05-26 22:49:05,077 - INFO - Triggered process 'Order Drink' (ID: 2163) from event 'Order Drink' (ID: 10226)
+2025-05-26 22:49:05,077 - INFO - Event logged: Customer Not Sign Up with ID 10227
+2025-05-26 22:49:05,078 - INFO - Event logged: Drink readied with ID 10228
+2025-05-26 22:49:05,078 - INFO - Event logged: Customer Walk Out with ID 10229
+2025-05-26 22:49:05,078 - INFO - Event logged: Walk In with ID 10230
+2025-05-26 22:49:05,079 - INFO - Event logged: Order Drink with ID 10231
+2025-05-26 22:49:05,079 - INFO - Triggered process 'Order Drink' (ID: 2164) from event 'Order Drink' (ID: 10231)
+2025-05-26 22:49:05,079 - INFO - Event logged: Customer Sign Up with ID 10232
+2025-05-26 22:49:05,080 - INFO - Triggered process 'Register Customer' (ID: 2165) from event 'Customer Sign Up' (ID: 10232)
+2025-05-26 22:49:05,080 - INFO - Event logged: Drink readied with ID 10233
+2025-05-26 22:49:05,080 - INFO - Event logged: Customer Walk Out with ID 10234
+2025-05-26 22:49:05,081 - INFO - Event logged: Walk In with ID 10235
+2025-05-26 22:49:05,081 - INFO - Event logged: Order Drink with ID 10236
+2025-05-26 22:49:05,081 - INFO - Triggered process 'Order Drink' (ID: 2166) from event 'Order Drink' (ID: 10236)
+2025-05-26 22:49:05,082 - INFO - Event logged: Customer Not Sign Up with ID 10237
+2025-05-26 22:49:05,082 - INFO - Event logged: Drink readied with ID 10238
+2025-05-26 22:49:05,082 - INFO - Event logged: Customer Walk Out with ID 10239
+2025-05-26 22:49:05,083 - INFO - Event logged: Walk In with ID 10240
+2025-05-26 22:49:05,083 - INFO - Event logged: Order Drink with ID 10241
+2025-05-26 22:49:05,083 - INFO - Triggered process 'Order Drink' (ID: 2167) from event 'Order Drink' (ID: 10241)
+2025-05-26 22:49:05,084 - INFO - Event logged: Customer Sign Up with ID 10242
+2025-05-26 22:49:05,084 - INFO - Triggered process 'Register Customer' (ID: 2168) from event 'Customer Sign Up' (ID: 10242)
+2025-05-26 22:49:05,085 - INFO - Event logged: Drink readied with ID 10243
+2025-05-26 22:49:05,085 - INFO - Event logged: Customer Walk Out with ID 10244
+2025-05-26 22:49:05,085 - INFO - Event logged: Walk In with ID 10245
+2025-05-26 22:49:05,086 - INFO - Event logged: Order Drink with ID 10246
+2025-05-26 22:49:05,086 - INFO - Triggered process 'Order Drink' (ID: 2169) from event 'Order Drink' (ID: 10246)
+2025-05-26 22:49:05,086 - INFO - Event logged: Customer Sign Up with ID 10247
+2025-05-26 22:49:05,087 - INFO - Triggered process 'Register Customer' (ID: 2170) from event 'Customer Sign Up' (ID: 10247)
+2025-05-26 22:49:05,087 - INFO - Event logged: Drink readied with ID 10248
+2025-05-26 22:49:05,087 - INFO - Event logged: Customer Walk Out with ID 10249
+2025-05-26 22:49:05,088 - INFO - Event logged: Walk In with ID 10250
+2025-05-26 22:49:05,088 - INFO - Event logged: Order Drink with ID 10251
+2025-05-26 22:49:05,089 - INFO - Triggered process 'Order Drink' (ID: 2171) from event 'Order Drink' (ID: 10251)
+2025-05-26 22:49:05,089 - INFO - Event logged: Customer Sign Up with ID 10252
+2025-05-26 22:49:05,089 - INFO - Triggered process 'Register Customer' (ID: 2172) from event 'Customer Sign Up' (ID: 10252)
+2025-05-26 22:49:05,090 - INFO - Event logged: Drink readied with ID 10253
+2025-05-26 22:49:05,090 - INFO - Event logged: Customer Walk Out with ID 10254
+2025-05-26 22:49:05,090 - INFO - Event logged: Walk In with ID 10255
+2025-05-26 22:49:05,091 - INFO - Event logged: Customer Walk Out with ID 10256
+2025-05-26 22:49:05,091 - INFO - Event logged: Walk In with ID 10257
+2025-05-26 22:49:05,091 - INFO - Event logged: Customer Walk Out with ID 10258
+2025-05-26 22:49:05,092 - INFO - Event logged: Walk In with ID 10259
+2025-05-26 22:49:05,092 - INFO - Event logged: Customer Walk Out with ID 10260
+2025-05-26 22:49:05,092 - INFO - Event logged: Walk In with ID 10261
+2025-05-26 22:49:05,093 - INFO - Event logged: Order Drink with ID 10262
+2025-05-26 22:49:05,093 - INFO - Triggered process 'Order Drink' (ID: 2173) from event 'Order Drink' (ID: 10262)
+2025-05-26 22:49:05,093 - INFO - Event logged: Customer Sign Up with ID 10263
+2025-05-26 22:49:05,094 - INFO - Triggered process 'Register Customer' (ID: 2174) from event 'Customer Sign Up' (ID: 10263)
+2025-05-26 22:49:05,094 - INFO - Event logged: Drink readied with ID 10264
+2025-05-26 22:49:05,095 - INFO - Event logged: Customer Walk Out with ID 10265
+2025-05-26 22:49:05,095 - INFO - Event logged: Walk In with ID 10266
+2025-05-26 22:49:05,095 - INFO - Event logged: Order Drink with ID 10267
+2025-05-26 22:49:05,096 - INFO - Triggered process 'Order Drink' (ID: 2175) from event 'Order Drink' (ID: 10267)
+2025-05-26 22:49:05,096 - INFO - Event logged: Customer Not Sign Up with ID 10268
+2025-05-26 22:49:05,096 - INFO - Event logged: Drink readied with ID 10269
+2025-05-26 22:49:05,097 - INFO - Event logged: Customer Walk Out with ID 10270
+2025-05-26 22:49:05,097 - INFO - Event logged: Walk In with ID 10271
+2025-05-26 22:49:05,097 - INFO - Event logged: Order Drink with ID 10272
+2025-05-26 22:49:05,098 - INFO - Triggered process 'Order Drink' (ID: 2176) from event 'Order Drink' (ID: 10272)
+2025-05-26 22:49:05,098 - INFO - Event logged: Customer Sign Up with ID 10273
+2025-05-26 22:49:05,099 - INFO - Triggered process 'Register Customer' (ID: 2177) from event 'Customer Sign Up' (ID: 10273)
+2025-05-26 22:49:05,099 - INFO - Event logged: Drink readied with ID 10274
+2025-05-26 22:49:05,099 - INFO - Event logged: Customer Walk Out with ID 10275
+2025-05-26 22:49:05,100 - INFO - Event logged: Walk In with ID 10276
+2025-05-26 22:49:05,100 - INFO - Event logged: Order Drink with ID 10277
+2025-05-26 22:49:05,100 - INFO - Triggered process 'Order Drink' (ID: 2178) from event 'Order Drink' (ID: 10277)
+2025-05-26 22:49:05,101 - INFO - Event logged: Customer Sign Up with ID 10278
+2025-05-26 22:49:05,101 - INFO - Triggered process 'Register Customer' (ID: 2179) from event 'Customer Sign Up' (ID: 10278)
+2025-05-26 22:49:05,101 - INFO - Event logged: Drink readied with ID 10279
+2025-05-26 22:49:05,102 - INFO - Event logged: Customer Walk Out with ID 10280
+2025-05-26 22:49:05,102 - INFO - Event logged: Walk In with ID 10281
+2025-05-26 22:49:05,102 - INFO - Event logged: Order Drink with ID 10282
+2025-05-26 22:49:05,103 - INFO - Triggered process 'Order Drink' (ID: 2180) from event 'Order Drink' (ID: 10282)
+2025-05-26 22:49:05,103 - INFO - Event logged: Customer Not Sign Up with ID 10283
+2025-05-26 22:49:05,104 - INFO - Event logged: Drink readied with ID 10284
+2025-05-26 22:49:05,104 - INFO - Event logged: Customer Walk Out with ID 10285
+2025-05-26 22:49:05,104 - INFO - Event logged: Walk In with ID 10286
+2025-05-26 22:49:05,105 - INFO - Event logged: Order Drink with ID 10287
+2025-05-26 22:49:05,105 - INFO - Triggered process 'Order Drink' (ID: 2181) from event 'Order Drink' (ID: 10287)
+2025-05-26 22:49:05,105 - INFO - Event logged: Customer Not Sign Up with ID 10288
+2025-05-26 22:49:05,106 - INFO - Event logged: Drink readied with ID 10289
+2025-05-26 22:49:05,106 - INFO - Event logged: Customer Walk Out with ID 10290
+2025-05-26 22:49:05,106 - INFO - Event logged: Walk In with ID 10291
+2025-05-26 22:49:05,107 - INFO - Event logged: Order Drink with ID 10292
+2025-05-26 22:49:05,107 - INFO - Triggered process 'Order Drink' (ID: 2182) from event 'Order Drink' (ID: 10292)
+2025-05-26 22:49:05,107 - INFO - Event logged: Customer Sign Up with ID 10293
+2025-05-26 22:49:05,108 - INFO - Triggered process 'Register Customer' (ID: 2183) from event 'Customer Sign Up' (ID: 10293)
+2025-05-26 22:49:05,108 - INFO - Event logged: Drink readied with ID 10294
+2025-05-26 22:49:05,108 - INFO - Event logged: Customer Walk Out with ID 10295
+2025-05-26 22:49:05,109 - INFO - Event logged: Walk In with ID 10296
+2025-05-26 22:49:05,109 - INFO - Event logged: Order Drink with ID 10297
+2025-05-26 22:49:05,109 - INFO - Triggered process 'Order Drink' (ID: 2184) from event 'Order Drink' (ID: 10297)
+2025-05-26 22:49:05,110 - INFO - Event logged: Customer Sign Up with ID 10298
+2025-05-26 22:49:05,110 - INFO - Triggered process 'Register Customer' (ID: 2185) from event 'Customer Sign Up' (ID: 10298)
+2025-05-26 22:49:05,110 - INFO - Event logged: Drink readied with ID 10299
+2025-05-26 22:49:05,111 - INFO - Event logged: Customer Walk Out with ID 10300
+2025-05-26 22:49:05,111 - INFO - Event logged: Walk In with ID 10301
+2025-05-26 22:49:05,111 - INFO - Event logged: Order Drink with ID 10302
+2025-05-26 22:49:05,112 - INFO - Triggered process 'Order Drink' (ID: 2186) from event 'Order Drink' (ID: 10302)
+2025-05-26 22:49:05,112 - INFO - Event logged: Customer Sign Up with ID 10303
+2025-05-26 22:49:05,113 - INFO - Triggered process 'Register Customer' (ID: 2187) from event 'Customer Sign Up' (ID: 10303)
+2025-05-26 22:49:05,113 - INFO - Event logged: Drink readied with ID 10304
+2025-05-26 22:49:05,113 - INFO - Event logged: Customer Walk Out with ID 10305
+2025-05-26 22:49:05,114 - INFO - Event logged: Walk In with ID 10306
+2025-05-26 22:49:05,114 - INFO - Event logged: Order Drink with ID 10307
+2025-05-26 22:49:05,115 - INFO - Triggered process 'Order Drink' (ID: 2188) from event 'Order Drink' (ID: 10307)
+2025-05-26 22:49:05,115 - INFO - Event logged: Customer Not Sign Up with ID 10308
+2025-05-26 22:49:05,115 - INFO - Event logged: Drink readied with ID 10309
+2025-05-26 22:49:05,116 - INFO - Event logged: Customer Walk Out with ID 10310
+2025-05-26 22:49:05,116 - INFO - Event logged: Walk In with ID 10311
+2025-05-26 22:49:05,116 - INFO - Event logged: Order Drink with ID 10312
+2025-05-26 22:49:05,117 - INFO - Triggered process 'Order Drink' (ID: 2189) from event 'Order Drink' (ID: 10312)
+2025-05-26 22:49:05,117 - INFO - Event logged: Customer Sign Up with ID 10313
+2025-05-26 22:49:05,118 - INFO - Triggered process 'Register Customer' (ID: 2190) from event 'Customer Sign Up' (ID: 10313)
+2025-05-26 22:49:05,118 - INFO - Event logged: Drink readied with ID 10314
+2025-05-26 22:49:05,118 - INFO - Event logged: Customer Walk Out with ID 10315
+2025-05-26 22:49:05,119 - INFO - Event logged: Walk In with ID 10316
+2025-05-26 22:49:05,119 - INFO - Event logged: Order Drink with ID 10317
+2025-05-26 22:49:05,119 - INFO - Triggered process 'Order Drink' (ID: 2191) from event 'Order Drink' (ID: 10317)
+2025-05-26 22:49:05,119 - INFO - Event logged: Customer Sign Up with ID 10318
+2025-05-26 22:49:05,120 - INFO - Triggered process 'Register Customer' (ID: 2192) from event 'Customer Sign Up' (ID: 10318)
+2025-05-26 22:49:05,120 - INFO - Event logged: Drink readied with ID 10319
+2025-05-26 22:49:05,120 - INFO - Event logged: Customer Walk Out with ID 10320
+2025-05-26 22:49:05,121 - INFO - Event logged: Walk In with ID 10321
+2025-05-26 22:49:05,121 - INFO - Event logged: Order Drink with ID 10322
+2025-05-26 22:49:05,122 - INFO - Triggered process 'Order Drink' (ID: 2193) from event 'Order Drink' (ID: 10322)
+2025-05-26 22:49:05,122 - INFO - Event logged: Customer Sign Up with ID 10323
+2025-05-26 22:49:05,122 - INFO - Triggered process 'Register Customer' (ID: 2194) from event 'Customer Sign Up' (ID: 10323)
+2025-05-26 22:49:05,123 - INFO - Event logged: Drink readied with ID 10324
+2025-05-26 22:49:05,123 - INFO - Event logged: Customer Walk Out with ID 10325
+2025-05-26 22:49:05,123 - INFO - Event logged: Walk In with ID 10326
+2025-05-26 22:49:05,124 - INFO - Event logged: Order Drink with ID 10327
+2025-05-26 22:49:05,124 - INFO - Triggered process 'Order Drink' (ID: 2195) from event 'Order Drink' (ID: 10327)
+2025-05-26 22:49:05,124 - INFO - Event logged: Customer Sign Up with ID 10328
+2025-05-26 22:49:05,125 - INFO - Triggered process 'Register Customer' (ID: 2196) from event 'Customer Sign Up' (ID: 10328)
+2025-05-26 22:49:05,125 - INFO - Event logged: Drink readied with ID 10329
+2025-05-26 22:49:05,125 - INFO - Event logged: Customer Walk Out with ID 10330
+2025-05-26 22:49:05,126 - INFO - Event logged: Walk In with ID 10331
+2025-05-26 22:49:05,126 - INFO - Event logged: Customer Walk Out with ID 10332
+2025-05-26 22:49:05,126 - INFO - Event logged: Walk In with ID 10333
+2025-05-26 22:49:05,127 - INFO - Event logged: Customer Walk Out with ID 10334
+2025-05-26 22:49:05,127 - INFO - Event logged: Walk In with ID 10335
+2025-05-26 22:49:05,127 - INFO - Event logged: Order Drink with ID 10336
+2025-05-26 22:49:05,128 - INFO - Triggered process 'Order Drink' (ID: 2197) from event 'Order Drink' (ID: 10336)
+2025-05-26 22:49:05,128 - INFO - Event logged: Customer Sign Up with ID 10337
+2025-05-26 22:49:05,128 - INFO - Triggered process 'Register Customer' (ID: 2198) from event 'Customer Sign Up' (ID: 10337)
+2025-05-26 22:49:05,129 - INFO - Event logged: Drink readied with ID 10338
+2025-05-26 22:49:05,129 - INFO - Event logged: Customer Walk Out with ID 10339
+2025-05-26 22:49:05,129 - INFO - Event logged: Walk In with ID 10340
+2025-05-26 22:49:05,130 - INFO - Event logged: Order Drink with ID 10341
+2025-05-26 22:49:05,130 - INFO - Triggered process 'Order Drink' (ID: 2199) from event 'Order Drink' (ID: 10341)
+2025-05-26 22:49:05,130 - INFO - Event logged: Customer Sign Up with ID 10342
+2025-05-26 22:49:05,131 - INFO - Triggered process 'Register Customer' (ID: 2200) from event 'Customer Sign Up' (ID: 10342)
+2025-05-26 22:49:05,131 - INFO - Event logged: Drink readied with ID 10343
+2025-05-26 22:49:05,131 - INFO - Event logged: Customer Walk Out with ID 10344
+2025-05-26 22:49:05,132 - INFO - Event logged: Walk In with ID 10345
+2025-05-26 22:49:05,132 - INFO - Event logged: Order Drink with ID 10346
+2025-05-26 22:49:05,132 - INFO - Triggered process 'Order Drink' (ID: 2201) from event 'Order Drink' (ID: 10346)
+2025-05-26 22:49:05,133 - INFO - Event logged: Customer Sign Up with ID 10347
+2025-05-26 22:49:05,133 - INFO - Triggered process 'Register Customer' (ID: 2202) from event 'Customer Sign Up' (ID: 10347)
+2025-05-26 22:49:05,133 - INFO - Event logged: Drink readied with ID 10348
+2025-05-26 22:49:05,134 - INFO - Event logged: Customer Walk Out with ID 10349
+2025-05-26 22:49:05,134 - INFO - Event logged: Walk In with ID 10350
+2025-05-26 22:49:05,134 - INFO - Event logged: Order Drink with ID 10351
+2025-05-26 22:49:05,135 - INFO - Triggered process 'Order Drink' (ID: 2203) from event 'Order Drink' (ID: 10351)
+2025-05-26 22:49:05,135 - INFO - Event logged: Customer Sign Up with ID 10352
+2025-05-26 22:49:05,136 - INFO - Triggered process 'Register Customer' (ID: 2204) from event 'Customer Sign Up' (ID: 10352)
+2025-05-26 22:49:05,136 - INFO - Event logged: Drink readied with ID 10353
+2025-05-26 22:49:05,137 - INFO - Event logged: Customer Walk Out with ID 10354
+2025-05-26 22:49:05,137 - INFO - Event logged: Walk In with ID 10355
+2025-05-26 22:49:05,137 - INFO - Event logged: Order Drink with ID 10356
+2025-05-26 22:49:05,138 - INFO - Triggered process 'Order Drink' (ID: 2205) from event 'Order Drink' (ID: 10356)
+2025-05-26 22:49:05,138 - INFO - Event logged: Customer Sign Up with ID 10357
+2025-05-26 22:49:05,139 - INFO - Triggered process 'Register Customer' (ID: 2206) from event 'Customer Sign Up' (ID: 10357)
+2025-05-26 22:49:05,139 - INFO - Event logged: Drink readied with ID 10358
+2025-05-26 22:49:05,139 - INFO - Event logged: Customer Walk Out with ID 10359
+2025-05-26 22:49:05,139 - INFO - Event logged: Walk In with ID 10360
+2025-05-26 22:49:05,140 - INFO - Event logged: Order Drink with ID 10361
+2025-05-26 22:49:05,140 - INFO - Triggered process 'Order Drink' (ID: 2207) from event 'Order Drink' (ID: 10361)
+2025-05-26 22:49:05,140 - INFO - Event logged: Customer Sign Up with ID 10362
+2025-05-26 22:49:05,141 - INFO - Triggered process 'Register Customer' (ID: 2208) from event 'Customer Sign Up' (ID: 10362)
+2025-05-26 22:49:05,141 - INFO - Event logged: Drink readied with ID 10363
+2025-05-26 22:49:05,142 - INFO - Event logged: Customer Walk Out with ID 10364
+2025-05-26 22:49:05,142 - INFO - Event logged: Walk In with ID 10365
+2025-05-26 22:49:05,142 - INFO - Event logged: Order Drink with ID 10366
+2025-05-26 22:49:05,143 - INFO - Triggered process 'Order Drink' (ID: 2209) from event 'Order Drink' (ID: 10366)
+2025-05-26 22:49:05,143 - INFO - Event logged: Customer Sign Up with ID 10367
+2025-05-26 22:49:05,143 - INFO - Triggered process 'Register Customer' (ID: 2210) from event 'Customer Sign Up' (ID: 10367)
+2025-05-26 22:49:05,143 - INFO - Event logged: Drink readied with ID 10368
+2025-05-26 22:49:05,144 - INFO - Event logged: Customer Walk Out with ID 10369
+2025-05-26 22:49:05,144 - INFO - Event logged: Walk In with ID 10370
+2025-05-26 22:49:05,145 - INFO - Event logged: Order Drink with ID 10371
+2025-05-26 22:49:05,145 - INFO - Triggered process 'Order Drink' (ID: 2211) from event 'Order Drink' (ID: 10371)
+2025-05-26 22:49:05,145 - INFO - Event logged: Customer Sign Up with ID 10372
+2025-05-26 22:49:05,146 - INFO - Triggered process 'Register Customer' (ID: 2212) from event 'Customer Sign Up' (ID: 10372)
+2025-05-26 22:49:05,146 - INFO - Event logged: Drink readied with ID 10373
+2025-05-26 22:49:05,147 - INFO - Event logged: Customer Walk Out with ID 10374
+2025-05-26 22:49:05,147 - INFO - Event logged: Walk In with ID 10375
+2025-05-26 22:49:05,147 - INFO - Event logged: Order Drink with ID 10376
+2025-05-26 22:49:05,148 - INFO - Triggered process 'Order Drink' (ID: 2213) from event 'Order Drink' (ID: 10376)
+2025-05-26 22:49:05,148 - INFO - Event logged: Customer Not Sign Up with ID 10377
+2025-05-26 22:49:05,148 - INFO - Event logged: Drink readied with ID 10378
+2025-05-26 22:49:05,148 - INFO - Event logged: Customer Walk Out with ID 10379
+2025-05-26 22:49:05,149 - INFO - Event logged: Walk In with ID 10380
+2025-05-26 22:49:05,149 - INFO - Event logged: Order Drink with ID 10381
+2025-05-26 22:49:05,150 - INFO - Triggered process 'Order Drink' (ID: 2214) from event 'Order Drink' (ID: 10381)
+2025-05-26 22:49:05,150 - INFO - Event logged: Customer Sign Up with ID 10382
+2025-05-26 22:49:05,150 - INFO - Triggered process 'Register Customer' (ID: 2215) from event 'Customer Sign Up' (ID: 10382)
+2025-05-26 22:49:05,151 - INFO - Event logged: Drink readied with ID 10383
+2025-05-26 22:49:05,151 - INFO - Event logged: Customer Walk Out with ID 10384
+2025-05-26 22:49:05,152 - INFO - Event logged: Walk In with ID 10385
+2025-05-26 22:49:05,153 - INFO - Event logged: Order Drink with ID 10386
+2025-05-26 22:49:05,153 - INFO - Triggered process 'Order Drink' (ID: 2216) from event 'Order Drink' (ID: 10386)
+2025-05-26 22:49:05,153 - INFO - Event logged: Customer Not Sign Up with ID 10387
+2025-05-26 22:49:05,154 - INFO - Event logged: Drink readied with ID 10388
+2025-05-26 22:49:05,154 - INFO - Event logged: Customer Walk Out with ID 10389
+2025-05-26 22:49:05,154 - INFO - Event logged: Walk In with ID 10390
+2025-05-26 22:49:05,154 - INFO - Event logged: Order Drink with ID 10391
+2025-05-26 22:49:05,155 - INFO - Triggered process 'Order Drink' (ID: 2217) from event 'Order Drink' (ID: 10391)
+2025-05-26 22:49:05,155 - INFO - Event logged: Customer Not Sign Up with ID 10392
+2025-05-26 22:49:05,155 - INFO - Event logged: Drink readied with ID 10393
+2025-05-26 22:49:05,156 - INFO - Event logged: Customer Walk Out with ID 10394
+2025-05-26 22:49:05,156 - INFO - Event logged: Walk In with ID 10395
+2025-05-26 22:49:05,156 - INFO - Event logged: Order Drink with ID 10396
+2025-05-26 22:49:05,157 - INFO - Triggered process 'Order Drink' (ID: 2218) from event 'Order Drink' (ID: 10396)
+2025-05-26 22:49:05,157 - INFO - Event logged: Customer Sign Up with ID 10397
+2025-05-26 22:49:05,158 - INFO - Triggered process 'Register Customer' (ID: 2219) from event 'Customer Sign Up' (ID: 10397)
+2025-05-26 22:49:05,158 - INFO - Event logged: Drink readied with ID 10398
+2025-05-26 22:49:05,158 - INFO - Event logged: Customer Walk Out with ID 10399
+2025-05-26 22:49:05,159 - INFO - Event logged: Walk In with ID 10400
+2025-05-26 22:49:05,159 - INFO - Event logged: Customer Walk Out with ID 10401
+2025-05-26 22:49:05,159 - INFO - Event logged: Walk In with ID 10402
+2025-05-26 22:49:05,160 - INFO - Event logged: Order Drink with ID 10403
+2025-05-26 22:49:05,160 - INFO - Triggered process 'Order Drink' (ID: 2220) from event 'Order Drink' (ID: 10403)
+2025-05-26 22:49:05,160 - INFO - Event logged: Customer Not Sign Up with ID 10404
+2025-05-26 22:49:05,161 - INFO - Event logged: Drink readied with ID 10405
+2025-05-26 22:49:05,161 - INFO - Event logged: Customer Walk Out with ID 10406
+2025-05-26 22:49:05,161 - INFO - Event logged: Walk In with ID 10407
+2025-05-26 22:49:05,162 - INFO - Event logged: Order Drink with ID 10408
+2025-05-26 22:49:05,162 - INFO - Triggered process 'Order Drink' (ID: 2221) from event 'Order Drink' (ID: 10408)
+2025-05-26 22:49:05,162 - INFO - Event logged: Customer Sign Up with ID 10409
+2025-05-26 22:49:05,163 - INFO - Triggered process 'Register Customer' (ID: 2222) from event 'Customer Sign Up' (ID: 10409)
+2025-05-26 22:49:05,163 - INFO - Event logged: Drink readied with ID 10410
+2025-05-26 22:49:05,163 - INFO - Event logged: Customer Walk Out with ID 10411
+2025-05-26 22:49:05,164 - INFO - Event logged: Walk In with ID 10412
+2025-05-26 22:49:05,164 - INFO - Event logged: Order Drink with ID 10413
+2025-05-26 22:49:05,164 - INFO - Triggered process 'Order Drink' (ID: 2223) from event 'Order Drink' (ID: 10413)
+2025-05-26 22:49:05,165 - INFO - Event logged: Customer Sign Up with ID 10414
+2025-05-26 22:49:05,165 - INFO - Triggered process 'Register Customer' (ID: 2224) from event 'Customer Sign Up' (ID: 10414)
+2025-05-26 22:49:05,165 - INFO - Event logged: Drink readied with ID 10415
+2025-05-26 22:49:05,166 - INFO - Event logged: Customer Walk Out with ID 10416
+2025-05-26 22:49:05,166 - INFO - Event logged: Walk In with ID 10417
+2025-05-26 22:49:05,166 - INFO - Event logged: Order Drink with ID 10418
+2025-05-26 22:49:05,167 - INFO - Triggered process 'Order Drink' (ID: 2225) from event 'Order Drink' (ID: 10418)
+2025-05-26 22:49:05,167 - INFO - Event logged: Customer Sign Up with ID 10419
+2025-05-26 22:49:05,168 - INFO - Triggered process 'Register Customer' (ID: 2226) from event 'Customer Sign Up' (ID: 10419)
+2025-05-26 22:49:05,168 - INFO - Event logged: Drink readied with ID 10420
+2025-05-26 22:49:05,168 - INFO - Event logged: Customer Walk Out with ID 10421
+2025-05-26 22:49:05,169 - INFO - Event logged: Walk In with ID 10422
+2025-05-26 22:49:05,169 - INFO - Event logged: Customer Walk Out with ID 10423
+2025-05-26 22:49:05,169 - INFO - Event logged: Walk In with ID 10424
+2025-05-26 22:49:05,170 - INFO - Event logged: Order Drink with ID 10425
+2025-05-26 22:49:05,170 - INFO - Triggered process 'Order Drink' (ID: 2227) from event 'Order Drink' (ID: 10425)
+2025-05-26 22:49:05,170 - INFO - Event logged: Customer Sign Up with ID 10426
+2025-05-26 22:49:05,171 - INFO - Triggered process 'Register Customer' (ID: 2228) from event 'Customer Sign Up' (ID: 10426)
+2025-05-26 22:49:05,171 - INFO - Event logged: Drink readied with ID 10427
+2025-05-26 22:49:05,172 - INFO - Event logged: Customer Walk Out with ID 10428
+2025-05-26 22:49:05,172 - INFO - Event logged: Walk In with ID 10429
+2025-05-26 22:49:05,172 - INFO - Event logged: Order Drink with ID 10430
+2025-05-26 22:49:05,173 - INFO - Triggered process 'Order Drink' (ID: 2229) from event 'Order Drink' (ID: 10430)
+2025-05-26 22:49:05,173 - INFO - Event logged: Customer Sign Up with ID 10431
+2025-05-26 22:49:05,173 - INFO - Triggered process 'Register Customer' (ID: 2230) from event 'Customer Sign Up' (ID: 10431)
+2025-05-26 22:49:05,174 - INFO - Event logged: Drink readied with ID 10432
+2025-05-26 22:49:05,174 - INFO - Event logged: Customer Walk Out with ID 10433
+2025-05-26 22:49:05,174 - INFO - Event logged: Walk In with ID 10434
+2025-05-26 22:49:05,175 - INFO - Event logged: Order Drink with ID 10435
+2025-05-26 22:49:05,175 - INFO - Triggered process 'Order Drink' (ID: 2231) from event 'Order Drink' (ID: 10435)
+2025-05-26 22:49:05,176 - INFO - Event logged: Customer Not Sign Up with ID 10436
+2025-05-26 22:49:05,176 - INFO - Event logged: Drink readied with ID 10437
+2025-05-26 22:49:05,176 - INFO - Event logged: Customer Walk Out with ID 10438
+2025-05-26 22:49:05,176 - INFO - Event logged: Walk In with ID 10439
+2025-05-26 22:49:05,177 - INFO - Event logged: Customer Walk Out with ID 10440
+2025-05-26 22:49:05,177 - INFO - Event logged: Walk In with ID 10441
+2025-05-26 22:49:05,177 - INFO - Event logged: Order Drink with ID 10442
+2025-05-26 22:49:05,178 - INFO - Triggered process 'Order Drink' (ID: 2232) from event 'Order Drink' (ID: 10442)
+2025-05-26 22:49:05,178 - INFO - Event logged: Customer Not Sign Up with ID 10443
+2025-05-26 22:49:05,178 - INFO - Event logged: Drink readied with ID 10444
+2025-05-26 22:49:05,179 - INFO - Event logged: Customer Walk Out with ID 10445
+2025-05-26 22:49:05,179 - INFO - Event logged: Walk In with ID 10446
+2025-05-26 22:49:05,179 - INFO - Event logged: Order Drink with ID 10447
+2025-05-26 22:49:05,180 - INFO - Triggered process 'Order Drink' (ID: 2233) from event 'Order Drink' (ID: 10447)
+2025-05-26 22:49:05,180 - INFO - Event logged: Customer Sign Up with ID 10448
+2025-05-26 22:49:05,181 - INFO - Triggered process 'Register Customer' (ID: 2234) from event 'Customer Sign Up' (ID: 10448)
+2025-05-26 22:49:05,181 - INFO - Event logged: Drink readied with ID 10449
+2025-05-26 22:49:05,181 - INFO - Event logged: Customer Walk Out with ID 10450
+2025-05-26 22:49:05,182 - INFO - Event logged: Walk In with ID 10451
+2025-05-26 22:49:05,182 - INFO - Event logged: Order Drink with ID 10452
+2025-05-26 22:49:05,182 - INFO - Triggered process 'Order Drink' (ID: 2235) from event 'Order Drink' (ID: 10452)
+2025-05-26 22:49:05,183 - INFO - Event logged: Customer Sign Up with ID 10453
+2025-05-26 22:49:05,183 - INFO - Triggered process 'Register Customer' (ID: 2236) from event 'Customer Sign Up' (ID: 10453)
+2025-05-26 22:49:05,183 - INFO - Event logged: Drink readied with ID 10454
+2025-05-26 22:49:05,184 - INFO - Event logged: Customer Walk Out with ID 10455
+2025-05-26 22:49:05,184 - INFO - Event logged: Walk In with ID 10456
+2025-05-26 22:49:05,184 - INFO - Event logged: Order Drink with ID 10457
+2025-05-26 22:49:05,185 - INFO - Triggered process 'Order Drink' (ID: 2237) from event 'Order Drink' (ID: 10457)
+2025-05-26 22:49:05,185 - INFO - Event logged: Customer Sign Up with ID 10458
+2025-05-26 22:49:05,186 - INFO - Triggered process 'Register Customer' (ID: 2238) from event 'Customer Sign Up' (ID: 10458)
+2025-05-26 22:49:05,186 - INFO - Event logged: Drink readied with ID 10459
+2025-05-26 22:49:05,186 - INFO - Event logged: Customer Walk Out with ID 10460
+2025-05-26 22:49:05,187 - INFO - Event logged: Walk In with ID 10461
+2025-05-26 22:49:05,187 - INFO - Event logged: Order Drink with ID 10462
+2025-05-26 22:49:05,187 - INFO - Triggered process 'Order Drink' (ID: 2239) from event 'Order Drink' (ID: 10462)
+2025-05-26 22:49:05,188 - INFO - Event logged: Customer Sign Up with ID 10463
+2025-05-26 22:49:05,188 - INFO - Triggered process 'Register Customer' (ID: 2240) from event 'Customer Sign Up' (ID: 10463)
+2025-05-26 22:49:05,188 - INFO - Event logged: Drink readied with ID 10464
+2025-05-26 22:49:05,189 - INFO - Event logged: Customer Walk Out with ID 10465
+2025-05-26 22:49:05,189 - INFO - Event logged: Walk In with ID 10466
+2025-05-26 22:49:05,189 - INFO - Event logged: Order Drink with ID 10467
+2025-05-26 22:49:05,190 - INFO - Triggered process 'Order Drink' (ID: 2241) from event 'Order Drink' (ID: 10467)
+2025-05-26 22:49:05,190 - INFO - Event logged: Customer Sign Up with ID 10468
+2025-05-26 22:49:05,191 - INFO - Triggered process 'Register Customer' (ID: 2242) from event 'Customer Sign Up' (ID: 10468)
+2025-05-26 22:49:05,191 - INFO - Event logged: Drink readied with ID 10469
+2025-05-26 22:49:05,191 - INFO - Event logged: Customer Walk Out with ID 10470
+2025-05-26 22:49:05,192 - INFO - Event logged: Walk In with ID 10471
+2025-05-26 22:49:05,192 - INFO - Event logged: Customer Walk Out with ID 10472
+2025-05-26 22:49:05,193 - INFO - Event logged: Walk In with ID 10473
+2025-05-26 22:49:05,193 - INFO - Event logged: Order Drink with ID 10474
+2025-05-26 22:49:05,193 - INFO - Triggered process 'Order Drink' (ID: 2243) from event 'Order Drink' (ID: 10474)
+2025-05-26 22:49:05,194 - INFO - Event logged: Customer Sign Up with ID 10475
+2025-05-26 22:49:05,194 - INFO - Triggered process 'Register Customer' (ID: 2244) from event 'Customer Sign Up' (ID: 10475)
+2025-05-26 22:49:05,194 - INFO - Event logged: Drink readied with ID 10476
+2025-05-26 22:49:05,195 - INFO - Event logged: Customer Walk Out with ID 10477
+2025-05-26 22:49:05,195 - INFO - Event logged: Walk In with ID 10478
+2025-05-26 22:49:05,195 - INFO - Event logged: Customer Walk Out with ID 10479
+2025-05-26 22:49:05,196 - INFO - Event logged: Walk In with ID 10480
+2025-05-26 22:49:05,196 - INFO - Event logged: Order Drink with ID 10481
+2025-05-26 22:49:05,196 - INFO - Triggered process 'Order Drink' (ID: 2245) from event 'Order Drink' (ID: 10481)
+2025-05-26 22:49:05,197 - INFO - Event logged: Customer Sign Up with ID 10482
+2025-05-26 22:49:05,197 - INFO - Triggered process 'Register Customer' (ID: 2246) from event 'Customer Sign Up' (ID: 10482)
+2025-05-26 22:49:05,198 - INFO - Event logged: Drink readied with ID 10483
+2025-05-26 22:49:05,198 - INFO - Event logged: Customer Walk Out with ID 10484
+2025-05-26 22:49:05,199 - INFO - Event logged: Walk In with ID 10485
+2025-05-26 22:49:05,199 - INFO - Event logged: Order Drink with ID 10486
+2025-05-26 22:49:05,199 - INFO - Triggered process 'Order Drink' (ID: 2247) from event 'Order Drink' (ID: 10486)
+2025-05-26 22:49:05,200 - INFO - Event logged: Customer Sign Up with ID 10487
+2025-05-26 22:49:05,200 - INFO - Triggered process 'Register Customer' (ID: 2248) from event 'Customer Sign Up' (ID: 10487)
+2025-05-26 22:49:05,200 - INFO - Event logged: Drink readied with ID 10488
+2025-05-26 22:49:05,201 - INFO - Event logged: Customer Walk Out with ID 10489
+2025-05-26 22:49:05,201 - INFO - Event logged: Walk In with ID 10490
+2025-05-26 22:49:05,201 - INFO - Event logged: Order Drink with ID 10491
+2025-05-26 22:49:05,202 - INFO - Triggered process 'Order Drink' (ID: 2249) from event 'Order Drink' (ID: 10491)
+2025-05-26 22:49:05,202 - INFO - Event logged: Customer Not Sign Up with ID 10492
+2025-05-26 22:49:05,203 - INFO - Event logged: Drink readied with ID 10493
+2025-05-26 22:49:05,203 - INFO - Event logged: Customer Walk Out with ID 10494
+2025-05-26 22:49:05,203 - INFO - Event logged: Walk In with ID 10495
+2025-05-26 22:49:05,204 - INFO - Event logged: Order Drink with ID 10496
+2025-05-26 22:49:05,204 - INFO - Triggered process 'Order Drink' (ID: 2250) from event 'Order Drink' (ID: 10496)
+2025-05-26 22:49:05,204 - INFO - Event logged: Customer Not Sign Up with ID 10497
+2025-05-26 22:49:05,205 - INFO - Event logged: Drink readied with ID 10498
+2025-05-26 22:49:05,205 - INFO - Event logged: Customer Walk Out with ID 10499
+2025-05-26 22:49:05,205 - INFO - Event logged: Walk In with ID 10500
+2025-05-26 22:49:05,205 - INFO - Event logged: Order Drink with ID 10501
+2025-05-26 22:49:05,206 - INFO - Triggered process 'Order Drink' (ID: 2251) from event 'Order Drink' (ID: 10501)
+2025-05-26 22:49:05,206 - INFO - Event logged: Customer Sign Up with ID 10502
+2025-05-26 22:49:05,207 - INFO - Triggered process 'Register Customer' (ID: 2252) from event 'Customer Sign Up' (ID: 10502)
+2025-05-26 22:49:05,207 - INFO - Event logged: Drink readied with ID 10503
+2025-05-26 22:49:05,207 - INFO - Event logged: Customer Walk Out with ID 10504
+2025-05-26 22:49:05,208 - INFO - Event logged: Walk In with ID 10505
+2025-05-26 22:49:05,208 - INFO - Event logged: Order Drink with ID 10506
+2025-05-26 22:49:05,208 - INFO - Triggered process 'Order Drink' (ID: 2253) from event 'Order Drink' (ID: 10506)
+2025-05-26 22:49:05,209 - INFO - Event logged: Customer Not Sign Up with ID 10507
+2025-05-26 22:49:05,209 - INFO - Event logged: Drink readied with ID 10508
+2025-05-26 22:49:05,209 - INFO - Event logged: Customer Walk Out with ID 10509
+2025-05-26 22:49:05,210 - INFO - Event logged: Walk In with ID 10510
+2025-05-26 22:49:05,210 - INFO - Event logged: Order Drink with ID 10511
+2025-05-26 22:49:05,210 - INFO - Triggered process 'Order Drink' (ID: 2254) from event 'Order Drink' (ID: 10511)
+2025-05-26 22:49:05,211 - INFO - Event logged: Customer Not Sign Up with ID 10512
+2025-05-26 22:49:05,211 - INFO - Event logged: Drink readied with ID 10513
+2025-05-26 22:49:05,211 - INFO - Event logged: Customer Walk Out with ID 10514
+2025-05-26 22:49:05,211 - INFO - Event logged: Walk In with ID 10515
+2025-05-26 22:49:05,212 - INFO - Event logged: Order Drink with ID 10516
+2025-05-26 22:49:05,212 - INFO - Triggered process 'Order Drink' (ID: 2255) from event 'Order Drink' (ID: 10516)
+2025-05-26 22:49:05,213 - INFO - Event logged: Customer Sign Up with ID 10517
+2025-05-26 22:49:05,213 - INFO - Triggered process 'Register Customer' (ID: 2256) from event 'Customer Sign Up' (ID: 10517)
+2025-05-26 22:49:05,214 - INFO - Event logged: Drink readied with ID 10518
+2025-05-26 22:49:05,214 - INFO - Event logged: Customer Walk Out with ID 10519
+2025-05-26 22:49:05,214 - INFO - Event logged: Walk In with ID 10520
+2025-05-26 22:49:05,215 - INFO - Event logged: Order Drink with ID 10521
+2025-05-26 22:49:05,215 - INFO - Triggered process 'Order Drink' (ID: 2257) from event 'Order Drink' (ID: 10521)
+2025-05-26 22:49:05,215 - INFO - Event logged: Customer Sign Up with ID 10522
+2025-05-26 22:49:05,216 - INFO - Triggered process 'Register Customer' (ID: 2258) from event 'Customer Sign Up' (ID: 10522)
+2025-05-26 22:49:05,216 - INFO - Event logged: Drink readied with ID 10523
+2025-05-26 22:49:05,217 - INFO - Event logged: Customer Walk Out with ID 10524
+2025-05-26 22:49:05,217 - INFO - Event logged: Walk In with ID 10525
+2025-05-26 22:49:05,217 - INFO - Event logged: Order Drink with ID 10526
+2025-05-26 22:49:05,218 - INFO - Triggered process 'Order Drink' (ID: 2259) from event 'Order Drink' (ID: 10526)
+2025-05-26 22:49:05,218 - INFO - Event logged: Customer Sign Up with ID 10527
+2025-05-26 22:49:05,218 - INFO - Triggered process 'Register Customer' (ID: 2260) from event 'Customer Sign Up' (ID: 10527)
+2025-05-26 22:49:05,219 - INFO - Event logged: Drink readied with ID 10528
+2025-05-26 22:49:05,219 - INFO - Event logged: Customer Walk Out with ID 10529
+2025-05-26 22:49:05,219 - INFO - Event logged: Walk In with ID 10530
+2025-05-26 22:49:05,220 - INFO - Event logged: Order Drink with ID 10531
+2025-05-26 22:49:05,220 - INFO - Triggered process 'Order Drink' (ID: 2261) from event 'Order Drink' (ID: 10531)
+2025-05-26 22:49:05,220 - INFO - Event logged: Customer Not Sign Up with ID 10532
+2025-05-26 22:49:05,221 - INFO - Event logged: Drink readied with ID 10533
+2025-05-26 22:49:05,221 - INFO - Event logged: Customer Walk Out with ID 10534
+2025-05-26 22:49:05,221 - INFO - Event logged: Walk In with ID 10535
+2025-05-26 22:49:05,222 - INFO - Event logged: Order Drink with ID 10536
+2025-05-26 22:49:05,222 - INFO - Triggered process 'Order Drink' (ID: 2262) from event 'Order Drink' (ID: 10536)
+2025-05-26 22:49:05,223 - INFO - Event logged: Customer Sign Up with ID 10537
+2025-05-26 22:49:05,223 - INFO - Triggered process 'Register Customer' (ID: 2263) from event 'Customer Sign Up' (ID: 10537)
+2025-05-26 22:49:05,223 - INFO - Event logged: Drink readied with ID 10538
+2025-05-26 22:49:05,224 - INFO - Event logged: Customer Walk Out with ID 10539
+2025-05-26 22:49:05,224 - INFO - Event logged: Walk In with ID 10540
+2025-05-26 22:49:05,224 - INFO - Event logged: Order Drink with ID 10541
+2025-05-26 22:49:05,225 - INFO - Triggered process 'Order Drink' (ID: 2264) from event 'Order Drink' (ID: 10541)
+2025-05-26 22:49:05,225 - INFO - Event logged: Customer Sign Up with ID 10542
+2025-05-26 22:49:05,225 - INFO - Triggered process 'Register Customer' (ID: 2265) from event 'Customer Sign Up' (ID: 10542)
+2025-05-26 22:49:05,226 - INFO - Event logged: Drink readied with ID 10543
+2025-05-26 22:49:05,226 - INFO - Event logged: Customer Walk Out with ID 10544
+2025-05-26 22:49:05,226 - INFO - Event logged: Walk In with ID 10545
+2025-05-26 22:49:05,227 - INFO - Event logged: Order Drink with ID 10546
+2025-05-26 22:49:05,227 - INFO - Triggered process 'Order Drink' (ID: 2266) from event 'Order Drink' (ID: 10546)
+2025-05-26 22:49:05,227 - INFO - Event logged: Customer Sign Up with ID 10547
+2025-05-26 22:49:05,228 - INFO - Triggered process 'Register Customer' (ID: 2267) from event 'Customer Sign Up' (ID: 10547)
+2025-05-26 22:49:05,228 - INFO - Event logged: Drink readied with ID 10548
+2025-05-26 22:49:05,228 - INFO - Event logged: Customer Walk Out with ID 10549
+2025-05-26 22:49:05,229 - INFO - Event logged: Walk In with ID 10550
+2025-05-26 22:49:05,229 - INFO - Event logged: Order Drink with ID 10551
+2025-05-26 22:49:05,230 - INFO - Triggered process 'Order Drink' (ID: 2268) from event 'Order Drink' (ID: 10551)
+2025-05-26 22:49:05,230 - INFO - Event logged: Customer Not Sign Up with ID 10552
+2025-05-26 22:49:05,230 - INFO - Event logged: Drink readied with ID 10553
+2025-05-26 22:49:05,231 - INFO - Event logged: Customer Walk Out with ID 10554
+2025-05-26 22:49:05,231 - INFO - Event logged: Walk In with ID 10555
+2025-05-26 22:49:05,231 - INFO - Event logged: Order Drink with ID 10556
+2025-05-26 22:49:05,232 - INFO - Triggered process 'Order Drink' (ID: 2269) from event 'Order Drink' (ID: 10556)
+2025-05-26 22:49:05,232 - INFO - Event logged: Customer Not Sign Up with ID 10557
+2025-05-26 22:49:05,232 - INFO - Event logged: Drink readied with ID 10558
+2025-05-26 22:49:05,233 - INFO - Event logged: Customer Walk Out with ID 10559
+2025-05-26 22:49:05,233 - INFO - Event logged: Walk In with ID 10560
+2025-05-26 22:49:05,233 - INFO - Event logged: Order Drink with ID 10561
+2025-05-26 22:49:05,234 - INFO - Triggered process 'Order Drink' (ID: 2270) from event 'Order Drink' (ID: 10561)
+2025-05-26 22:49:05,234 - INFO - Event logged: Customer Not Sign Up with ID 10562
+2025-05-26 22:49:05,234 - INFO - Event logged: Drink readied with ID 10563
+2025-05-26 22:49:05,235 - INFO - Event logged: Customer Walk Out with ID 10564
+2025-05-26 22:49:05,235 - INFO - Event logged: Walk In with ID 10565
+2025-05-26 22:49:05,235 - INFO - Event logged: Order Drink with ID 10566
+2025-05-26 22:49:05,236 - INFO - Triggered process 'Order Drink' (ID: 2271) from event 'Order Drink' (ID: 10566)
+2025-05-26 22:49:05,236 - INFO - Event logged: Customer Sign Up with ID 10567
+2025-05-26 22:49:05,237 - INFO - Triggered process 'Register Customer' (ID: 2272) from event 'Customer Sign Up' (ID: 10567)
+2025-05-26 22:49:05,237 - INFO - Event logged: Drink readied with ID 10568
+2025-05-26 22:49:05,237 - INFO - Event logged: Customer Walk Out with ID 10569
+2025-05-26 22:49:05,238 - INFO - Event logged: Walk In with ID 10570
+2025-05-26 22:49:05,238 - INFO - Event logged: Customer Walk Out with ID 10571
+2025-05-26 22:49:05,238 - INFO - Event logged: Walk In with ID 10572
+2025-05-26 22:49:05,239 - INFO - Event logged: Order Drink with ID 10573
+2025-05-26 22:49:05,239 - INFO - Triggered process 'Order Drink' (ID: 2273) from event 'Order Drink' (ID: 10573)
+2025-05-26 22:49:05,240 - INFO - Event logged: Customer Sign Up with ID 10574
+2025-05-26 22:49:05,240 - INFO - Triggered process 'Register Customer' (ID: 2274) from event 'Customer Sign Up' (ID: 10574)
+2025-05-26 22:49:05,240 - INFO - Event logged: Drink readied with ID 10575
+2025-05-26 22:49:05,241 - INFO - Event logged: Customer Walk Out with ID 10576
+2025-05-26 22:49:05,241 - INFO - Event logged: Walk In with ID 10577
+2025-05-26 22:49:05,241 - INFO - Event logged: Order Drink with ID 10578
+2025-05-26 22:49:05,242 - INFO - Triggered process 'Order Drink' (ID: 2275) from event 'Order Drink' (ID: 10578)
+2025-05-26 22:49:05,242 - INFO - Event logged: Customer Sign Up with ID 10579
+2025-05-26 22:49:05,243 - INFO - Triggered process 'Register Customer' (ID: 2276) from event 'Customer Sign Up' (ID: 10579)
+2025-05-26 22:49:05,243 - INFO - Event logged: Drink readied with ID 10580
+2025-05-26 22:49:05,243 - INFO - Event logged: Customer Walk Out with ID 10581
+2025-05-26 22:49:05,243 - INFO - Event logged: Walk In with ID 10582
+2025-05-26 22:49:05,244 - INFO - Event logged: Order Drink with ID 10583
+2025-05-26 22:49:05,244 - INFO - Triggered process 'Order Drink' (ID: 2277) from event 'Order Drink' (ID: 10583)
+2025-05-26 22:49:05,245 - INFO - Event logged: Customer Sign Up with ID 10584
+2025-05-26 22:49:05,245 - INFO - Triggered process 'Register Customer' (ID: 2278) from event 'Customer Sign Up' (ID: 10584)
+2025-05-26 22:49:05,245 - INFO - Event logged: Drink readied with ID 10585
+2025-05-26 22:49:05,246 - INFO - Event logged: Customer Walk Out with ID 10586
+2025-05-26 22:49:05,246 - INFO - Event logged: Walk In with ID 10587
+2025-05-26 22:49:05,246 - INFO - Event logged: Order Drink with ID 10588
+2025-05-26 22:49:05,247 - INFO - Triggered process 'Order Drink' (ID: 2279) from event 'Order Drink' (ID: 10588)
+2025-05-26 22:49:05,247 - INFO - Event logged: Customer Sign Up with ID 10589
+2025-05-26 22:49:05,248 - INFO - Triggered process 'Register Customer' (ID: 2280) from event 'Customer Sign Up' (ID: 10589)
+2025-05-26 22:49:05,248 - INFO - Event logged: Drink readied with ID 10590
+2025-05-26 22:49:05,248 - INFO - Event logged: Customer Walk Out with ID 10591
+2025-05-26 22:49:05,249 - INFO - Event logged: Walk In with ID 10592
+2025-05-26 22:49:05,249 - INFO - Event logged: Customer Walk Out with ID 10593
+2025-05-26 22:49:05,249 - INFO - Event logged: Walk In with ID 10594
+2025-05-26 22:49:05,250 - INFO - Event logged: Order Drink with ID 10595
+2025-05-26 22:49:05,250 - INFO - Triggered process 'Order Drink' (ID: 2281) from event 'Order Drink' (ID: 10595)
+2025-05-26 22:49:05,251 - INFO - Event logged: Customer Sign Up with ID 10596
+2025-05-26 22:49:05,251 - INFO - Triggered process 'Register Customer' (ID: 2282) from event 'Customer Sign Up' (ID: 10596)
+2025-05-26 22:49:05,251 - INFO - Event logged: Drink readied with ID 10597
+2025-05-26 22:49:05,252 - INFO - Event logged: Customer Walk Out with ID 10598
+2025-05-26 22:49:05,252 - INFO - Event logged: Walk In with ID 10599
+2025-05-26 22:49:05,252 - INFO - Event logged: Order Drink with ID 10600
+2025-05-26 22:49:05,253 - INFO - Triggered process 'Order Drink' (ID: 2283) from event 'Order Drink' (ID: 10600)
+2025-05-26 22:49:05,253 - INFO - Event logged: Customer Sign Up with ID 10601
+2025-05-26 22:49:05,254 - INFO - Triggered process 'Register Customer' (ID: 2284) from event 'Customer Sign Up' (ID: 10601)
+2025-05-26 22:49:05,254 - INFO - Event logged: Drink readied with ID 10602
+2025-05-26 22:49:05,254 - INFO - Event logged: Customer Walk Out with ID 10603
+2025-05-26 22:49:05,255 - INFO - Event logged: Walk In with ID 10604
+2025-05-26 22:49:05,255 - INFO - Event logged: Order Drink with ID 10605
+2025-05-26 22:49:05,255 - INFO - Triggered process 'Order Drink' (ID: 2285) from event 'Order Drink' (ID: 10605)
+2025-05-26 22:49:05,256 - INFO - Event logged: Customer Not Sign Up with ID 10606
+2025-05-26 22:49:05,256 - INFO - Event logged: Drink readied with ID 10607
+2025-05-26 22:49:05,256 - INFO - Event logged: Customer Walk Out with ID 10608
+2025-05-26 22:49:05,257 - INFO - Event logged: Walk In with ID 10609
+2025-05-26 22:49:05,257 - INFO - Event logged: Order Drink with ID 10610
+2025-05-26 22:49:05,258 - INFO - Triggered process 'Order Drink' (ID: 2286) from event 'Order Drink' (ID: 10610)
+2025-05-26 22:49:05,258 - INFO - Event logged: Customer Sign Up with ID 10611
+2025-05-26 22:49:05,259 - INFO - Triggered process 'Register Customer' (ID: 2287) from event 'Customer Sign Up' (ID: 10611)
+2025-05-26 22:49:05,259 - INFO - Event logged: Drink readied with ID 10612
+2025-05-26 22:49:05,259 - INFO - Event logged: Customer Walk Out with ID 10613
+2025-05-26 22:49:05,259 - INFO - Event logged: Walk In with ID 10614
+2025-05-26 22:49:05,260 - INFO - Event logged: Order Drink with ID 10615
+2025-05-26 22:49:05,260 - INFO - Triggered process 'Order Drink' (ID: 2288) from event 'Order Drink' (ID: 10615)
+2025-05-26 22:49:05,260 - INFO - Event logged: Customer Not Sign Up with ID 10616
+2025-05-26 22:49:05,261 - INFO - Event logged: Drink readied with ID 10617
+2025-05-26 22:49:05,261 - INFO - Event logged: Customer Walk Out with ID 10618
+2025-05-26 22:49:05,261 - INFO - Event logged: Walk In with ID 10619
+2025-05-26 22:49:05,262 - INFO - Event logged: Order Drink with ID 10620
+2025-05-26 22:49:05,262 - INFO - Triggered process 'Order Drink' (ID: 2289) from event 'Order Drink' (ID: 10620)
+2025-05-26 22:49:05,263 - INFO - Event logged: Customer Sign Up with ID 10621
+2025-05-26 22:49:05,263 - INFO - Triggered process 'Register Customer' (ID: 2290) from event 'Customer Sign Up' (ID: 10621)
+2025-05-26 22:49:05,263 - INFO - Event logged: Drink readied with ID 10622
+2025-05-26 22:49:05,263 - INFO - Event logged: Customer Walk Out with ID 10623
+2025-05-26 22:49:05,264 - INFO - Event logged: Walk In with ID 10624
+2025-05-26 22:49:05,264 - INFO - Event logged: Order Drink with ID 10625
+2025-05-26 22:49:05,264 - INFO - Triggered process 'Order Drink' (ID: 2291) from event 'Order Drink' (ID: 10625)
+2025-05-26 22:49:05,265 - INFO - Event logged: Customer Sign Up with ID 10626
+2025-05-26 22:49:05,265 - INFO - Triggered process 'Register Customer' (ID: 2292) from event 'Customer Sign Up' (ID: 10626)
+2025-05-26 22:49:05,265 - INFO - Event logged: Drink readied with ID 10627
+2025-05-26 22:49:05,266 - INFO - Event logged: Customer Walk Out with ID 10628
+2025-05-26 22:49:05,266 - INFO - Event logged: Walk In with ID 10629
+2025-05-26 22:49:05,266 - INFO - Event logged: Order Drink with ID 10630
+2025-05-26 22:49:05,267 - INFO - Triggered process 'Order Drink' (ID: 2293) from event 'Order Drink' (ID: 10630)
+2025-05-26 22:49:05,267 - INFO - Event logged: Customer Not Sign Up with ID 10631
+2025-05-26 22:49:05,268 - INFO - Event logged: Drink readied with ID 10632
+2025-05-26 22:49:05,268 - INFO - Event logged: Customer Walk Out with ID 10633
+2025-05-26 22:49:05,268 - INFO - Event logged: Walk In with ID 10634
+2025-05-26 22:49:05,269 - INFO - Event logged: Order Drink with ID 10635
+2025-05-26 22:49:05,269 - INFO - Triggered process 'Order Drink' (ID: 2294) from event 'Order Drink' (ID: 10635)
+2025-05-26 22:49:05,270 - INFO - Event logged: Customer Not Sign Up with ID 10636
+2025-05-26 22:49:05,270 - INFO - Event logged: Drink readied with ID 10637
+2025-05-26 22:49:05,270 - INFO - Event logged: Customer Walk Out with ID 10638
+2025-05-26 22:49:05,271 - INFO - Event logged: Walk In with ID 10639
+2025-05-26 22:49:05,271 - INFO - Event logged: Order Drink with ID 10640
+2025-05-26 22:49:05,271 - INFO - Triggered process 'Order Drink' (ID: 2295) from event 'Order Drink' (ID: 10640)
+2025-05-26 22:49:05,272 - INFO - Event logged: Customer Sign Up with ID 10641
+2025-05-26 22:49:05,272 - INFO - Triggered process 'Register Customer' (ID: 2296) from event 'Customer Sign Up' (ID: 10641)
+2025-05-26 22:49:05,272 - INFO - Event logged: Drink readied with ID 10642
+2025-05-26 22:49:05,273 - INFO - Event logged: Customer Walk Out with ID 10643
+2025-05-26 22:49:05,273 - INFO - Event logged: Walk In with ID 10644
+2025-05-26 22:49:05,273 - INFO - Event logged: Order Drink with ID 10645
+2025-05-26 22:49:05,274 - INFO - Triggered process 'Order Drink' (ID: 2297) from event 'Order Drink' (ID: 10645)
+2025-05-26 22:49:05,274 - INFO - Event logged: Customer Not Sign Up with ID 10646
+2025-05-26 22:49:05,275 - INFO - Event logged: Drink readied with ID 10647
+2025-05-26 22:49:05,275 - INFO - Event logged: Customer Walk Out with ID 10648
+2025-05-26 22:49:05,275 - INFO - Event logged: Walk In with ID 10649
+2025-05-26 22:49:05,276 - INFO - Event logged: Order Drink with ID 10650
+2025-05-26 22:49:05,276 - INFO - Triggered process 'Order Drink' (ID: 2298) from event 'Order Drink' (ID: 10650)
+2025-05-26 22:49:05,276 - INFO - Event logged: Customer Not Sign Up with ID 10651
+2025-05-26 22:49:05,277 - INFO - Event logged: Drink readied with ID 10652
+2025-05-26 22:49:05,277 - INFO - Event logged: Customer Walk Out with ID 10653
+2025-05-26 22:49:05,277 - INFO - Event logged: Walk In with ID 10654
+2025-05-26 22:49:05,278 - INFO - Event logged: Customer Walk Out with ID 10655
+2025-05-26 22:49:05,278 - INFO - Event logged: Walk In with ID 10656
+2025-05-26 22:49:05,278 - INFO - Event logged: Order Drink with ID 10657
+2025-05-26 22:49:05,279 - INFO - Triggered process 'Order Drink' (ID: 2299) from event 'Order Drink' (ID: 10657)
+2025-05-26 22:49:05,279 - INFO - Event logged: Customer Sign Up with ID 10658
+2025-05-26 22:49:05,279 - INFO - Triggered process 'Register Customer' (ID: 2300) from event 'Customer Sign Up' (ID: 10658)
+2025-05-26 22:49:05,280 - INFO - Event logged: Drink readied with ID 10659
+2025-05-26 22:49:05,280 - INFO - Event logged: Customer Walk Out with ID 10660
+2025-05-26 22:49:05,280 - INFO - Event logged: Walk In with ID 10661
+2025-05-26 22:49:05,281 - INFO - Event logged: Customer Walk Out with ID 10662
+2025-05-26 22:49:05,281 - INFO - Event logged: Walk In with ID 10663
+2025-05-26 22:49:05,281 - INFO - Event logged: Order Drink with ID 10664
+2025-05-26 22:49:05,282 - INFO - Triggered process 'Order Drink' (ID: 2301) from event 'Order Drink' (ID: 10664)
+2025-05-26 22:49:05,282 - INFO - Event logged: Customer Sign Up with ID 10665
+2025-05-26 22:49:05,283 - INFO - Triggered process 'Register Customer' (ID: 2302) from event 'Customer Sign Up' (ID: 10665)
+2025-05-26 22:49:05,283 - INFO - Event logged: Drink readied with ID 10666
+2025-05-26 22:49:05,283 - INFO - Event logged: Customer Walk Out with ID 10667
+2025-05-26 22:49:05,284 - INFO - Event logged: Walk In with ID 10668
+2025-05-26 22:49:05,284 - INFO - Event logged: Order Drink with ID 10669
+2025-05-26 22:49:05,284 - INFO - Triggered process 'Order Drink' (ID: 2303) from event 'Order Drink' (ID: 10669)
+2025-05-26 22:49:05,285 - INFO - Event logged: Customer Sign Up with ID 10670
+2025-05-26 22:49:05,285 - INFO - Triggered process 'Register Customer' (ID: 2304) from event 'Customer Sign Up' (ID: 10670)
+2025-05-26 22:49:05,285 - INFO - Event logged: Drink readied with ID 10671
+2025-05-26 22:49:05,286 - INFO - Event logged: Customer Walk Out with ID 10672
+2025-05-26 22:49:05,286 - INFO - Event logged: Walk In with ID 10673
+2025-05-26 22:49:05,286 - INFO - Event logged: Order Drink with ID 10674
+2025-05-26 22:49:05,287 - INFO - Triggered process 'Order Drink' (ID: 2305) from event 'Order Drink' (ID: 10674)
+2025-05-26 22:49:05,287 - INFO - Event logged: Customer Not Sign Up with ID 10675
+2025-05-26 22:49:05,288 - INFO - Event logged: Drink readied with ID 10676
+2025-05-26 22:49:05,288 - INFO - Event logged: Customer Walk Out with ID 10677
+2025-05-26 22:49:05,288 - INFO - Event logged: Walk In with ID 10678
+2025-05-26 22:49:05,289 - INFO - Event logged: Customer Walk Out with ID 10679
+2025-05-26 22:49:05,289 - INFO - Event logged: Walk In with ID 10680
+2025-05-26 22:49:05,289 - INFO - Event logged: Order Drink with ID 10681
+2025-05-26 22:49:05,290 - INFO - Triggered process 'Order Drink' (ID: 2306) from event 'Order Drink' (ID: 10681)
+2025-05-26 22:49:05,290 - INFO - Event logged: Customer Sign Up with ID 10682
+2025-05-26 22:49:05,290 - INFO - Triggered process 'Register Customer' (ID: 2307) from event 'Customer Sign Up' (ID: 10682)
+2025-05-26 22:49:05,291 - INFO - Event logged: Drink readied with ID 10683
+2025-05-26 22:49:05,291 - INFO - Event logged: Customer Walk Out with ID 10684
+2025-05-26 22:49:05,291 - INFO - Event logged: Walk In with ID 10685
+2025-05-26 22:49:05,292 - INFO - Event logged: Order Drink with ID 10686
+2025-05-26 22:49:05,292 - INFO - Triggered process 'Order Drink' (ID: 2308) from event 'Order Drink' (ID: 10686)
+2025-05-26 22:49:05,293 - INFO - Event logged: Customer Not Sign Up with ID 10687
+2025-05-26 22:49:05,293 - INFO - Event logged: Drink readied with ID 10688
+2025-05-26 22:49:05,293 - INFO - Event logged: Customer Walk Out with ID 10689
+2025-05-26 22:49:05,294 - INFO - Event logged: Walk In with ID 10690
+2025-05-26 22:49:05,294 - INFO - Event logged: Order Drink with ID 10691
+2025-05-26 22:49:05,294 - INFO - Triggered process 'Order Drink' (ID: 2309) from event 'Order Drink' (ID: 10691)
+2025-05-26 22:49:05,295 - INFO - Event logged: Customer Sign Up with ID 10692
+2025-05-26 22:49:05,295 - INFO - Triggered process 'Register Customer' (ID: 2310) from event 'Customer Sign Up' (ID: 10692)
+2025-05-26 22:49:05,295 - INFO - Event logged: Drink readied with ID 10693
+2025-05-26 22:49:05,296 - INFO - Event logged: Customer Walk Out with ID 10694
+2025-05-26 22:49:05,296 - INFO - Event logged: Walk In with ID 10695
+2025-05-26 22:49:05,296 - INFO - Event logged: Order Drink with ID 10696
+2025-05-26 22:49:05,297 - INFO - Triggered process 'Order Drink' (ID: 2311) from event 'Order Drink' (ID: 10696)
+2025-05-26 22:49:05,297 - INFO - Event logged: Customer Not Sign Up with ID 10697
+2025-05-26 22:49:05,297 - INFO - Event logged: Drink readied with ID 10698
+2025-05-26 22:49:05,298 - INFO - Event logged: Customer Walk Out with ID 10699
+2025-05-26 22:49:05,298 - INFO - Event logged: Walk In with ID 10700
+2025-05-26 22:49:05,299 - INFO - Event logged: Order Drink with ID 10701
+2025-05-26 22:49:05,299 - INFO - Triggered process 'Order Drink' (ID: 2312) from event 'Order Drink' (ID: 10701)
+2025-05-26 22:49:05,299 - INFO - Event logged: Customer Sign Up with ID 10702
+2025-05-26 22:49:05,300 - INFO - Triggered process 'Register Customer' (ID: 2313) from event 'Customer Sign Up' (ID: 10702)
+2025-05-26 22:49:05,300 - INFO - Event logged: Drink readied with ID 10703
+2025-05-26 22:49:05,300 - INFO - Event logged: Customer Walk Out with ID 10704
+2025-05-26 22:49:05,301 - INFO - Event logged: Walk In with ID 10705
+2025-05-26 22:49:05,301 - INFO - Event logged: Order Drink with ID 10706
+2025-05-26 22:49:05,301 - INFO - Triggered process 'Order Drink' (ID: 2314) from event 'Order Drink' (ID: 10706)
+2025-05-26 22:49:05,302 - INFO - Event logged: Customer Not Sign Up with ID 10707
+2025-05-26 22:49:05,302 - INFO - Event logged: Drink readied with ID 10708
+2025-05-26 22:49:05,302 - INFO - Event logged: Customer Walk Out with ID 10709
+2025-05-26 22:49:05,303 - INFO - Event logged: Walk In with ID 10710
+2025-05-26 22:49:05,303 - INFO - Event logged: Order Drink with ID 10711
+2025-05-26 22:49:05,303 - INFO - Triggered process 'Order Drink' (ID: 2315) from event 'Order Drink' (ID: 10711)
+2025-05-26 22:49:05,304 - INFO - Event logged: Customer Sign Up with ID 10712
+2025-05-26 22:49:05,304 - INFO - Triggered process 'Register Customer' (ID: 2316) from event 'Customer Sign Up' (ID: 10712)
+2025-05-26 22:49:05,304 - INFO - Event logged: Drink readied with ID 10713
+2025-05-26 22:49:05,305 - INFO - Event logged: Customer Walk Out with ID 10714
+2025-05-26 22:49:05,305 - INFO - Event logged: Walk In with ID 10715
+2025-05-26 22:49:05,305 - INFO - Event logged: Order Drink with ID 10716
+2025-05-26 22:49:05,306 - INFO - Triggered process 'Order Drink' (ID: 2317) from event 'Order Drink' (ID: 10716)
+2025-05-26 22:49:05,306 - INFO - Event logged: Customer Sign Up with ID 10717
+2025-05-26 22:49:05,307 - INFO - Triggered process 'Register Customer' (ID: 2318) from event 'Customer Sign Up' (ID: 10717)
+2025-05-26 22:49:05,307 - INFO - Event logged: Drink readied with ID 10718
+2025-05-26 22:49:05,307 - INFO - Event logged: Customer Walk Out with ID 10719
+2025-05-26 22:49:05,308 - INFO - Event logged: Walk In with ID 10720
+2025-05-26 22:49:05,308 - INFO - Event logged: Order Drink with ID 10721
+2025-05-26 22:49:05,308 - INFO - Triggered process 'Order Drink' (ID: 2319) from event 'Order Drink' (ID: 10721)
+2025-05-26 22:49:05,308 - INFO - Event logged: Customer Sign Up with ID 10722
+2025-05-26 22:49:05,308 - INFO - Triggered process 'Register Customer' (ID: 2320) from event 'Customer Sign Up' (ID: 10722)
+2025-05-26 22:49:05,309 - INFO - Event logged: Drink readied with ID 10723
+2025-05-26 22:49:05,309 - INFO - Event logged: Customer Walk Out with ID 10724
+2025-05-26 22:49:05,309 - INFO - Event logged: Walk In with ID 10725
+2025-05-26 22:49:05,309 - INFO - Event logged: Order Drink with ID 10726
+2025-05-26 22:49:05,310 - INFO - Triggered process 'Order Drink' (ID: 2321) from event 'Order Drink' (ID: 10726)
+2025-05-26 22:49:05,310 - INFO - Event logged: Customer Not Sign Up with ID 10727
+2025-05-26 22:49:05,310 - INFO - Event logged: Drink readied with ID 10728
+2025-05-26 22:49:05,310 - INFO - Event logged: Customer Walk Out with ID 10729
+2025-05-26 22:49:05,311 - INFO - Event logged: Walk In with ID 10730
+2025-05-26 22:49:05,311 - INFO - Event logged: Order Drink with ID 10731
+2025-05-26 22:49:05,311 - INFO - Triggered process 'Order Drink' (ID: 2322) from event 'Order Drink' (ID: 10731)
+2025-05-26 22:49:05,311 - INFO - Event logged: Customer Sign Up with ID 10732
+2025-05-26 22:49:05,312 - INFO - Triggered process 'Register Customer' (ID: 2323) from event 'Customer Sign Up' (ID: 10732)
+2025-05-26 22:49:05,312 - INFO - Event logged: Drink readied with ID 10733
+2025-05-26 22:49:05,312 - INFO - Event logged: Customer Walk Out with ID 10734
+2025-05-26 22:49:05,312 - INFO - Event logged: Walk In with ID 10735
+2025-05-26 22:49:05,313 - INFO - Event logged: Order Drink with ID 10736
+2025-05-26 22:49:05,313 - INFO - Triggered process 'Order Drink' (ID: 2324) from event 'Order Drink' (ID: 10736)
+2025-05-26 22:49:05,313 - INFO - Event logged: Customer Sign Up with ID 10737
+2025-05-26 22:49:05,314 - INFO - Triggered process 'Register Customer' (ID: 2325) from event 'Customer Sign Up' (ID: 10737)
+2025-05-26 22:49:05,314 - INFO - Event logged: Drink readied with ID 10738
+2025-05-26 22:49:05,314 - INFO - Event logged: Customer Walk Out with ID 10739
+2025-05-26 22:49:05,314 - INFO - Event logged: Walk In with ID 10740
+2025-05-26 22:49:05,315 - INFO - Event logged: Order Drink with ID 10741
+2025-05-26 22:49:05,315 - INFO - Triggered process 'Order Drink' (ID: 2326) from event 'Order Drink' (ID: 10741)
+2025-05-26 22:49:05,315 - INFO - Event logged: Customer Sign Up with ID 10742
+2025-05-26 22:49:05,316 - INFO - Triggered process 'Register Customer' (ID: 2327) from event 'Customer Sign Up' (ID: 10742)
+2025-05-26 22:49:05,316 - INFO - Event logged: Drink readied with ID 10743
+2025-05-26 22:49:05,316 - INFO - Event logged: Customer Walk Out with ID 10744
+2025-05-26 22:49:05,316 - INFO - Event logged: Walk In with ID 10745
+2025-05-26 22:49:05,317 - INFO - Event logged: Order Drink with ID 10746
+2025-05-26 22:49:05,317 - INFO - Triggered process 'Order Drink' (ID: 2328) from event 'Order Drink' (ID: 10746)
+2025-05-26 22:49:05,318 - INFO - Event logged: Customer Sign Up with ID 10747
+2025-05-26 22:49:05,318 - INFO - Triggered process 'Register Customer' (ID: 2329) from event 'Customer Sign Up' (ID: 10747)
+2025-05-26 22:49:05,318 - INFO - Event logged: Drink readied with ID 10748
+2025-05-26 22:49:05,319 - INFO - Event logged: Customer Walk Out with ID 10749
+2025-05-26 22:49:05,319 - INFO - Event logged: Walk In with ID 10750
+2025-05-26 22:49:05,319 - INFO - Event logged: Order Drink with ID 10751
+2025-05-26 22:49:05,320 - INFO - Triggered process 'Order Drink' (ID: 2330) from event 'Order Drink' (ID: 10751)
+2025-05-26 22:49:05,320 - INFO - Event logged: Customer Sign Up with ID 10752
+2025-05-26 22:49:05,320 - INFO - Triggered process 'Register Customer' (ID: 2331) from event 'Customer Sign Up' (ID: 10752)
+2025-05-26 22:49:05,321 - INFO - Event logged: Drink readied with ID 10753
+2025-05-26 22:49:05,321 - INFO - Event logged: Customer Walk Out with ID 10754
+2025-05-26 22:49:05,321 - INFO - Event logged: Walk In with ID 10755
+2025-05-26 22:49:05,322 - INFO - Event logged: Order Drink with ID 10756
+2025-05-26 22:49:05,322 - INFO - Triggered process 'Order Drink' (ID: 2332) from event 'Order Drink' (ID: 10756)
+2025-05-26 22:49:05,322 - INFO - Event logged: Customer Not Sign Up with ID 10757
+2025-05-26 22:49:05,322 - INFO - Event logged: Drink readied with ID 10758
+2025-05-26 22:49:05,323 - INFO - Event logged: Customer Walk Out with ID 10759
+2025-05-26 22:49:05,323 - INFO - Event logged: Walk In with ID 10760
+2025-05-26 22:49:05,323 - INFO - Event logged: Order Drink with ID 10761
+2025-05-26 22:49:05,324 - INFO - Triggered process 'Order Drink' (ID: 2333) from event 'Order Drink' (ID: 10761)
+2025-05-26 22:49:05,324 - INFO - Event logged: Customer Not Sign Up with ID 10762
+2025-05-26 22:49:05,324 - INFO - Event logged: Drink readied with ID 10763
+2025-05-26 22:49:05,324 - INFO - Event logged: Customer Walk Out with ID 10764
+2025-05-26 22:49:05,325 - INFO - Event logged: Walk In with ID 10765
+2025-05-26 22:49:05,325 - INFO - Event logged: Order Drink with ID 10766
+2025-05-26 22:49:05,325 - INFO - Triggered process 'Order Drink' (ID: 2334) from event 'Order Drink' (ID: 10766)
+2025-05-26 22:49:05,325 - INFO - Event logged: Customer Not Sign Up with ID 10767
+2025-05-26 22:49:05,326 - INFO - Event logged: Drink readied with ID 10768
+2025-05-26 22:49:05,326 - INFO - Event logged: Customer Walk Out with ID 10769
+2025-05-26 22:49:05,326 - INFO - Event logged: Walk In with ID 10770
+2025-05-26 22:49:05,327 - INFO - Event logged: Order Drink with ID 10771
+2025-05-26 22:49:05,327 - INFO - Triggered process 'Order Drink' (ID: 2335) from event 'Order Drink' (ID: 10771)
+2025-05-26 22:49:05,327 - INFO - Event logged: Customer Sign Up with ID 10772
+2025-05-26 22:49:05,327 - INFO - Triggered process 'Register Customer' (ID: 2336) from event 'Customer Sign Up' (ID: 10772)
+2025-05-26 22:49:05,328 - INFO - Event logged: Drink readied with ID 10773
+2025-05-26 22:49:05,328 - INFO - Event logged: Customer Walk Out with ID 10774
+2025-05-26 22:49:05,328 - INFO - Event logged: Walk In with ID 10775
+2025-05-26 22:49:05,328 - INFO - Event logged: Order Drink with ID 10776
+2025-05-26 22:49:05,329 - INFO - Triggered process 'Order Drink' (ID: 2337) from event 'Order Drink' (ID: 10776)
+2025-05-26 22:49:05,329 - INFO - Event logged: Customer Sign Up with ID 10777
+2025-05-26 22:49:05,329 - INFO - Triggered process 'Register Customer' (ID: 2338) from event 'Customer Sign Up' (ID: 10777)
+2025-05-26 22:49:05,330 - INFO - Event logged: Drink readied with ID 10778
+2025-05-26 22:49:05,330 - INFO - Event logged: Customer Walk Out with ID 10779
+2025-05-26 22:49:05,330 - INFO - Event logged: Walk In with ID 10780
+2025-05-26 22:49:05,331 - INFO - Event logged: Order Drink with ID 10781
+2025-05-26 22:49:05,331 - INFO - Triggered process 'Order Drink' (ID: 2339) from event 'Order Drink' (ID: 10781)
+2025-05-26 22:49:05,331 - INFO - Event logged: Customer Not Sign Up with ID 10782
+2025-05-26 22:49:05,331 - INFO - Event logged: Drink readied with ID 10783
+2025-05-26 22:49:05,332 - INFO - Event logged: Customer Walk Out with ID 10784
+2025-05-26 22:49:05,332 - INFO - Event logged: Walk In with ID 10785
+2025-05-26 22:49:05,332 - INFO - Event logged: Customer Walk Out with ID 10786
+2025-05-26 22:49:05,332 - INFO - Event logged: Walk In with ID 10787
+2025-05-26 22:49:05,333 - INFO - Event logged: Order Drink with ID 10788
+2025-05-26 22:49:05,333 - INFO - Triggered process 'Order Drink' (ID: 2340) from event 'Order Drink' (ID: 10788)
+2025-05-26 22:49:05,333 - INFO - Event logged: Customer Sign Up with ID 10789
+2025-05-26 22:49:05,334 - INFO - Triggered process 'Register Customer' (ID: 2341) from event 'Customer Sign Up' (ID: 10789)
+2025-05-26 22:49:05,334 - INFO - Event logged: Drink readied with ID 10790
+2025-05-26 22:49:05,334 - INFO - Event logged: Customer Walk Out with ID 10791
+2025-05-26 22:49:05,334 - INFO - Event logged: Walk In with ID 10792
+2025-05-26 22:49:05,335 - INFO - Event logged: Customer Walk Out with ID 10793
+2025-05-26 22:49:05,335 - INFO - Event logged: Walk In with ID 10794
+2025-05-26 22:49:05,335 - INFO - Event logged: Order Drink with ID 10795
+2025-05-26 22:49:05,336 - INFO - Triggered process 'Order Drink' (ID: 2342) from event 'Order Drink' (ID: 10795)
+2025-05-26 22:49:05,336 - INFO - Event logged: Customer Sign Up with ID 10796
+2025-05-26 22:49:05,336 - INFO - Triggered process 'Register Customer' (ID: 2343) from event 'Customer Sign Up' (ID: 10796)
+2025-05-26 22:49:05,337 - INFO - Event logged: Drink readied with ID 10797
+2025-05-26 22:49:05,337 - INFO - Event logged: Customer Walk Out with ID 10798
+2025-05-26 22:49:05,337 - INFO - Event logged: Walk In with ID 10799
+2025-05-26 22:49:05,338 - INFO - Event logged: Order Drink with ID 10800
+2025-05-26 22:49:05,338 - INFO - Triggered process 'Order Drink' (ID: 2344) from event 'Order Drink' (ID: 10800)
+2025-05-26 22:49:05,338 - INFO - Event logged: Customer Sign Up with ID 10801
+2025-05-26 22:49:05,339 - INFO - Triggered process 'Register Customer' (ID: 2345) from event 'Customer Sign Up' (ID: 10801)
+2025-05-26 22:49:05,339 - INFO - Event logged: Drink readied with ID 10802
+2025-05-26 22:49:05,339 - INFO - Event logged: Customer Walk Out with ID 10803
+2025-05-26 22:49:05,339 - INFO - Event logged: Walk In with ID 10804
+2025-05-26 22:49:05,340 - INFO - Event logged: Order Drink with ID 10805
+2025-05-26 22:49:05,340 - INFO - Triggered process 'Order Drink' (ID: 2346) from event 'Order Drink' (ID: 10805)
+2025-05-26 22:49:05,340 - INFO - Event logged: Customer Sign Up with ID 10806
+2025-05-26 22:49:05,341 - INFO - Triggered process 'Register Customer' (ID: 2347) from event 'Customer Sign Up' (ID: 10806)
+2025-05-26 22:49:05,341 - INFO - Event logged: Drink readied with ID 10807
+2025-05-26 22:49:05,341 - INFO - Event logged: Customer Walk Out with ID 10808
+2025-05-26 22:49:05,341 - INFO - Event logged: Walk In with ID 10809
+2025-05-26 22:49:05,342 - INFO - Event logged: Order Drink with ID 10810
+2025-05-26 22:49:05,342 - INFO - Triggered process 'Order Drink' (ID: 2348) from event 'Order Drink' (ID: 10810)
+2025-05-26 22:49:05,342 - INFO - Event logged: Customer Sign Up with ID 10811
+2025-05-26 22:49:05,343 - INFO - Triggered process 'Register Customer' (ID: 2349) from event 'Customer Sign Up' (ID: 10811)
+2025-05-26 22:49:05,343 - INFO - Event logged: Drink readied with ID 10812
+2025-05-26 22:49:05,343 - INFO - Event logged: Customer Walk Out with ID 10813
+2025-05-26 22:49:05,343 - INFO - Event logged: Walk In with ID 10814
+2025-05-26 22:49:05,344 - INFO - Event logged: Order Drink with ID 10815
+2025-05-26 22:49:05,344 - INFO - Triggered process 'Order Drink' (ID: 2350) from event 'Order Drink' (ID: 10815)
+2025-05-26 22:49:05,344 - INFO - Event logged: Customer Sign Up with ID 10816
+2025-05-26 22:49:05,345 - INFO - Triggered process 'Register Customer' (ID: 2351) from event 'Customer Sign Up' (ID: 10816)
+2025-05-26 22:49:05,345 - INFO - Event logged: Drink readied with ID 10817
+2025-05-26 22:49:05,345 - INFO - Event logged: Customer Walk Out with ID 10818
+2025-05-26 22:49:05,345 - INFO - Event logged: Walk In with ID 10819
+2025-05-26 22:49:05,346 - INFO - Event logged: Order Drink with ID 10820
+2025-05-26 22:49:05,346 - INFO - Triggered process 'Order Drink' (ID: 2352) from event 'Order Drink' (ID: 10820)
+2025-05-26 22:49:05,346 - INFO - Event logged: Customer Sign Up with ID 10821
+2025-05-26 22:49:05,346 - INFO - Triggered process 'Register Customer' (ID: 2353) from event 'Customer Sign Up' (ID: 10821)
+2025-05-26 22:49:05,347 - INFO - Event logged: Drink readied with ID 10822
+2025-05-26 22:49:05,347 - INFO - Event logged: Customer Walk Out with ID 10823
+2025-05-26 22:49:05,347 - INFO - Event logged: Walk In with ID 10824
+2025-05-26 22:49:05,347 - INFO - Event logged: Order Drink with ID 10825
+2025-05-26 22:49:05,347 - INFO - Triggered process 'Order Drink' (ID: 2354) from event 'Order Drink' (ID: 10825)
+2025-05-26 22:49:05,348 - INFO - Event logged: Customer Sign Up with ID 10826
+2025-05-26 22:49:05,348 - INFO - Triggered process 'Register Customer' (ID: 2355) from event 'Customer Sign Up' (ID: 10826)
+2025-05-26 22:49:05,348 - INFO - Event logged: Drink readied with ID 10827
+2025-05-26 22:49:05,348 - INFO - Event logged: Customer Walk Out with ID 10828
+2025-05-26 22:49:05,349 - INFO - Event logged: Walk In with ID 10829
+2025-05-26 22:49:05,349 - INFO - Event logged: Order Drink with ID 10830
+2025-05-26 22:49:05,349 - INFO - Triggered process 'Order Drink' (ID: 2356) from event 'Order Drink' (ID: 10830)
+2025-05-26 22:49:05,349 - INFO - Event logged: Customer Not Sign Up with ID 10831
+2025-05-26 22:49:05,349 - INFO - Event logged: Drink readied with ID 10832
+2025-05-26 22:49:05,350 - INFO - Event logged: Customer Walk Out with ID 10833
+2025-05-26 22:49:05,350 - INFO - Event logged: Walk In with ID 10834
+2025-05-26 22:49:05,350 - INFO - Event logged: Customer Walk Out with ID 10835
+2025-05-26 22:49:05,350 - INFO - Event logged: Walk In with ID 10836
+2025-05-26 22:49:05,350 - INFO - Event logged: Order Drink with ID 10837
+2025-05-26 22:49:05,351 - INFO - Triggered process 'Order Drink' (ID: 2357) from event 'Order Drink' (ID: 10837)
+2025-05-26 22:49:05,351 - INFO - Event logged: Customer Not Sign Up with ID 10838
+2025-05-26 22:49:05,351 - INFO - Event logged: Drink readied with ID 10839
+2025-05-26 22:49:05,352 - INFO - Event logged: Customer Walk Out with ID 10840
+2025-05-26 22:49:05,352 - INFO - Event logged: Walk In with ID 10841
+2025-05-26 22:49:05,352 - INFO - Event logged: Customer Walk Out with ID 10842
+2025-05-26 22:49:05,352 - INFO - Event logged: Walk In with ID 10843
+2025-05-26 22:49:05,353 - INFO - Event logged: Order Drink with ID 10844
+2025-05-26 22:49:05,353 - INFO - Triggered process 'Order Drink' (ID: 2358) from event 'Order Drink' (ID: 10844)
+2025-05-26 22:49:05,353 - INFO - Event logged: Customer Not Sign Up with ID 10845
+2025-05-26 22:49:05,354 - INFO - Event logged: Drink readied with ID 10846
+2025-05-26 22:49:05,354 - INFO - Event logged: Customer Walk Out with ID 10847
+2025-05-26 22:49:05,354 - INFO - Event logged: Walk In with ID 10848
+2025-05-26 22:49:05,354 - INFO - Event logged: Customer Walk Out with ID 10849
+2025-05-26 22:49:05,355 - INFO - Event logged: Walk In with ID 10850
+2025-05-26 22:49:05,355 - INFO - Event logged: Order Drink with ID 10851
+2025-05-26 22:49:05,355 - INFO - Triggered process 'Order Drink' (ID: 2359) from event 'Order Drink' (ID: 10851)
+2025-05-26 22:49:05,356 - INFO - Event logged: Customer Sign Up with ID 10852
+2025-05-26 22:49:05,356 - INFO - Triggered process 'Register Customer' (ID: 2360) from event 'Customer Sign Up' (ID: 10852)
+2025-05-26 22:49:05,357 - INFO - Event logged: Drink readied with ID 10853
+2025-05-26 22:49:05,357 - INFO - Event logged: Customer Walk Out with ID 10854
+2025-05-26 22:49:05,357 - INFO - Event logged: Walk In with ID 10855
+2025-05-26 22:49:05,357 - INFO - Event logged: Order Drink with ID 10856
+2025-05-26 22:49:05,358 - INFO - Triggered process 'Order Drink' (ID: 2361) from event 'Order Drink' (ID: 10856)
+2025-05-26 22:49:05,358 - INFO - Event logged: Customer Sign Up with ID 10857
+2025-05-26 22:49:05,358 - INFO - Triggered process 'Register Customer' (ID: 2362) from event 'Customer Sign Up' (ID: 10857)
+2025-05-26 22:49:05,359 - INFO - Event logged: Drink readied with ID 10858
+2025-05-26 22:49:05,359 - INFO - Event logged: Customer Walk Out with ID 10859
+2025-05-26 22:49:05,359 - INFO - Event logged: Walk In with ID 10860
+2025-05-26 22:49:05,360 - INFO - Event logged: Order Drink with ID 10861
+2025-05-26 22:49:05,360 - INFO - Triggered process 'Order Drink' (ID: 2363) from event 'Order Drink' (ID: 10861)
+2025-05-26 22:49:05,360 - INFO - Event logged: Customer Not Sign Up with ID 10862
+2025-05-26 22:49:05,361 - INFO - Event logged: Drink readied with ID 10863
+2025-05-26 22:49:05,361 - INFO - Event logged: Customer Walk Out with ID 10864
+2025-05-26 22:49:05,361 - INFO - Event logged: Walk In with ID 10865
+2025-05-26 22:49:05,362 - INFO - Event logged: Customer Walk Out with ID 10866
+2025-05-26 22:49:05,362 - INFO - Event logged: Walk In with ID 10867
+2025-05-26 22:49:05,362 - INFO - Event logged: Order Drink with ID 10868
+2025-05-26 22:49:05,362 - INFO - Triggered process 'Order Drink' (ID: 2364) from event 'Order Drink' (ID: 10868)
+2025-05-26 22:49:05,363 - INFO - Event logged: Customer Sign Up with ID 10869
+2025-05-26 22:49:05,363 - INFO - Triggered process 'Register Customer' (ID: 2365) from event 'Customer Sign Up' (ID: 10869)
+2025-05-26 22:49:05,363 - INFO - Event logged: Drink readied with ID 10870
+2025-05-26 22:49:05,363 - INFO - Event logged: Customer Walk Out with ID 10871
+2025-05-26 22:49:05,363 - INFO - Event logged: Walk In with ID 10872
+2025-05-26 22:49:05,364 - INFO - Event logged: Order Drink with ID 10873
+2025-05-26 22:49:05,364 - INFO - Triggered process 'Order Drink' (ID: 2366) from event 'Order Drink' (ID: 10873)
+2025-05-26 22:49:05,364 - INFO - Event logged: Customer Sign Up with ID 10874
+2025-05-26 22:49:05,364 - INFO - Triggered process 'Register Customer' (ID: 2367) from event 'Customer Sign Up' (ID: 10874)
+2025-05-26 22:49:05,365 - INFO - Event logged: Drink readied with ID 10875
+2025-05-26 22:49:05,365 - INFO - Event logged: Customer Walk Out with ID 10876
+2025-05-26 22:49:05,365 - INFO - Event logged: Walk In with ID 10877
+2025-05-26 22:49:05,365 - INFO - Event logged: Order Drink with ID 10878
+2025-05-26 22:49:05,365 - INFO - Triggered process 'Order Drink' (ID: 2368) from event 'Order Drink' (ID: 10878)
+2025-05-26 22:49:05,365 - INFO - Event logged: Customer Not Sign Up with ID 10879
+2025-05-26 22:49:05,366 - INFO - Event logged: Drink readied with ID 10880
+2025-05-26 22:49:05,366 - INFO - Event logged: Customer Walk Out with ID 10881
+2025-05-26 22:49:05,366 - INFO - Event logged: Walk In with ID 10882
+2025-05-26 22:49:05,366 - INFO - Event logged: Order Drink with ID 10883
+2025-05-26 22:49:05,367 - INFO - Triggered process 'Order Drink' (ID: 2369) from event 'Order Drink' (ID: 10883)
+2025-05-26 22:49:05,367 - INFO - Event logged: Customer Sign Up with ID 10884
+2025-05-26 22:49:05,367 - INFO - Triggered process 'Register Customer' (ID: 2370) from event 'Customer Sign Up' (ID: 10884)
+2025-05-26 22:49:05,367 - INFO - Event logged: Drink readied with ID 10885
+2025-05-26 22:49:05,367 - INFO - Event logged: Customer Walk Out with ID 10886
+2025-05-26 22:49:05,368 - INFO - Event logged: Walk In with ID 10887
+2025-05-26 22:49:05,368 - INFO - Event logged: Order Drink with ID 10888
+2025-05-26 22:49:05,368 - INFO - Triggered process 'Order Drink' (ID: 2371) from event 'Order Drink' (ID: 10888)
+2025-05-26 22:49:05,368 - INFO - Event logged: Customer Sign Up with ID 10889
+2025-05-26 22:49:05,369 - INFO - Triggered process 'Register Customer' (ID: 2372) from event 'Customer Sign Up' (ID: 10889)
+2025-05-26 22:49:05,369 - INFO - Event logged: Drink readied with ID 10890
+2025-05-26 22:49:05,369 - INFO - Event logged: Customer Walk Out with ID 10891
+2025-05-26 22:49:05,369 - INFO - Event logged: Walk In with ID 10892
+2025-05-26 22:49:05,369 - INFO - Event logged: Order Drink with ID 10893
+2025-05-26 22:49:05,370 - INFO - Triggered process 'Order Drink' (ID: 2373) from event 'Order Drink' (ID: 10893)
+2025-05-26 22:49:05,370 - INFO - Event logged: Customer Sign Up with ID 10894
+2025-05-26 22:49:05,370 - INFO - Triggered process 'Register Customer' (ID: 2374) from event 'Customer Sign Up' (ID: 10894)
+2025-05-26 22:49:05,370 - INFO - Event logged: Drink readied with ID 10895
+2025-05-26 22:49:05,370 - INFO - Event logged: Customer Walk Out with ID 10896
+2025-05-26 22:49:05,371 - INFO - Event logged: Walk In with ID 10897
+2025-05-26 22:49:05,371 - INFO - Event logged: Order Drink with ID 10898
+2025-05-26 22:49:05,372 - INFO - Triggered process 'Order Drink' (ID: 2375) from event 'Order Drink' (ID: 10898)
+2025-05-26 22:49:05,372 - INFO - Event logged: Customer Not Sign Up with ID 10899
+2025-05-26 22:49:05,372 - INFO - Event logged: Drink readied with ID 10900
+2025-05-26 22:49:05,372 - INFO - Event logged: Customer Walk Out with ID 10901
+2025-05-26 22:49:05,373 - INFO - Event logged: Walk In with ID 10902
+2025-05-26 22:49:05,373 - INFO - Event logged: Order Drink with ID 10903
+2025-05-26 22:49:05,373 - INFO - Triggered process 'Order Drink' (ID: 2376) from event 'Order Drink' (ID: 10903)
+2025-05-26 22:49:05,373 - INFO - Event logged: Customer Sign Up with ID 10904
+2025-05-26 22:49:05,374 - INFO - Triggered process 'Register Customer' (ID: 2377) from event 'Customer Sign Up' (ID: 10904)
+2025-05-26 22:49:05,374 - INFO - Event logged: Drink readied with ID 10905
+2025-05-26 22:49:05,374 - INFO - Event logged: Customer Walk Out with ID 10906
+2025-05-26 22:49:05,375 - INFO - Event logged: Walk In with ID 10907
+2025-05-26 22:49:05,375 - INFO - Event logged: Order Drink with ID 10908
+2025-05-26 22:49:05,375 - INFO - Triggered process 'Order Drink' (ID: 2378) from event 'Order Drink' (ID: 10908)
+2025-05-26 22:49:05,375 - INFO - Event logged: Customer Not Sign Up with ID 10909
+2025-05-26 22:49:05,376 - INFO - Event logged: Drink readied with ID 10910
+2025-05-26 22:49:05,376 - INFO - Event logged: Customer Walk Out with ID 10911
+2025-05-26 22:49:05,376 - INFO - Event logged: Walk In with ID 10912
+2025-05-26 22:49:05,376 - INFO - Event logged: Order Drink with ID 10913
+2025-05-26 22:49:05,377 - INFO - Triggered process 'Order Drink' (ID: 2379) from event 'Order Drink' (ID: 10913)
+2025-05-26 22:49:05,377 - INFO - Event logged: Customer Sign Up with ID 10914
+2025-05-26 22:49:05,377 - INFO - Triggered process 'Register Customer' (ID: 2380) from event 'Customer Sign Up' (ID: 10914)
+2025-05-26 22:49:05,378 - INFO - Event logged: Drink readied with ID 10915
+2025-05-26 22:49:05,378 - INFO - Event logged: Customer Walk Out with ID 10916
+2025-05-26 22:49:05,378 - INFO - Event logged: Walk In with ID 10917
+2025-05-26 22:49:05,378 - INFO - Event logged: Order Drink with ID 10918
+2025-05-26 22:49:05,379 - INFO - Triggered process 'Order Drink' (ID: 2381) from event 'Order Drink' (ID: 10918)
+2025-05-26 22:49:05,379 - INFO - Event logged: Customer Not Sign Up with ID 10919
+2025-05-26 22:49:05,379 - INFO - Event logged: Drink readied with ID 10920
+2025-05-26 22:49:05,379 - INFO - Event logged: Customer Walk Out with ID 10921
+2025-05-26 22:49:05,380 - INFO - Event logged: Walk In with ID 10922
+2025-05-26 22:49:05,380 - INFO - Event logged: Order Drink with ID 10923
+2025-05-26 22:49:05,380 - INFO - Triggered process 'Order Drink' (ID: 2382) from event 'Order Drink' (ID: 10923)
+2025-05-26 22:49:05,381 - INFO - Event logged: Customer Sign Up with ID 10924
+2025-05-26 22:49:05,381 - INFO - Triggered process 'Register Customer' (ID: 2383) from event 'Customer Sign Up' (ID: 10924)
+2025-05-26 22:49:05,381 - INFO - Event logged: Drink readied with ID 10925
+2025-05-26 22:49:05,381 - INFO - Event logged: Customer Walk Out with ID 10926
+2025-05-26 22:49:05,382 - INFO - Event logged: Walk In with ID 10927
+2025-05-26 22:49:05,382 - INFO - Event logged: Order Drink with ID 10928
+2025-05-26 22:49:05,382 - INFO - Triggered process 'Order Drink' (ID: 2384) from event 'Order Drink' (ID: 10928)
+2025-05-26 22:49:05,383 - INFO - Event logged: Customer Sign Up with ID 10929
+2025-05-26 22:49:05,383 - INFO - Triggered process 'Register Customer' (ID: 2385) from event 'Customer Sign Up' (ID: 10929)
+2025-05-26 22:49:05,383 - INFO - Event logged: Drink readied with ID 10930
+2025-05-26 22:49:05,383 - INFO - Event logged: Customer Walk Out with ID 10931
+2025-05-26 22:49:05,384 - INFO - Event logged: Walk In with ID 10932
+2025-05-26 22:49:05,384 - INFO - Event logged: Order Drink with ID 10933
+2025-05-26 22:49:05,385 - INFO - Triggered process 'Order Drink' (ID: 2386) from event 'Order Drink' (ID: 10933)
+2025-05-26 22:49:05,385 - INFO - Event logged: Customer Not Sign Up with ID 10934
+2025-05-26 22:49:05,385 - INFO - Event logged: Drink readied with ID 10935
+2025-05-26 22:49:05,385 - INFO - Event logged: Customer Walk Out with ID 10936
+2025-05-26 22:49:05,386 - INFO - Event logged: Walk In with ID 10937
+2025-05-26 22:49:05,386 - INFO - Event logged: Order Drink with ID 10938
+2025-05-26 22:49:05,386 - INFO - Triggered process 'Order Drink' (ID: 2387) from event 'Order Drink' (ID: 10938)
+2025-05-26 22:49:05,386 - INFO - Event logged: Customer Sign Up with ID 10939
+2025-05-26 22:49:05,387 - INFO - Triggered process 'Register Customer' (ID: 2388) from event 'Customer Sign Up' (ID: 10939)
+2025-05-26 22:49:05,387 - INFO - Event logged: Drink readied with ID 10940
+2025-05-26 22:49:05,387 - INFO - Event logged: Customer Walk Out with ID 10941
+2025-05-26 22:49:05,388 - INFO - Event logged: Walk In with ID 10942
+2025-05-26 22:49:05,388 - INFO - Event logged: Order Drink with ID 10943
+2025-05-26 22:49:05,388 - INFO - Triggered process 'Order Drink' (ID: 2389) from event 'Order Drink' (ID: 10943)
+2025-05-26 22:49:05,388 - INFO - Event logged: Customer Not Sign Up with ID 10944
+2025-05-26 22:49:05,389 - INFO - Event logged: Drink readied with ID 10945
+2025-05-26 22:49:05,389 - INFO - Event logged: Customer Walk Out with ID 10946
+2025-05-26 22:49:05,389 - INFO - Event logged: Walk In with ID 10947
+2025-05-26 22:49:05,389 - INFO - Event logged: Order Drink with ID 10948
+2025-05-26 22:49:05,390 - INFO - Triggered process 'Order Drink' (ID: 2390) from event 'Order Drink' (ID: 10948)
+2025-05-26 22:49:05,390 - INFO - Event logged: Customer Not Sign Up with ID 10949
+2025-05-26 22:49:05,390 - INFO - Event logged: Drink readied with ID 10950
+2025-05-26 22:49:05,390 - INFO - Event logged: Customer Walk Out with ID 10951
+2025-05-26 22:49:05,390 - INFO - Event logged: Walk In with ID 10952
+2025-05-26 22:49:05,391 - INFO - Event logged: Order Drink with ID 10953
+2025-05-26 22:49:05,391 - INFO - Triggered process 'Order Drink' (ID: 2391) from event 'Order Drink' (ID: 10953)
+2025-05-26 22:49:05,391 - INFO - Event logged: Customer Sign Up with ID 10954
+2025-05-26 22:49:05,391 - INFO - Triggered process 'Register Customer' (ID: 2392) from event 'Customer Sign Up' (ID: 10954)
+2025-05-26 22:49:05,391 - INFO - Event logged: Drink readied with ID 10955
+2025-05-26 22:49:05,392 - INFO - Event logged: Customer Walk Out with ID 10956
+2025-05-26 22:49:05,392 - INFO - Event logged: Walk In with ID 10957
+2025-05-26 22:49:05,392 - INFO - Event logged: Order Drink with ID 10958
+2025-05-26 22:49:05,392 - INFO - Triggered process 'Order Drink' (ID: 2393) from event 'Order Drink' (ID: 10958)
+2025-05-26 22:49:05,392 - INFO - Event logged: Customer Sign Up with ID 10959
+2025-05-26 22:49:05,393 - INFO - Triggered process 'Register Customer' (ID: 2394) from event 'Customer Sign Up' (ID: 10959)
+2025-05-26 22:49:05,393 - INFO - Event logged: Drink readied with ID 10960
+2025-05-26 22:49:05,393 - INFO - Event logged: Customer Walk Out with ID 10961
+2025-05-26 22:49:05,393 - INFO - Event logged: Walk In with ID 10962
+2025-05-26 22:49:05,393 - INFO - Event logged: Order Drink with ID 10963
+2025-05-26 22:49:05,394 - INFO - Triggered process 'Order Drink' (ID: 2395) from event 'Order Drink' (ID: 10963)
+2025-05-26 22:49:05,394 - INFO - Event logged: Customer Sign Up with ID 10964
+2025-05-26 22:49:05,394 - INFO - Triggered process 'Register Customer' (ID: 2396) from event 'Customer Sign Up' (ID: 10964)
+2025-05-26 22:49:05,395 - INFO - Event logged: Drink readied with ID 10965
+2025-05-26 22:49:05,395 - INFO - Event logged: Customer Walk Out with ID 10966
+2025-05-26 22:49:05,395 - INFO - Event logged: Walk In with ID 10967
+2025-05-26 22:49:05,395 - INFO - Event logged: Order Drink with ID 10968
+2025-05-26 22:49:05,396 - INFO - Triggered process 'Order Drink' (ID: 2397) from event 'Order Drink' (ID: 10968)
+2025-05-26 22:49:05,396 - INFO - Event logged: Customer Not Sign Up with ID 10969
+2025-05-26 22:49:05,396 - INFO - Event logged: Drink readied with ID 10970
+2025-05-26 22:49:05,397 - INFO - Event logged: Customer Walk Out with ID 10971
+2025-05-26 22:49:05,397 - INFO - Event logged: Walk In with ID 10972
+2025-05-26 22:49:05,397 - INFO - Event logged: Customer Walk Out with ID 10973
+2025-05-26 22:49:05,397 - INFO - Event logged: Walk In with ID 10974
+2025-05-26 22:49:05,398 - INFO - Event logged: Order Drink with ID 10975
+2025-05-26 22:49:05,398 - INFO - Triggered process 'Order Drink' (ID: 2398) from event 'Order Drink' (ID: 10975)
+2025-05-26 22:49:05,398 - INFO - Event logged: Customer Sign Up with ID 10976
+2025-05-26 22:49:05,399 - INFO - Triggered process 'Register Customer' (ID: 2399) from event 'Customer Sign Up' (ID: 10976)
+2025-05-26 22:49:05,399 - INFO - Event logged: Drink readied with ID 10977
+2025-05-26 22:49:05,399 - INFO - Event logged: Customer Walk Out with ID 10978
+2025-05-26 22:49:05,399 - INFO - Event logged: Walk In with ID 10979
+2025-05-26 22:49:05,400 - INFO - Event logged: Order Drink with ID 10980
+2025-05-26 22:49:05,400 - INFO - Triggered process 'Order Drink' (ID: 2400) from event 'Order Drink' (ID: 10980)
+2025-05-26 22:49:05,400 - INFO - Event logged: Customer Not Sign Up with ID 10981
+2025-05-26 22:49:05,400 - INFO - Event logged: Drink readied with ID 10982
+2025-05-26 22:49:05,401 - INFO - Event logged: Customer Walk Out with ID 10983
+2025-05-26 22:49:05,401 - INFO - Event logged: Walk In with ID 10984
+2025-05-26 22:49:05,401 - INFO - Event logged: Order Drink with ID 10985
+2025-05-26 22:49:05,402 - INFO - Triggered process 'Order Drink' (ID: 2401) from event 'Order Drink' (ID: 10985)
+2025-05-26 22:49:05,402 - INFO - Event logged: Customer Not Sign Up with ID 10986
+2025-05-26 22:49:05,403 - INFO - Event logged: Drink readied with ID 10987
+2025-05-26 22:49:05,403 - INFO - Event logged: Customer Walk Out with ID 10988
+2025-05-26 22:49:05,403 - INFO - Event logged: Walk In with ID 10989
+2025-05-26 22:49:05,403 - INFO - Event logged: Order Drink with ID 10990
+2025-05-26 22:49:05,404 - INFO - Triggered process 'Order Drink' (ID: 2402) from event 'Order Drink' (ID: 10990)
+2025-05-26 22:49:05,404 - INFO - Event logged: Customer Not Sign Up with ID 10991
+2025-05-26 22:49:05,404 - INFO - Event logged: Drink readied with ID 10992
+2025-05-26 22:49:05,404 - INFO - Event logged: Customer Walk Out with ID 10993
+2025-05-26 22:49:05,405 - INFO - Event logged: Walk In with ID 10994
+2025-05-26 22:49:05,405 - INFO - Event logged: Order Drink with ID 10995
+2025-05-26 22:49:05,405 - INFO - Triggered process 'Order Drink' (ID: 2403) from event 'Order Drink' (ID: 10995)
+2025-05-26 22:49:05,406 - INFO - Event logged: Customer Sign Up with ID 10996
+2025-05-26 22:49:05,406 - INFO - Triggered process 'Register Customer' (ID: 2404) from event 'Customer Sign Up' (ID: 10996)
+2025-05-26 22:49:05,406 - INFO - Event logged: Drink readied with ID 10997
+2025-05-26 22:49:05,407 - INFO - Event logged: Customer Walk Out with ID 10998
+2025-05-26 22:49:05,407 - INFO - Event logged: Walk In with ID 10999
+2025-05-26 22:49:05,407 - INFO - Event logged: Order Drink with ID 11000
+2025-05-26 22:49:05,408 - INFO - Triggered process 'Order Drink' (ID: 2405) from event 'Order Drink' (ID: 11000)
+2025-05-26 22:49:05,408 - INFO - Event logged: Customer Sign Up with ID 11001
+2025-05-26 22:49:05,408 - INFO - Triggered process 'Register Customer' (ID: 2406) from event 'Customer Sign Up' (ID: 11001)
+2025-05-26 22:49:05,408 - INFO - Event logged: Drink readied with ID 11002
+2025-05-26 22:49:05,409 - INFO - Event logged: Customer Walk Out with ID 11003
+2025-05-26 22:49:05,409 - INFO - Event logged: Walk In with ID 11004
+2025-05-26 22:49:05,409 - INFO - Event logged: Order Drink with ID 11005
+2025-05-26 22:49:05,409 - INFO - Triggered process 'Order Drink' (ID: 2407) from event 'Order Drink' (ID: 11005)
+2025-05-26 22:49:05,410 - INFO - Event logged: Customer Sign Up with ID 11006
+2025-05-26 22:49:05,410 - INFO - Triggered process 'Register Customer' (ID: 2408) from event 'Customer Sign Up' (ID: 11006)
+2025-05-26 22:49:05,410 - INFO - Event logged: Drink readied with ID 11007
+2025-05-26 22:49:05,410 - INFO - Event logged: Customer Walk Out with ID 11008
+2025-05-26 22:49:05,411 - INFO - Event logged: Walk In with ID 11009
+2025-05-26 22:49:05,411 - INFO - Event logged: Order Drink with ID 11010
+2025-05-26 22:49:05,411 - INFO - Triggered process 'Order Drink' (ID: 2409) from event 'Order Drink' (ID: 11010)
+2025-05-26 22:49:05,412 - INFO - Event logged: Customer Sign Up with ID 11011
+2025-05-26 22:49:05,412 - INFO - Triggered process 'Register Customer' (ID: 2410) from event 'Customer Sign Up' (ID: 11011)
+2025-05-26 22:49:05,412 - INFO - Event logged: Drink readied with ID 11012
+2025-05-26 22:49:05,413 - INFO - Event logged: Customer Walk Out with ID 11013
+2025-05-26 22:49:05,413 - INFO - Event logged: Walk In with ID 11014
+2025-05-26 22:49:05,413 - INFO - Event logged: Order Drink with ID 11015
+2025-05-26 22:49:05,414 - INFO - Triggered process 'Order Drink' (ID: 2411) from event 'Order Drink' (ID: 11015)
+2025-05-26 22:49:05,414 - INFO - Event logged: Customer Not Sign Up with ID 11016
+2025-05-26 22:49:05,414 - INFO - Event logged: Drink readied with ID 11017
+2025-05-26 22:49:05,414 - INFO - Event logged: Customer Walk Out with ID 11018
+2025-05-26 22:49:05,415 - INFO - Event logged: Walk In with ID 11019
+2025-05-26 22:49:05,415 - INFO - Event logged: Customer Walk Out with ID 11020
+2025-05-26 22:49:05,415 - INFO - Event logged: Walk In with ID 11021
+2025-05-26 22:49:05,415 - INFO - Event logged: Order Drink with ID 11022
+2025-05-26 22:49:05,416 - INFO - Triggered process 'Order Drink' (ID: 2412) from event 'Order Drink' (ID: 11022)
+2025-05-26 22:49:05,416 - INFO - Event logged: Customer Sign Up with ID 11023
+2025-05-26 22:49:05,416 - INFO - Triggered process 'Register Customer' (ID: 2413) from event 'Customer Sign Up' (ID: 11023)
+2025-05-26 22:49:05,417 - INFO - Event logged: Drink readied with ID 11024
+2025-05-26 22:49:05,417 - INFO - Event logged: Customer Walk Out with ID 11025
+2025-05-26 22:49:05,417 - INFO - Event logged: Walk In with ID 11026
+2025-05-26 22:49:05,417 - INFO - Event logged: Order Drink with ID 11027
+2025-05-26 22:49:05,418 - INFO - Triggered process 'Order Drink' (ID: 2414) from event 'Order Drink' (ID: 11027)
+2025-05-26 22:49:05,418 - INFO - Event logged: Customer Sign Up with ID 11028
+2025-05-26 22:49:05,418 - INFO - Triggered process 'Register Customer' (ID: 2415) from event 'Customer Sign Up' (ID: 11028)
+2025-05-26 22:49:05,419 - INFO - Event logged: Drink readied with ID 11029
+2025-05-26 22:49:05,419 - INFO - Event logged: Customer Walk Out with ID 11030
+2025-05-26 22:49:05,419 - INFO - Event logged: Walk In with ID 11031
+2025-05-26 22:49:05,420 - INFO - Event logged: Customer Walk Out with ID 11032
+2025-05-26 22:49:05,420 - INFO - Event logged: Walk In with ID 11033
+2025-05-26 22:49:05,420 - INFO - Event logged: Order Drink with ID 11034
+2025-05-26 22:49:05,421 - INFO - Triggered process 'Order Drink' (ID: 2416) from event 'Order Drink' (ID: 11034)
+2025-05-26 22:49:05,421 - INFO - Event logged: Customer Sign Up with ID 11035
+2025-05-26 22:49:05,421 - INFO - Triggered process 'Register Customer' (ID: 2417) from event 'Customer Sign Up' (ID: 11035)
+2025-05-26 22:49:05,422 - INFO - Event logged: Drink readied with ID 11036
+2025-05-26 22:49:05,422 - INFO - Event logged: Customer Walk Out with ID 11037
+2025-05-26 22:49:05,422 - INFO - Event logged: Walk In with ID 11038
+2025-05-26 22:49:05,422 - INFO - Event logged: Order Drink with ID 11039
+2025-05-26 22:49:05,423 - INFO - Triggered process 'Order Drink' (ID: 2418) from event 'Order Drink' (ID: 11039)
+2025-05-26 22:49:05,423 - INFO - Event logged: Customer Not Sign Up with ID 11040
+2025-05-26 22:49:05,423 - INFO - Event logged: Drink readied with ID 11041
+2025-05-26 22:49:05,424 - INFO - Event logged: Customer Walk Out with ID 11042
+2025-05-26 22:49:05,424 - INFO - Event logged: Walk In with ID 11043
+2025-05-26 22:49:05,424 - INFO - Event logged: Order Drink with ID 11044
+2025-05-26 22:49:05,424 - INFO - Triggered process 'Order Drink' (ID: 2419) from event 'Order Drink' (ID: 11044)
+2025-05-26 22:49:05,425 - INFO - Event logged: Customer Sign Up with ID 11045
+2025-05-26 22:49:05,425 - INFO - Triggered process 'Register Customer' (ID: 2420) from event 'Customer Sign Up' (ID: 11045)
+2025-05-26 22:49:05,425 - INFO - Event logged: Drink readied with ID 11046
+2025-05-26 22:49:05,426 - INFO - Event logged: Customer Walk Out with ID 11047
+2025-05-26 22:49:05,426 - INFO - Event logged: Walk In with ID 11048
+2025-05-26 22:49:05,426 - INFO - Event logged: Order Drink with ID 11049
+2025-05-26 22:49:05,427 - INFO - Triggered process 'Order Drink' (ID: 2421) from event 'Order Drink' (ID: 11049)
+2025-05-26 22:49:05,427 - INFO - Event logged: Customer Sign Up with ID 11050
+2025-05-26 22:49:05,428 - INFO - Triggered process 'Register Customer' (ID: 2422) from event 'Customer Sign Up' (ID: 11050)
+2025-05-26 22:49:05,428 - INFO - Event logged: Drink readied with ID 11051
+2025-05-26 22:49:05,428 - INFO - Event logged: Customer Walk Out with ID 11052
+2025-05-26 22:49:05,428 - INFO - Event logged: Walk In with ID 11053
+2025-05-26 22:49:05,429 - INFO - Event logged: Order Drink with ID 11054
+2025-05-26 22:49:05,429 - INFO - Triggered process 'Order Drink' (ID: 2423) from event 'Order Drink' (ID: 11054)
+2025-05-26 22:49:05,429 - INFO - Event logged: Customer Not Sign Up with ID 11055
+2025-05-26 22:49:05,430 - INFO - Event logged: Drink readied with ID 11056
+2025-05-26 22:49:05,430 - INFO - Event logged: Customer Walk Out with ID 11057
+2025-05-26 22:49:05,430 - INFO - Event logged: Walk In with ID 11058
+2025-05-26 22:49:05,431 - INFO - Event logged: Order Drink with ID 11059
+2025-05-26 22:49:05,431 - INFO - Triggered process 'Order Drink' (ID: 2424) from event 'Order Drink' (ID: 11059)
+2025-05-26 22:49:05,431 - INFO - Event logged: Customer Sign Up with ID 11060
+2025-05-26 22:49:05,432 - INFO - Triggered process 'Register Customer' (ID: 2425) from event 'Customer Sign Up' (ID: 11060)
+2025-05-26 22:49:05,432 - INFO - Event logged: Drink readied with ID 11061
+2025-05-26 22:49:05,433 - INFO - Event logged: Customer Walk Out with ID 11062
+2025-05-26 22:49:05,433 - INFO - Event logged: Walk In with ID 11063
+2025-05-26 22:49:05,433 - INFO - Event logged: Order Drink with ID 11064
+2025-05-26 22:49:05,434 - INFO - Triggered process 'Order Drink' (ID: 2426) from event 'Order Drink' (ID: 11064)
+2025-05-26 22:49:05,434 - INFO - Event logged: Customer Sign Up with ID 11065
+2025-05-26 22:49:05,434 - INFO - Triggered process 'Register Customer' (ID: 2427) from event 'Customer Sign Up' (ID: 11065)
+2025-05-26 22:49:05,435 - INFO - Event logged: Drink readied with ID 11066
+2025-05-26 22:49:05,435 - INFO - Event logged: Customer Walk Out with ID 11067
+2025-05-26 22:49:05,436 - INFO - Event logged: Walk In with ID 11068
+2025-05-26 22:49:05,436 - INFO - Event logged: Customer Walk Out with ID 11069
+2025-05-26 22:49:05,436 - INFO - Event logged: Walk In with ID 11070
+2025-05-26 22:49:05,437 - INFO - Event logged: Order Drink with ID 11071
+2025-05-26 22:49:05,437 - INFO - Triggered process 'Order Drink' (ID: 2428) from event 'Order Drink' (ID: 11071)
+2025-05-26 22:49:05,437 - INFO - Event logged: Customer Not Sign Up with ID 11072
+2025-05-26 22:49:05,438 - INFO - Event logged: Drink readied with ID 11073
+2025-05-26 22:49:05,438 - INFO - Event logged: Customer Walk Out with ID 11074
+2025-05-26 22:49:05,438 - INFO - Event logged: Walk In with ID 11075
+2025-05-26 22:49:05,439 - INFO - Event logged: Order Drink with ID 11076
+2025-05-26 22:49:05,439 - INFO - Triggered process 'Order Drink' (ID: 2429) from event 'Order Drink' (ID: 11076)
+2025-05-26 22:49:05,439 - INFO - Event logged: Customer Sign Up with ID 11077
+2025-05-26 22:49:05,440 - INFO - Triggered process 'Register Customer' (ID: 2430) from event 'Customer Sign Up' (ID: 11077)
+2025-05-26 22:49:05,440 - INFO - Event logged: Drink readied with ID 11078
+2025-05-26 22:49:05,441 - INFO - Event logged: Customer Walk Out with ID 11079
+2025-05-26 22:49:05,441 - INFO - Event logged: Walk In with ID 11080
+2025-05-26 22:49:05,441 - INFO - Event logged: Order Drink with ID 11081
+2025-05-26 22:49:05,442 - INFO - Triggered process 'Order Drink' (ID: 2431) from event 'Order Drink' (ID: 11081)
+2025-05-26 22:49:05,442 - INFO - Event logged: Customer Sign Up with ID 11082
+2025-05-26 22:49:05,443 - INFO - Triggered process 'Register Customer' (ID: 2432) from event 'Customer Sign Up' (ID: 11082)
+2025-05-26 22:49:05,443 - INFO - Event logged: Drink readied with ID 11083
+2025-05-26 22:49:05,443 - INFO - Event logged: Customer Walk Out with ID 11084
+2025-05-26 22:49:05,444 - INFO - Event logged: Walk In with ID 11085
+2025-05-26 22:49:05,444 - INFO - Event logged: Order Drink with ID 11086
+2025-05-26 22:49:05,444 - INFO - Triggered process 'Order Drink' (ID: 2433) from event 'Order Drink' (ID: 11086)
+2025-05-26 22:49:05,445 - INFO - Event logged: Customer Not Sign Up with ID 11087
+2025-05-26 22:49:05,445 - INFO - Event logged: Drink readied with ID 11088
+2025-05-26 22:49:05,445 - INFO - Event logged: Customer Walk Out with ID 11089
+2025-05-26 22:49:05,446 - INFO - Event logged: Walk In with ID 11090
+2025-05-26 22:49:05,446 - INFO - Event logged: Order Drink with ID 11091
+2025-05-26 22:49:05,446 - INFO - Triggered process 'Order Drink' (ID: 2434) from event 'Order Drink' (ID: 11091)
+2025-05-26 22:49:05,447 - INFO - Event logged: Customer Sign Up with ID 11092
+2025-05-26 22:49:05,447 - INFO - Triggered process 'Register Customer' (ID: 2435) from event 'Customer Sign Up' (ID: 11092)
+2025-05-26 22:49:05,447 - INFO - Event logged: Drink readied with ID 11093
+2025-05-26 22:49:05,448 - INFO - Event logged: Customer Walk Out with ID 11094
+2025-05-26 22:49:05,448 - INFO - Event logged: Walk In with ID 11095
+2025-05-26 22:49:05,448 - INFO - Event logged: Order Drink with ID 11096
+2025-05-26 22:49:05,449 - INFO - Triggered process 'Order Drink' (ID: 2436) from event 'Order Drink' (ID: 11096)
+2025-05-26 22:49:05,449 - INFO - Event logged: Customer Sign Up with ID 11097
+2025-05-26 22:49:05,450 - INFO - Triggered process 'Register Customer' (ID: 2437) from event 'Customer Sign Up' (ID: 11097)
+2025-05-26 22:49:05,450 - INFO - Event logged: Drink readied with ID 11098
+2025-05-26 22:49:05,450 - INFO - Event logged: Customer Walk Out with ID 11099
+2025-05-26 22:49:05,450 - INFO - Event logged: Walk In with ID 11100
+2025-05-26 22:49:05,451 - INFO - Event logged: Order Drink with ID 11101
+2025-05-26 22:49:05,451 - INFO - Triggered process 'Order Drink' (ID: 2438) from event 'Order Drink' (ID: 11101)
+2025-05-26 22:49:05,451 - INFO - Event logged: Customer Sign Up with ID 11102
+2025-05-26 22:49:05,452 - INFO - Triggered process 'Register Customer' (ID: 2439) from event 'Customer Sign Up' (ID: 11102)
+2025-05-26 22:49:05,452 - INFO - Event logged: Drink readied with ID 11103
+2025-05-26 22:49:05,453 - INFO - Event logged: Customer Walk Out with ID 11104
+2025-05-26 22:49:05,453 - INFO - Event logged: Walk In with ID 11105
+2025-05-26 22:49:05,453 - INFO - Event logged: Order Drink with ID 11106
+2025-05-26 22:49:05,454 - INFO - Triggered process 'Order Drink' (ID: 2440) from event 'Order Drink' (ID: 11106)
+2025-05-26 22:49:05,454 - INFO - Event logged: Customer Not Sign Up with ID 11107
+2025-05-26 22:49:05,454 - INFO - Event logged: Drink readied with ID 11108
+2025-05-26 22:49:05,454 - INFO - Event logged: Customer Walk Out with ID 11109
+2025-05-26 22:49:05,455 - INFO - Event logged: Walk In with ID 11110
+2025-05-26 22:49:05,455 - INFO - Event logged: Order Drink with ID 11111
+2025-05-26 22:49:05,456 - INFO - Triggered process 'Order Drink' (ID: 2441) from event 'Order Drink' (ID: 11111)
+2025-05-26 22:49:05,456 - INFO - Event logged: Customer Not Sign Up with ID 11112
+2025-05-26 22:49:05,456 - INFO - Event logged: Drink readied with ID 11113
+2025-05-26 22:49:05,457 - INFO - Event logged: Customer Walk Out with ID 11114
+2025-05-26 22:49:05,457 - INFO - Event logged: Walk In with ID 11115
+2025-05-26 22:49:05,457 - INFO - Event logged: Order Drink with ID 11116
+2025-05-26 22:49:05,458 - INFO - Triggered process 'Order Drink' (ID: 2442) from event 'Order Drink' (ID: 11116)
+2025-05-26 22:49:05,458 - INFO - Event logged: Customer Sign Up with ID 11117
+2025-05-26 22:49:05,459 - INFO - Triggered process 'Register Customer' (ID: 2443) from event 'Customer Sign Up' (ID: 11117)
+2025-05-26 22:49:05,459 - INFO - Event logged: Drink readied with ID 11118
+2025-05-26 22:49:05,459 - INFO - Event logged: Customer Walk Out with ID 11119
+2025-05-26 22:49:05,460 - INFO - Event logged: Walk In with ID 11120
+2025-05-26 22:49:05,460 - INFO - Event logged: Customer Walk Out with ID 11121
+2025-05-26 22:49:05,460 - INFO - Event logged: Walk In with ID 11122
+2025-05-26 22:49:05,461 - INFO - Event logged: Order Drink with ID 11123
+2025-05-26 22:49:05,461 - INFO - Triggered process 'Order Drink' (ID: 2444) from event 'Order Drink' (ID: 11123)
+2025-05-26 22:49:05,461 - INFO - Event logged: Customer Sign Up with ID 11124
+2025-05-26 22:49:05,462 - INFO - Triggered process 'Register Customer' (ID: 2445) from event 'Customer Sign Up' (ID: 11124)
+2025-05-26 22:49:05,462 - INFO - Event logged: Drink readied with ID 11125
+2025-05-26 22:49:05,462 - INFO - Event logged: Customer Walk Out with ID 11126
+2025-05-26 22:49:05,463 - INFO - Event logged: Walk In with ID 11127
+2025-05-26 22:49:05,463 - INFO - Event logged: Order Drink with ID 11128
+2025-05-26 22:49:05,464 - INFO - Triggered process 'Order Drink' (ID: 2446) from event 'Order Drink' (ID: 11128)
+2025-05-26 22:49:05,464 - INFO - Event logged: Customer Sign Up with ID 11129
+2025-05-26 22:49:05,464 - INFO - Triggered process 'Register Customer' (ID: 2447) from event 'Customer Sign Up' (ID: 11129)
+2025-05-26 22:49:05,464 - INFO - Event logged: Drink readied with ID 11130
+2025-05-26 22:49:05,465 - INFO - Event logged: Customer Walk Out with ID 11131
+2025-05-26 22:49:05,465 - INFO - Event logged: Walk In with ID 11132
+2025-05-26 22:49:05,465 - INFO - Event logged: Order Drink with ID 11133
+2025-05-26 22:49:05,466 - INFO - Triggered process 'Order Drink' (ID: 2448) from event 'Order Drink' (ID: 11133)
+2025-05-26 22:49:05,466 - INFO - Event logged: Customer Sign Up with ID 11134
+2025-05-26 22:49:05,466 - INFO - Triggered process 'Register Customer' (ID: 2449) from event 'Customer Sign Up' (ID: 11134)
+2025-05-26 22:49:05,467 - INFO - Event logged: Drink readied with ID 11135
+2025-05-26 22:49:05,467 - INFO - Event logged: Customer Walk Out with ID 11136
+2025-05-26 22:49:05,467 - INFO - Event logged: Walk In with ID 11137
+2025-05-26 22:49:05,468 - INFO - Event logged: Order Drink with ID 11138
+2025-05-26 22:49:05,468 - INFO - Triggered process 'Order Drink' (ID: 2450) from event 'Order Drink' (ID: 11138)
+2025-05-26 22:49:05,468 - INFO - Event logged: Customer Sign Up with ID 11139
+2025-05-26 22:49:05,469 - INFO - Triggered process 'Register Customer' (ID: 2451) from event 'Customer Sign Up' (ID: 11139)
+2025-05-26 22:49:05,469 - INFO - Event logged: Drink readied with ID 11140
+2025-05-26 22:49:05,469 - INFO - Event logged: Customer Walk Out with ID 11141
+2025-05-26 22:49:05,470 - INFO - Event logged: Walk In with ID 11142
+2025-05-26 22:49:05,470 - INFO - Event logged: Order Drink with ID 11143
+2025-05-26 22:49:05,471 - INFO - Triggered process 'Order Drink' (ID: 2452) from event 'Order Drink' (ID: 11143)
+2025-05-26 22:49:05,471 - INFO - Event logged: Customer Sign Up with ID 11144
+2025-05-26 22:49:05,471 - INFO - Triggered process 'Register Customer' (ID: 2453) from event 'Customer Sign Up' (ID: 11144)
+2025-05-26 22:49:05,472 - INFO - Event logged: Drink readied with ID 11145
+2025-05-26 22:49:05,472 - INFO - Event logged: Customer Walk Out with ID 11146
+2025-05-26 22:49:05,472 - INFO - Event logged: Walk In with ID 11147
+2025-05-26 22:49:05,473 - INFO - Event logged: Order Drink with ID 11148
+2025-05-26 22:49:05,473 - INFO - Triggered process 'Order Drink' (ID: 2454) from event 'Order Drink' (ID: 11148)
+2025-05-26 22:49:05,473 - INFO - Event logged: Customer Sign Up with ID 11149
+2025-05-26 22:49:05,474 - INFO - Triggered process 'Register Customer' (ID: 2455) from event 'Customer Sign Up' (ID: 11149)
+2025-05-26 22:49:05,474 - INFO - Event logged: Drink readied with ID 11150
+2025-05-26 22:49:05,475 - INFO - Event logged: Customer Walk Out with ID 11151
+2025-05-26 22:49:05,475 - INFO - Event logged: Walk In with ID 11152
+2025-05-26 22:49:05,475 - INFO - Event logged: Order Drink with ID 11153
+2025-05-26 22:49:05,476 - INFO - Triggered process 'Order Drink' (ID: 2456) from event 'Order Drink' (ID: 11153)
+2025-05-26 22:49:05,476 - INFO - Event logged: Customer Sign Up with ID 11154
+2025-05-26 22:49:05,477 - INFO - Triggered process 'Register Customer' (ID: 2457) from event 'Customer Sign Up' (ID: 11154)
+2025-05-26 22:49:05,477 - INFO - Event logged: Drink readied with ID 11155
+2025-05-26 22:49:05,477 - INFO - Event logged: Customer Walk Out with ID 11156
+2025-05-26 22:49:05,477 - INFO - Event logged: Walk In with ID 11157
+2025-05-26 22:49:05,478 - INFO - Event logged: Order Drink with ID 11158
+2025-05-26 22:49:05,478 - INFO - Triggered process 'Order Drink' (ID: 2458) from event 'Order Drink' (ID: 11158)
+2025-05-26 22:49:05,479 - INFO - Event logged: Customer Not Sign Up with ID 11159
+2025-05-26 22:49:05,479 - INFO - Event logged: Drink readied with ID 11160
+2025-05-26 22:49:05,479 - INFO - Event logged: Customer Walk Out with ID 11161
+2025-05-26 22:49:05,480 - INFO - Event logged: Walk In with ID 11162
+2025-05-26 22:49:05,480 - INFO - Event logged: Order Drink with ID 11163
+2025-05-26 22:49:05,480 - INFO - Triggered process 'Order Drink' (ID: 2459) from event 'Order Drink' (ID: 11163)
+2025-05-26 22:49:05,481 - INFO - Event logged: Customer Not Sign Up with ID 11164
+2025-05-26 22:49:05,481 - INFO - Event logged: Drink readied with ID 11165
+2025-05-26 22:49:05,481 - INFO - Event logged: Customer Walk Out with ID 11166
+2025-05-26 22:49:05,482 - INFO - Event logged: Walk In with ID 11167
+2025-05-26 22:49:05,482 - INFO - Event logged: Order Drink with ID 11168
+2025-05-26 22:49:05,482 - INFO - Triggered process 'Order Drink' (ID: 2460) from event 'Order Drink' (ID: 11168)
+2025-05-26 22:49:05,483 - INFO - Event logged: Customer Not Sign Up with ID 11169
+2025-05-26 22:49:05,483 - INFO - Event logged: Drink readied with ID 11170
+2025-05-26 22:49:05,483 - INFO - Event logged: Customer Walk Out with ID 11171
+2025-05-26 22:49:05,484 - INFO - Event logged: Walk In with ID 11172
+2025-05-26 22:49:05,484 - INFO - Event logged: Order Drink with ID 11173
+2025-05-26 22:49:05,484 - INFO - Triggered process 'Order Drink' (ID: 2461) from event 'Order Drink' (ID: 11173)
+2025-05-26 22:49:05,485 - INFO - Event logged: Customer Sign Up with ID 11174
+2025-05-26 22:49:05,485 - INFO - Triggered process 'Register Customer' (ID: 2462) from event 'Customer Sign Up' (ID: 11174)
+2025-05-26 22:49:05,485 - INFO - Event logged: Drink readied with ID 11175
+2025-05-26 22:49:05,486 - INFO - Event logged: Customer Walk Out with ID 11176
+2025-05-26 22:49:05,486 - INFO - Event logged: Walk In with ID 11177
+2025-05-26 22:49:05,487 - INFO - Event logged: Customer Walk Out with ID 11178
+2025-05-26 22:49:05,487 - INFO - Event logged: Walk In with ID 11179
+2025-05-26 22:49:05,487 - INFO - Event logged: Order Drink with ID 11180
+2025-05-26 22:49:05,488 - INFO - Triggered process 'Order Drink' (ID: 2463) from event 'Order Drink' (ID: 11180)
+2025-05-26 22:49:05,488 - INFO - Event logged: Customer Sign Up with ID 11181
+2025-05-26 22:49:05,489 - INFO - Triggered process 'Register Customer' (ID: 2464) from event 'Customer Sign Up' (ID: 11181)
+2025-05-26 22:49:05,489 - INFO - Event logged: Drink readied with ID 11182
+2025-05-26 22:49:05,489 - INFO - Event logged: Customer Walk Out with ID 11183
+2025-05-26 22:49:05,489 - INFO - Event logged: Walk In with ID 11184
+2025-05-26 22:49:05,490 - INFO - Event logged: Order Drink with ID 11185
+2025-05-26 22:49:05,490 - INFO - Triggered process 'Order Drink' (ID: 2465) from event 'Order Drink' (ID: 11185)
+2025-05-26 22:49:05,491 - INFO - Event logged: Customer Sign Up with ID 11186
+2025-05-26 22:49:05,491 - INFO - Triggered process 'Register Customer' (ID: 2466) from event 'Customer Sign Up' (ID: 11186)
+2025-05-26 22:49:05,491 - INFO - Event logged: Drink readied with ID 11187
+2025-05-26 22:49:05,492 - INFO - Event logged: Customer Walk Out with ID 11188
+2025-05-26 22:49:05,492 - INFO - Event logged: Walk In with ID 11189
+2025-05-26 22:49:05,492 - INFO - Event logged: Order Drink with ID 11190
+2025-05-26 22:49:05,493 - INFO - Triggered process 'Order Drink' (ID: 2467) from event 'Order Drink' (ID: 11190)
+2025-05-26 22:49:05,493 - INFO - Event logged: Customer Not Sign Up with ID 11191
+2025-05-26 22:49:05,493 - INFO - Event logged: Drink readied with ID 11192
+2025-05-26 22:49:05,494 - INFO - Event logged: Customer Walk Out with ID 11193
+2025-05-26 22:49:05,494 - INFO - Event logged: Walk In with ID 11194
+2025-05-26 22:49:05,494 - INFO - Event logged: Order Drink with ID 11195
+2025-05-26 22:49:05,495 - INFO - Triggered process 'Order Drink' (ID: 2468) from event 'Order Drink' (ID: 11195)
+2025-05-26 22:49:05,495 - INFO - Event logged: Customer Sign Up with ID 11196
+2025-05-26 22:49:05,496 - INFO - Triggered process 'Register Customer' (ID: 2469) from event 'Customer Sign Up' (ID: 11196)
+2025-05-26 22:49:05,496 - INFO - Event logged: Drink readied with ID 11197
+2025-05-26 22:49:05,496 - INFO - Event logged: Customer Walk Out with ID 11198
+2025-05-26 22:49:05,496 - INFO - Event logged: Walk In with ID 11199
+2025-05-26 22:49:05,497 - INFO - Event logged: Order Drink with ID 11200
+2025-05-26 22:49:05,497 - INFO - Triggered process 'Order Drink' (ID: 2470) from event 'Order Drink' (ID: 11200)
+2025-05-26 22:49:05,498 - INFO - Event logged: Customer Not Sign Up with ID 11201
+2025-05-26 22:49:05,498 - INFO - Event logged: Drink readied with ID 11202
+2025-05-26 22:49:05,498 - INFO - Event logged: Customer Walk Out with ID 11203
+2025-05-26 22:49:05,499 - INFO - Event logged: Walk In with ID 11204
+2025-05-26 22:49:05,499 - INFO - Event logged: Order Drink with ID 11205
+2025-05-26 22:49:05,499 - INFO - Triggered process 'Order Drink' (ID: 2471) from event 'Order Drink' (ID: 11205)
+2025-05-26 22:49:05,500 - INFO - Event logged: Customer Sign Up with ID 11206
+2025-05-26 22:49:05,500 - INFO - Triggered process 'Register Customer' (ID: 2472) from event 'Customer Sign Up' (ID: 11206)
+2025-05-26 22:49:05,500 - INFO - Event logged: Drink readied with ID 11207
+2025-05-26 22:49:05,501 - INFO - Event logged: Customer Walk Out with ID 11208
+2025-05-26 22:49:05,501 - INFO - Event logged: Walk In with ID 11209
+2025-05-26 22:49:05,502 - INFO - Event logged: Order Drink with ID 11210
+2025-05-26 22:49:05,502 - INFO - Triggered process 'Order Drink' (ID: 2473) from event 'Order Drink' (ID: 11210)
+2025-05-26 22:49:05,502 - INFO - Event logged: Customer Sign Up with ID 11211
+2025-05-26 22:49:05,503 - INFO - Triggered process 'Register Customer' (ID: 2474) from event 'Customer Sign Up' (ID: 11211)
+2025-05-26 22:49:05,503 - INFO - Event logged: Drink readied with ID 11212
+2025-05-26 22:49:05,503 - INFO - Event logged: Customer Walk Out with ID 11213
+2025-05-26 22:49:05,504 - INFO - Event logged: Walk In with ID 11214
+2025-05-26 22:49:05,504 - INFO - Event logged: Order Drink with ID 11215
+2025-05-26 22:49:05,504 - INFO - Triggered process 'Order Drink' (ID: 2475) from event 'Order Drink' (ID: 11215)
+2025-05-26 22:49:05,505 - INFO - Event logged: Customer Not Sign Up with ID 11216
+2025-05-26 22:49:05,505 - INFO - Event logged: Drink readied with ID 11217
+2025-05-26 22:49:05,505 - INFO - Event logged: Customer Walk Out with ID 11218
+2025-05-26 22:49:05,506 - INFO - Event logged: Walk In with ID 11219
+2025-05-26 22:49:05,506 - INFO - Event logged: Customer Walk Out with ID 11220
+2025-05-26 22:49:05,507 - INFO - Event logged: Walk In with ID 11221
+2025-05-26 22:49:05,507 - INFO - Event logged: Order Drink with ID 11222
+2025-05-26 22:49:05,507 - INFO - Triggered process 'Order Drink' (ID: 2476) from event 'Order Drink' (ID: 11222)
+2025-05-26 22:49:05,508 - INFO - Event logged: Customer Sign Up with ID 11223
+2025-05-26 22:49:05,509 - INFO - Triggered process 'Register Customer' (ID: 2477) from event 'Customer Sign Up' (ID: 11223)
+2025-05-26 22:49:05,509 - INFO - Event logged: Drink readied with ID 11224
+2025-05-26 22:49:05,509 - INFO - Event logged: Customer Walk Out with ID 11225
+2025-05-26 22:49:05,510 - INFO - Event logged: Walk In with ID 11226
+2025-05-26 22:49:05,510 - INFO - Event logged: Order Drink with ID 11227
+2025-05-26 22:49:05,511 - INFO - Triggered process 'Order Drink' (ID: 2478) from event 'Order Drink' (ID: 11227)
+2025-05-26 22:49:05,511 - INFO - Event logged: Customer Sign Up with ID 11228
+2025-05-26 22:49:05,511 - INFO - Triggered process 'Register Customer' (ID: 2479) from event 'Customer Sign Up' (ID: 11228)
+2025-05-26 22:49:05,512 - INFO - Event logged: Drink readied with ID 11229
+2025-05-26 22:49:05,512 - INFO - Event logged: Customer Walk Out with ID 11230
+2025-05-26 22:49:05,512 - INFO - Event logged: Walk In with ID 11231
+2025-05-26 22:49:05,513 - INFO - Event logged: Order Drink with ID 11232
+2025-05-26 22:49:05,513 - INFO - Triggered process 'Order Drink' (ID: 2480) from event 'Order Drink' (ID: 11232)
+2025-05-26 22:49:05,513 - INFO - Event logged: Customer Sign Up with ID 11233
+2025-05-26 22:49:05,514 - INFO - Triggered process 'Register Customer' (ID: 2481) from event 'Customer Sign Up' (ID: 11233)
+2025-05-26 22:49:05,514 - INFO - Event logged: Drink readied with ID 11234
+2025-05-26 22:49:05,514 - INFO - Event logged: Customer Walk Out with ID 11235
+2025-05-26 22:49:05,515 - INFO - Event logged: Walk In with ID 11236
+2025-05-26 22:49:05,515 - INFO - Event logged: Customer Walk Out with ID 11237
+2025-05-26 22:49:05,515 - INFO - Event logged: Walk In with ID 11238
+2025-05-26 22:49:05,516 - INFO - Event logged: Order Drink with ID 11239
+2025-05-26 22:49:05,516 - INFO - Triggered process 'Order Drink' (ID: 2482) from event 'Order Drink' (ID: 11239)
+2025-05-26 22:49:05,516 - INFO - Event logged: Customer Not Sign Up with ID 11240
+2025-05-26 22:49:05,517 - INFO - Event logged: Drink readied with ID 11241
+2025-05-26 22:49:05,517 - INFO - Event logged: Customer Walk Out with ID 11242
+2025-05-26 22:49:05,517 - INFO - Event logged: Walk In with ID 11243
+2025-05-26 22:49:05,518 - INFO - Event logged: Order Drink with ID 11244
+2025-05-26 22:49:05,518 - INFO - Triggered process 'Order Drink' (ID: 2483) from event 'Order Drink' (ID: 11244)
+2025-05-26 22:49:05,518 - INFO - Event logged: Customer Sign Up with ID 11245
+2025-05-26 22:49:05,519 - INFO - Triggered process 'Register Customer' (ID: 2484) from event 'Customer Sign Up' (ID: 11245)
+2025-05-26 22:49:05,519 - INFO - Event logged: Drink readied with ID 11246
+2025-05-26 22:49:05,519 - INFO - Event logged: Customer Walk Out with ID 11247
+2025-05-26 22:49:05,520 - INFO - Event logged: Walk In with ID 11248
+2025-05-26 22:49:05,520 - INFO - Event logged: Order Drink with ID 11249
+2025-05-26 22:49:05,521 - INFO - Triggered process 'Order Drink' (ID: 2485) from event 'Order Drink' (ID: 11249)
+2025-05-26 22:49:05,521 - INFO - Event logged: Customer Sign Up with ID 11250
+2025-05-26 22:49:05,522 - INFO - Triggered process 'Register Customer' (ID: 2486) from event 'Customer Sign Up' (ID: 11250)
+2025-05-26 22:49:05,522 - INFO - Event logged: Drink readied with ID 11251
+2025-05-26 22:49:05,522 - INFO - Event logged: Customer Walk Out with ID 11252
+2025-05-26 22:49:05,523 - INFO - Event logged: Walk In with ID 11253
+2025-05-26 22:49:05,523 - INFO - Event logged: Customer Walk Out with ID 11254
+2025-05-26 22:49:05,523 - INFO - Event logged: Walk In with ID 11255
+2025-05-26 22:49:05,524 - INFO - Event logged: Order Drink with ID 11256
+2025-05-26 22:49:05,524 - INFO - Triggered process 'Order Drink' (ID: 2487) from event 'Order Drink' (ID: 11256)
+2025-05-26 22:49:05,524 - INFO - Event logged: Customer Not Sign Up with ID 11257
+2025-05-26 22:49:05,525 - INFO - Event logged: Drink readied with ID 11258
+2025-05-26 22:49:05,525 - INFO - Event logged: Customer Walk Out with ID 11259
+2025-05-26 22:49:05,525 - INFO - Event logged: Walk In with ID 11260
+2025-05-26 22:49:05,526 - INFO - Event logged: Order Drink with ID 11261
+2025-05-26 22:49:05,526 - INFO - Triggered process 'Order Drink' (ID: 2488) from event 'Order Drink' (ID: 11261)
+2025-05-26 22:49:05,526 - INFO - Event logged: Customer Not Sign Up with ID 11262
+2025-05-26 22:49:05,527 - INFO - Event logged: Drink readied with ID 11263
+2025-05-26 22:49:05,527 - INFO - Event logged: Customer Walk Out with ID 11264
+2025-05-26 22:49:05,527 - INFO - Event logged: Walk In with ID 11265
+2025-05-26 22:49:05,528 - INFO - Event logged: Order Drink with ID 11266
+2025-05-26 22:49:05,528 - INFO - Triggered process 'Order Drink' (ID: 2489) from event 'Order Drink' (ID: 11266)
+2025-05-26 22:49:05,528 - INFO - Event logged: Customer Sign Up with ID 11267
+2025-05-26 22:49:05,529 - INFO - Triggered process 'Register Customer' (ID: 2490) from event 'Customer Sign Up' (ID: 11267)
+2025-05-26 22:49:05,529 - INFO - Event logged: Drink readied with ID 11268
+2025-05-26 22:49:05,529 - INFO - Event logged: Customer Walk Out with ID 11269
+2025-05-26 22:49:05,530 - INFO - Event logged: Walk In with ID 11270
+2025-05-26 22:49:05,530 - INFO - Event logged: Order Drink with ID 11271
+2025-05-26 22:49:05,530 - INFO - Triggered process 'Order Drink' (ID: 2491) from event 'Order Drink' (ID: 11271)
+2025-05-26 22:49:05,531 - INFO - Event logged: Customer Sign Up with ID 11272
+2025-05-26 22:49:05,531 - INFO - Triggered process 'Register Customer' (ID: 2492) from event 'Customer Sign Up' (ID: 11272)
+2025-05-26 22:49:05,531 - INFO - Event logged: Drink readied with ID 11273
+2025-05-26 22:49:05,532 - INFO - Event logged: Customer Walk Out with ID 11274
+2025-05-26 22:49:05,532 - INFO - Event logged: Walk In with ID 11275
+2025-05-26 22:49:05,532 - INFO - Event logged: Order Drink with ID 11276
+2025-05-26 22:49:05,533 - INFO - Triggered process 'Order Drink' (ID: 2493) from event 'Order Drink' (ID: 11276)
+2025-05-26 22:49:05,533 - INFO - Event logged: Customer Sign Up with ID 11277
+2025-05-26 22:49:05,534 - INFO - Triggered process 'Register Customer' (ID: 2494) from event 'Customer Sign Up' (ID: 11277)
+2025-05-26 22:49:05,534 - INFO - Event logged: Drink readied with ID 11278
+2025-05-26 22:49:05,534 - INFO - Event logged: Customer Walk Out with ID 11279
+2025-05-26 22:49:05,534 - INFO - Event logged: Walk In with ID 11280
+2025-05-26 22:49:05,535 - INFO - Event logged: Order Drink with ID 11281
+2025-05-26 22:49:05,535 - INFO - Triggered process 'Order Drink' (ID: 2495) from event 'Order Drink' (ID: 11281)
+2025-05-26 22:49:05,536 - INFO - Event logged: Customer Not Sign Up with ID 11282
+2025-05-26 22:49:05,536 - INFO - Event logged: Drink readied with ID 11283
+2025-05-26 22:49:05,536 - INFO - Event logged: Customer Walk Out with ID 11284
+2025-05-26 22:49:05,537 - INFO - Event logged: Walk In with ID 11285
+2025-05-26 22:49:05,537 - INFO - Event logged: Customer Walk Out with ID 11286
+2025-05-26 22:49:05,537 - INFO - Event logged: Walk In with ID 11287
+2025-05-26 22:49:05,538 - INFO - Event logged: Order Drink with ID 11288
+2025-05-26 22:49:05,538 - INFO - Triggered process 'Order Drink' (ID: 2496) from event 'Order Drink' (ID: 11288)
+2025-05-26 22:49:05,538 - INFO - Event logged: Customer Sign Up with ID 11289
+2025-05-26 22:49:05,539 - INFO - Triggered process 'Register Customer' (ID: 2497) from event 'Customer Sign Up' (ID: 11289)
+2025-05-26 22:49:05,539 - INFO - Event logged: Drink readied with ID 11290
+2025-05-26 22:49:05,539 - INFO - Event logged: Customer Walk Out with ID 11291
+2025-05-26 22:49:05,539 - INFO - Event logged: Walk In with ID 11292
+2025-05-26 22:49:05,540 - INFO - Event logged: Order Drink with ID 11293
+2025-05-26 22:49:05,540 - INFO - Triggered process 'Order Drink' (ID: 2498) from event 'Order Drink' (ID: 11293)
+2025-05-26 22:49:05,541 - INFO - Event logged: Customer Sign Up with ID 11294
+2025-05-26 22:49:05,541 - INFO - Triggered process 'Register Customer' (ID: 2499) from event 'Customer Sign Up' (ID: 11294)
+2025-05-26 22:49:05,542 - INFO - Event logged: Drink readied with ID 11295
+2025-05-26 22:49:05,542 - INFO - Event logged: Customer Walk Out with ID 11296
+2025-05-26 22:49:05,542 - INFO - Event logged: Walk In with ID 11297
+2025-05-26 22:49:05,543 - INFO - Event logged: Order Drink with ID 11298
+2025-05-26 22:49:05,543 - INFO - Triggered process 'Order Drink' (ID: 2500) from event 'Order Drink' (ID: 11298)
+2025-05-26 22:49:05,543 - INFO - Event logged: Customer Not Sign Up with ID 11299
+2025-05-26 22:49:05,544 - INFO - Event logged: Drink readied with ID 11300
+2025-05-26 22:49:05,544 - INFO - Event logged: Customer Walk Out with ID 11301
+2025-05-26 22:49:05,544 - INFO - Event logged: Walk In with ID 11302
+2025-05-26 22:49:05,545 - INFO - Event logged: Order Drink with ID 11303
+2025-05-26 22:49:05,545 - INFO - Triggered process 'Order Drink' (ID: 2501) from event 'Order Drink' (ID: 11303)
+2025-05-26 22:49:05,545 - INFO - Event logged: Customer Sign Up with ID 11304
+2025-05-26 22:49:05,546 - INFO - Triggered process 'Register Customer' (ID: 2502) from event 'Customer Sign Up' (ID: 11304)
+2025-05-26 22:49:05,546 - INFO - Event logged: Drink readied with ID 11305
+2025-05-26 22:49:05,546 - INFO - Event logged: Customer Walk Out with ID 11306
+2025-05-26 22:49:05,547 - INFO - Event logged: Walk In with ID 11307
+2025-05-26 22:49:05,547 - INFO - Event logged: Order Drink with ID 11308
+2025-05-26 22:49:05,547 - INFO - Triggered process 'Order Drink' (ID: 2503) from event 'Order Drink' (ID: 11308)
+2025-05-26 22:49:05,548 - INFO - Event logged: Customer Sign Up with ID 11309
+2025-05-26 22:49:05,549 - INFO - Triggered process 'Register Customer' (ID: 2504) from event 'Customer Sign Up' (ID: 11309)
+2025-05-26 22:49:05,549 - INFO - Event logged: Drink readied with ID 11310
+2025-05-26 22:49:05,549 - INFO - Event logged: Customer Walk Out with ID 11311
+2025-05-26 22:49:05,549 - INFO - Event logged: Walk In with ID 11312
+2025-05-26 22:49:05,550 - INFO - Event logged: Order Drink with ID 11313
+2025-05-26 22:49:05,550 - INFO - Triggered process 'Order Drink' (ID: 2505) from event 'Order Drink' (ID: 11313)
+2025-05-26 22:49:05,550 - INFO - Event logged: Customer Sign Up with ID 11314
+2025-05-26 22:49:05,551 - INFO - Triggered process 'Register Customer' (ID: 2506) from event 'Customer Sign Up' (ID: 11314)
+2025-05-26 22:49:05,551 - INFO - Event logged: Drink readied with ID 11315
+2025-05-26 22:49:05,551 - INFO - Event logged: Customer Walk Out with ID 11316
+2025-05-26 22:49:05,552 - INFO - Event logged: Walk In with ID 11317
+2025-05-26 22:49:05,552 - INFO - Event logged: Order Drink with ID 11318
+2025-05-26 22:49:05,553 - INFO - Triggered process 'Order Drink' (ID: 2507) from event 'Order Drink' (ID: 11318)
+2025-05-26 22:49:05,553 - INFO - Event logged: Customer Sign Up with ID 11319
+2025-05-26 22:49:05,553 - INFO - Triggered process 'Register Customer' (ID: 2508) from event 'Customer Sign Up' (ID: 11319)
+2025-05-26 22:49:05,553 - INFO - Event logged: Drink readied with ID 11320
+2025-05-26 22:49:05,554 - INFO - Event logged: Customer Walk Out with ID 11321
+2025-05-26 22:49:05,554 - INFO - Event logged: Walk In with ID 11322
+2025-05-26 22:49:05,554 - INFO - Event logged: Order Drink with ID 11323
+2025-05-26 22:49:05,555 - INFO - Triggered process 'Order Drink' (ID: 2509) from event 'Order Drink' (ID: 11323)
+2025-05-26 22:49:05,555 - INFO - Event logged: Customer Not Sign Up with ID 11324
+2025-05-26 22:49:05,555 - INFO - Event logged: Drink readied with ID 11325
+2025-05-26 22:49:05,555 - INFO - Event logged: Customer Walk Out with ID 11326
+2025-05-26 22:49:05,556 - INFO - Event logged: Walk In with ID 11327
+2025-05-26 22:49:05,556 - INFO - Event logged: Customer Walk Out with ID 11328
+2025-05-26 22:49:05,556 - INFO - Event logged: Walk In with ID 11329
+2025-05-26 22:49:05,557 - INFO - Event logged: Order Drink with ID 11330
+2025-05-26 22:49:05,557 - INFO - Triggered process 'Order Drink' (ID: 2510) from event 'Order Drink' (ID: 11330)
+2025-05-26 22:49:05,557 - INFO - Event logged: Customer Sign Up with ID 11331
+2025-05-26 22:49:05,558 - INFO - Triggered process 'Register Customer' (ID: 2511) from event 'Customer Sign Up' (ID: 11331)
+2025-05-26 22:49:05,558 - INFO - Event logged: Drink readied with ID 11332
+2025-05-26 22:49:05,558 - INFO - Event logged: Customer Walk Out with ID 11333
+2025-05-26 22:49:05,559 - INFO - Event logged: Walk In with ID 11334
+2025-05-26 22:49:05,559 - INFO - Event logged: Order Drink with ID 11335
+2025-05-26 22:49:05,559 - INFO - Triggered process 'Order Drink' (ID: 2512) from event 'Order Drink' (ID: 11335)
+2025-05-26 22:49:05,560 - INFO - Event logged: Customer Sign Up with ID 11336
+2025-05-26 22:49:05,560 - INFO - Triggered process 'Register Customer' (ID: 2513) from event 'Customer Sign Up' (ID: 11336)
+2025-05-26 22:49:05,560 - INFO - Event logged: Drink readied with ID 11337
+2025-05-26 22:49:05,561 - INFO - Event logged: Customer Walk Out with ID 11338
+2025-05-26 22:49:05,561 - INFO - Event logged: Walk In with ID 11339
+2025-05-26 22:49:05,561 - INFO - Event logged: Order Drink with ID 11340
+2025-05-26 22:49:05,562 - INFO - Triggered process 'Order Drink' (ID: 2514) from event 'Order Drink' (ID: 11340)
+2025-05-26 22:49:05,562 - INFO - Event logged: Customer Sign Up with ID 11341
+2025-05-26 22:49:05,563 - INFO - Triggered process 'Register Customer' (ID: 2515) from event 'Customer Sign Up' (ID: 11341)
+2025-05-26 22:49:05,563 - INFO - Event logged: Drink readied with ID 11342
+2025-05-26 22:49:05,563 - INFO - Event logged: Customer Walk Out with ID 11343
+2025-05-26 22:49:05,563 - INFO - Event logged: Walk In with ID 11344
+2025-05-26 22:49:05,564 - INFO - Event logged: Order Drink with ID 11345
+2025-05-26 22:49:05,564 - INFO - Triggered process 'Order Drink' (ID: 2516) from event 'Order Drink' (ID: 11345)
+2025-05-26 22:49:05,564 - INFO - Event logged: Customer Not Sign Up with ID 11346
+2025-05-26 22:49:05,565 - INFO - Event logged: Drink readied with ID 11347
+2025-05-26 22:49:05,565 - INFO - Event logged: Customer Walk Out with ID 11348
+2025-05-26 22:49:05,565 - INFO - Event logged: Walk In with ID 11349
+2025-05-26 22:49:05,565 - INFO - Event logged: Order Drink with ID 11350
+2025-05-26 22:49:05,566 - INFO - Triggered process 'Order Drink' (ID: 2517) from event 'Order Drink' (ID: 11350)
+2025-05-26 22:49:05,566 - INFO - Event logged: Customer Sign Up with ID 11351
+2025-05-26 22:49:05,567 - INFO - Triggered process 'Register Customer' (ID: 2518) from event 'Customer Sign Up' (ID: 11351)
+2025-05-26 22:49:05,567 - INFO - Event logged: Drink readied with ID 11352
+2025-05-26 22:49:05,567 - INFO - Event logged: Customer Walk Out with ID 11353
+2025-05-26 22:49:05,567 - INFO - Event logged: Walk In with ID 11354
+2025-05-26 22:49:05,568 - INFO - Event logged: Order Drink with ID 11355
+2025-05-26 22:49:05,568 - INFO - Triggered process 'Order Drink' (ID: 2519) from event 'Order Drink' (ID: 11355)
+2025-05-26 22:49:05,569 - INFO - Event logged: Customer Sign Up with ID 11356
+2025-05-26 22:49:05,569 - INFO - Triggered process 'Register Customer' (ID: 2520) from event 'Customer Sign Up' (ID: 11356)
+2025-05-26 22:49:05,569 - INFO - Event logged: Drink readied with ID 11357
+2025-05-26 22:49:05,569 - INFO - Event logged: Customer Walk Out with ID 11358
+2025-05-26 22:49:05,570 - INFO - Event logged: Walk In with ID 11359
+2025-05-26 22:49:05,570 - INFO - Event logged: Order Drink with ID 11360
+2025-05-26 22:49:05,570 - INFO - Triggered process 'Order Drink' (ID: 2521) from event 'Order Drink' (ID: 11360)
+2025-05-26 22:49:05,571 - INFO - Event logged: Customer Not Sign Up with ID 11361
+2025-05-26 22:49:05,571 - INFO - Event logged: Drink readied with ID 11362
+2025-05-26 22:49:05,571 - INFO - Event logged: Customer Walk Out with ID 11363
+2025-05-26 22:49:05,572 - INFO - Event logged: Walk In with ID 11364
+2025-05-26 22:49:05,572 - INFO - Event logged: Order Drink with ID 11365
+2025-05-26 22:49:05,572 - INFO - Triggered process 'Order Drink' (ID: 2522) from event 'Order Drink' (ID: 11365)
+2025-05-26 22:49:05,573 - INFO - Event logged: Customer Not Sign Up with ID 11366
+2025-05-26 22:49:05,573 - INFO - Event logged: Drink readied with ID 11367
+2025-05-26 22:49:05,573 - INFO - Event logged: Customer Walk Out with ID 11368
+2025-05-26 22:49:05,574 - INFO - Event logged: Walk In with ID 11369
+2025-05-26 22:49:05,574 - INFO - Event logged: Order Drink with ID 11370
+2025-05-26 22:49:05,574 - INFO - Triggered process 'Order Drink' (ID: 2523) from event 'Order Drink' (ID: 11370)
+2025-05-26 22:49:05,575 - INFO - Event logged: Customer Not Sign Up with ID 11371
+2025-05-26 22:49:05,575 - INFO - Event logged: Drink readied with ID 11372
+2025-05-26 22:49:05,575 - INFO - Event logged: Customer Walk Out with ID 11373
+2025-05-26 22:49:05,576 - INFO - Event logged: Walk In with ID 11374
+2025-05-26 22:49:05,576 - INFO - Event logged: Order Drink with ID 11375
+2025-05-26 22:49:05,576 - INFO - Triggered process 'Order Drink' (ID: 2524) from event 'Order Drink' (ID: 11375)
+2025-05-26 22:49:05,577 - INFO - Event logged: Customer Sign Up with ID 11376
+2025-05-26 22:49:05,577 - INFO - Triggered process 'Register Customer' (ID: 2525) from event 'Customer Sign Up' (ID: 11376)
+2025-05-26 22:49:05,577 - INFO - Event logged: Drink readied with ID 11377
+2025-05-26 22:49:05,577 - INFO - Event logged: Customer Walk Out with ID 11378
+2025-05-26 22:49:05,578 - INFO - Event logged: Walk In with ID 11379
+2025-05-26 22:49:05,578 - INFO - Event logged: Order Drink with ID 11380
+2025-05-26 22:49:05,578 - INFO - Triggered process 'Order Drink' (ID: 2526) from event 'Order Drink' (ID: 11380)
+2025-05-26 22:49:05,579 - INFO - Event logged: Customer Sign Up with ID 11381
+2025-05-26 22:49:05,579 - INFO - Triggered process 'Register Customer' (ID: 2527) from event 'Customer Sign Up' (ID: 11381)
+2025-05-26 22:49:05,579 - INFO - Event logged: Drink readied with ID 11382
+2025-05-26 22:49:05,580 - INFO - Event logged: Customer Walk Out with ID 11383
+2025-05-26 22:49:05,580 - INFO - Event logged: Walk In with ID 11384
+2025-05-26 22:49:05,580 - INFO - Event logged: Order Drink with ID 11385
+2025-05-26 22:49:05,581 - INFO - Triggered process 'Order Drink' (ID: 2528) from event 'Order Drink' (ID: 11385)
+2025-05-26 22:49:05,581 - INFO - Event logged: Customer Not Sign Up with ID 11386
+2025-05-26 22:49:05,581 - INFO - Event logged: Drink readied with ID 11387
+2025-05-26 22:49:05,582 - INFO - Event logged: Customer Walk Out with ID 11388
+2025-05-26 22:49:05,582 - INFO - Event logged: Walk In with ID 11389
+2025-05-26 22:49:05,582 - INFO - Event logged: Customer Walk Out with ID 11390
+2025-05-26 22:49:05,583 - INFO - Event logged: Walk In with ID 11391
+2025-05-26 22:49:05,583 - INFO - Event logged: Order Drink with ID 11392
+2025-05-26 22:49:05,583 - INFO - Triggered process 'Order Drink' (ID: 2529) from event 'Order Drink' (ID: 11392)
+2025-05-26 22:49:05,584 - INFO - Event logged: Customer Sign Up with ID 11393
+2025-05-26 22:49:05,584 - INFO - Triggered process 'Register Customer' (ID: 2530) from event 'Customer Sign Up' (ID: 11393)
+2025-05-26 22:49:05,584 - INFO - Event logged: Drink readied with ID 11394
+2025-05-26 22:49:05,585 - INFO - Event logged: Customer Walk Out with ID 11395
+2025-05-26 22:49:05,585 - INFO - Event logged: Walk In with ID 11396
+2025-05-26 22:49:05,585 - INFO - Event logged: Order Drink with ID 11397
+2025-05-26 22:49:05,586 - INFO - Triggered process 'Order Drink' (ID: 2531) from event 'Order Drink' (ID: 11397)
+2025-05-26 22:49:05,586 - INFO - Event logged: Customer Sign Up with ID 11398
+2025-05-26 22:49:05,586 - INFO - Triggered process 'Register Customer' (ID: 2532) from event 'Customer Sign Up' (ID: 11398)
+2025-05-26 22:49:05,587 - INFO - Event logged: Drink readied with ID 11399
+2025-05-26 22:49:05,587 - INFO - Event logged: Customer Walk Out with ID 11400
+2025-05-26 22:49:05,587 - INFO - Event logged: Walk In with ID 11401
+2025-05-26 22:49:05,587 - INFO - Event logged: Order Drink with ID 11402
+2025-05-26 22:49:05,588 - INFO - Triggered process 'Order Drink' (ID: 2533) from event 'Order Drink' (ID: 11402)
+2025-05-26 22:49:05,588 - INFO - Event logged: Customer Sign Up with ID 11403
+2025-05-26 22:49:05,589 - INFO - Triggered process 'Register Customer' (ID: 2534) from event 'Customer Sign Up' (ID: 11403)
+2025-05-26 22:49:05,589 - INFO - Event logged: Drink readied with ID 11404
+2025-05-26 22:49:05,589 - INFO - Event logged: Customer Walk Out with ID 11405
+2025-05-26 22:49:05,590 - INFO - Event logged: Walk In with ID 11406
+2025-05-26 22:49:05,590 - INFO - Event logged: Order Drink with ID 11407
+2025-05-26 22:49:05,590 - INFO - Triggered process 'Order Drink' (ID: 2535) from event 'Order Drink' (ID: 11407)
+2025-05-26 22:49:05,591 - INFO - Event logged: Customer Sign Up with ID 11408
+2025-05-26 22:49:05,591 - INFO - Triggered process 'Register Customer' (ID: 2536) from event 'Customer Sign Up' (ID: 11408)
+2025-05-26 22:49:05,591 - INFO - Event logged: Drink readied with ID 11409
+2025-05-26 22:49:05,592 - INFO - Event logged: Customer Walk Out with ID 11410
+2025-05-26 22:49:05,592 - INFO - Event logged: Walk In with ID 11411
+2025-05-26 22:49:05,592 - INFO - Event logged: Order Drink with ID 11412
+2025-05-26 22:49:05,593 - INFO - Triggered process 'Order Drink' (ID: 2537) from event 'Order Drink' (ID: 11412)
+2025-05-26 22:49:05,593 - INFO - Event logged: Customer Sign Up with ID 11413
+2025-05-26 22:49:05,593 - INFO - Triggered process 'Register Customer' (ID: 2538) from event 'Customer Sign Up' (ID: 11413)
+2025-05-26 22:49:05,593 - INFO - Event logged: Drink readied with ID 11414
+2025-05-26 22:49:05,594 - INFO - Event logged: Customer Walk Out with ID 11415
+2025-05-26 22:49:05,594 - INFO - Event logged: Walk In with ID 11416
+2025-05-26 22:49:05,594 - INFO - Event logged: Order Drink with ID 11417
+2025-05-26 22:49:05,595 - INFO - Triggered process 'Order Drink' (ID: 2539) from event 'Order Drink' (ID: 11417)
+2025-05-26 22:49:05,595 - INFO - Event logged: Customer Not Sign Up with ID 11418
+2025-05-26 22:49:05,595 - INFO - Event logged: Drink readied with ID 11419
+2025-05-26 22:49:05,595 - INFO - Event logged: Customer Walk Out with ID 11420
+2025-05-26 22:49:05,596 - INFO - Event logged: Walk In with ID 11421
+2025-05-26 22:49:05,596 - INFO - Event logged: Order Drink with ID 11422
+2025-05-26 22:49:05,597 - INFO - Triggered process 'Order Drink' (ID: 2540) from event 'Order Drink' (ID: 11422)
+2025-05-26 22:49:05,597 - INFO - Event logged: Customer Not Sign Up with ID 11423
+2025-05-26 22:49:05,597 - INFO - Event logged: Drink readied with ID 11424
+2025-05-26 22:49:05,597 - INFO - Event logged: Customer Walk Out with ID 11425
+2025-05-26 22:49:05,598 - INFO - Event logged: Walk In with ID 11426
+2025-05-26 22:49:05,598 - INFO - Event logged: Order Drink with ID 11427
+2025-05-26 22:49:05,599 - INFO - Triggered process 'Order Drink' (ID: 2541) from event 'Order Drink' (ID: 11427)
+2025-05-26 22:49:05,599 - INFO - Event logged: Customer Sign Up with ID 11428
+2025-05-26 22:49:05,599 - INFO - Triggered process 'Register Customer' (ID: 2542) from event 'Customer Sign Up' (ID: 11428)
+2025-05-26 22:49:05,600 - INFO - Event logged: Drink readied with ID 11429
+2025-05-26 22:49:05,600 - INFO - Event logged: Customer Walk Out with ID 11430
+2025-05-26 22:49:05,600 - INFO - Event logged: Walk In with ID 11431
+2025-05-26 22:49:05,601 - INFO - Event logged: Order Drink with ID 11432
+2025-05-26 22:49:05,601 - INFO - Triggered process 'Order Drink' (ID: 2543) from event 'Order Drink' (ID: 11432)
+2025-05-26 22:49:05,601 - INFO - Event logged: Customer Not Sign Up with ID 11433
+2025-05-26 22:49:05,602 - INFO - Event logged: Drink readied with ID 11434
+2025-05-26 22:49:05,602 - INFO - Event logged: Customer Walk Out with ID 11435
+2025-05-26 22:49:05,602 - INFO - Event logged: Walk In with ID 11436
+2025-05-26 22:49:05,603 - INFO - Event logged: Order Drink with ID 11437
+2025-05-26 22:49:05,603 - INFO - Triggered process 'Order Drink' (ID: 2544) from event 'Order Drink' (ID: 11437)
+2025-05-26 22:49:05,603 - INFO - Event logged: Customer Not Sign Up with ID 11438
+2025-05-26 22:49:05,604 - INFO - Event logged: Drink readied with ID 11439
+2025-05-26 22:49:05,604 - INFO - Event logged: Customer Walk Out with ID 11440
+2025-05-26 22:49:05,604 - INFO - Event logged: Walk In with ID 11441
+2025-05-26 22:49:05,605 - INFO - Event logged: Order Drink with ID 11442
+2025-05-26 22:49:05,605 - INFO - Triggered process 'Order Drink' (ID: 2545) from event 'Order Drink' (ID: 11442)
+2025-05-26 22:49:05,605 - INFO - Event logged: Customer Sign Up with ID 11443
+2025-05-26 22:49:05,606 - INFO - Triggered process 'Register Customer' (ID: 2546) from event 'Customer Sign Up' (ID: 11443)
+2025-05-26 22:49:05,606 - INFO - Event logged: Drink readied with ID 11444
+2025-05-26 22:49:05,606 - INFO - Event logged: Customer Walk Out with ID 11445
+2025-05-26 22:49:05,607 - INFO - Event logged: Walk In with ID 11446
+2025-05-26 22:49:05,607 - INFO - Event logged: Order Drink with ID 11447
+2025-05-26 22:49:05,607 - INFO - Triggered process 'Order Drink' (ID: 2547) from event 'Order Drink' (ID: 11447)
+2025-05-26 22:49:05,608 - INFO - Event logged: Customer Sign Up with ID 11448
+2025-05-26 22:49:05,608 - INFO - Triggered process 'Register Customer' (ID: 2548) from event 'Customer Sign Up' (ID: 11448)
+2025-05-26 22:49:05,608 - INFO - Event logged: Drink readied with ID 11449
+2025-05-26 22:49:05,609 - INFO - Event logged: Customer Walk Out with ID 11450
+2025-05-26 22:49:05,609 - INFO - Event logged: Walk In with ID 11451
+2025-05-26 22:49:05,609 - INFO - Event logged: Order Drink with ID 11452
+2025-05-26 22:49:05,610 - INFO - Triggered process 'Order Drink' (ID: 2549) from event 'Order Drink' (ID: 11452)
+2025-05-26 22:49:05,610 - INFO - Event logged: Customer Sign Up with ID 11453
+2025-05-26 22:49:05,611 - INFO - Triggered process 'Register Customer' (ID: 2550) from event 'Customer Sign Up' (ID: 11453)
+2025-05-26 22:49:05,611 - INFO - Event logged: Drink readied with ID 11454
+2025-05-26 22:49:05,612 - INFO - Event logged: Customer Walk Out with ID 11455
+2025-05-26 22:49:05,612 - INFO - Event logged: Walk In with ID 11456
+2025-05-26 22:49:05,612 - INFO - Event logged: Order Drink with ID 11457
+2025-05-26 22:49:05,613 - INFO - Triggered process 'Order Drink' (ID: 2551) from event 'Order Drink' (ID: 11457)
+2025-05-26 22:49:05,613 - INFO - Event logged: Customer Sign Up with ID 11458
+2025-05-26 22:49:05,613 - INFO - Triggered process 'Register Customer' (ID: 2552) from event 'Customer Sign Up' (ID: 11458)
+2025-05-26 22:49:05,614 - INFO - Event logged: Drink readied with ID 11459
+2025-05-26 22:49:05,614 - INFO - Event logged: Customer Walk Out with ID 11460
+2025-05-26 22:49:05,614 - INFO - Event logged: Walk In with ID 11461
+2025-05-26 22:49:05,614 - INFO - Event logged: Customer Walk Out with ID 11462
+2025-05-26 22:49:05,615 - INFO - Event logged: Walk In with ID 11463
+2025-05-26 22:49:05,615 - INFO - Event logged: Customer Walk Out with ID 11464
+2025-05-26 22:49:05,615 - INFO - Event logged: Walk In with ID 11465
+2025-05-26 22:49:05,616 - INFO - Event logged: Order Drink with ID 11466
+2025-05-26 22:49:05,616 - INFO - Triggered process 'Order Drink' (ID: 2553) from event 'Order Drink' (ID: 11466)
+2025-05-26 22:49:05,617 - INFO - Event logged: Customer Sign Up with ID 11467
+2025-05-26 22:49:05,617 - INFO - Triggered process 'Register Customer' (ID: 2554) from event 'Customer Sign Up' (ID: 11467)
+2025-05-26 22:49:05,617 - INFO - Event logged: Drink readied with ID 11468
+2025-05-26 22:49:05,618 - INFO - Event logged: Customer Walk Out with ID 11469
+2025-05-26 22:49:05,618 - INFO - Event logged: Walk In with ID 11470
+2025-05-26 22:49:05,618 - INFO - Event logged: Order Drink with ID 11471
+2025-05-26 22:49:05,619 - INFO - Triggered process 'Order Drink' (ID: 2555) from event 'Order Drink' (ID: 11471)
+2025-05-26 22:49:05,619 - INFO - Event logged: Customer Sign Up with ID 11472
+2025-05-26 22:49:05,620 - INFO - Triggered process 'Register Customer' (ID: 2556) from event 'Customer Sign Up' (ID: 11472)
+2025-05-26 22:49:05,620 - INFO - Event logged: Drink readied with ID 11473
+2025-05-26 22:49:05,620 - INFO - Event logged: Customer Walk Out with ID 11474
+2025-05-26 22:49:05,621 - INFO - Event logged: Walk In with ID 11475
+2025-05-26 22:49:05,621 - INFO - Event logged: Order Drink with ID 11476
+2025-05-26 22:49:05,622 - INFO - Triggered process 'Order Drink' (ID: 2557) from event 'Order Drink' (ID: 11476)
+2025-05-26 22:49:05,622 - INFO - Event logged: Customer Sign Up with ID 11477
+2025-05-26 22:49:05,622 - INFO - Triggered process 'Register Customer' (ID: 2558) from event 'Customer Sign Up' (ID: 11477)
+2025-05-26 22:49:05,622 - INFO - Event logged: Drink readied with ID 11478
+2025-05-26 22:49:05,623 - INFO - Event logged: Customer Walk Out with ID 11479
+2025-05-26 22:49:05,623 - INFO - Event logged: Walk In with ID 11480
+2025-05-26 22:49:05,623 - INFO - Event logged: Order Drink with ID 11481
+2025-05-26 22:49:05,624 - INFO - Triggered process 'Order Drink' (ID: 2559) from event 'Order Drink' (ID: 11481)
+2025-05-26 22:49:05,624 - INFO - Event logged: Customer Sign Up with ID 11482
+2025-05-26 22:49:05,625 - INFO - Triggered process 'Register Customer' (ID: 2560) from event 'Customer Sign Up' (ID: 11482)
+2025-05-26 22:49:05,625 - INFO - Event logged: Drink readied with ID 11483
+2025-05-26 22:49:05,625 - INFO - Event logged: Customer Walk Out with ID 11484
+2025-05-26 22:49:05,625 - INFO - Event logged: Walk In with ID 11485
+2025-05-26 22:49:05,626 - INFO - Event logged: Order Drink with ID 11486
+2025-05-26 22:49:05,626 - INFO - Triggered process 'Order Drink' (ID: 2561) from event 'Order Drink' (ID: 11486)
+2025-05-26 22:49:05,626 - INFO - Event logged: Customer Not Sign Up with ID 11487
+2025-05-26 22:49:05,627 - INFO - Event logged: Drink readied with ID 11488
+2025-05-26 22:49:05,627 - INFO - Event logged: Customer Walk Out with ID 11489
+2025-05-26 22:49:05,627 - INFO - Event logged: Walk In with ID 11490
+2025-05-26 22:49:05,628 - INFO - Event logged: Order Drink with ID 11491
+2025-05-26 22:49:05,628 - INFO - Triggered process 'Order Drink' (ID: 2562) from event 'Order Drink' (ID: 11491)
+2025-05-26 22:49:05,628 - INFO - Event logged: Customer Sign Up with ID 11492
+2025-05-26 22:49:05,629 - INFO - Triggered process 'Register Customer' (ID: 2563) from event 'Customer Sign Up' (ID: 11492)
+2025-05-26 22:49:05,629 - INFO - Event logged: Drink readied with ID 11493
+2025-05-26 22:49:05,629 - INFO - Event logged: Customer Walk Out with ID 11494
+2025-05-26 22:49:05,630 - INFO - Event logged: Walk In with ID 11495
+2025-05-26 22:49:05,630 - INFO - Event logged: Order Drink with ID 11496
+2025-05-26 22:49:05,630 - INFO - Triggered process 'Order Drink' (ID: 2564) from event 'Order Drink' (ID: 11496)
+2025-05-26 22:49:05,631 - INFO - Event logged: Customer Not Sign Up with ID 11497
+2025-05-26 22:49:05,631 - INFO - Event logged: Drink readied with ID 11498
+2025-05-26 22:49:05,631 - INFO - Event logged: Customer Walk Out with ID 11499
+2025-05-26 22:49:05,631 - INFO - Event logged: Walk In with ID 11500
+2025-05-26 22:49:05,632 - INFO - Event logged: Order Drink with ID 11501
+2025-05-26 22:49:05,632 - INFO - Triggered process 'Order Drink' (ID: 2565) from event 'Order Drink' (ID: 11501)
+2025-05-26 22:49:05,633 - INFO - Event logged: Customer Sign Up with ID 11502
+2025-05-26 22:49:05,633 - INFO - Triggered process 'Register Customer' (ID: 2566) from event 'Customer Sign Up' (ID: 11502)
+2025-05-26 22:49:05,633 - INFO - Event logged: Drink readied with ID 11503
+2025-05-26 22:49:05,634 - INFO - Event logged: Customer Walk Out with ID 11504
+2025-05-26 22:49:05,634 - INFO - Event logged: Walk In with ID 11505
+2025-05-26 22:49:05,634 - INFO - Event logged: Order Drink with ID 11506
+2025-05-26 22:49:05,635 - INFO - Triggered process 'Order Drink' (ID: 2567) from event 'Order Drink' (ID: 11506)
+2025-05-26 22:49:05,635 - INFO - Event logged: Customer Sign Up with ID 11507
+2025-05-26 22:49:05,635 - INFO - Triggered process 'Register Customer' (ID: 2568) from event 'Customer Sign Up' (ID: 11507)
+2025-05-26 22:49:05,636 - INFO - Event logged: Drink readied with ID 11508
+2025-05-26 22:49:05,636 - INFO - Event logged: Customer Walk Out with ID 11509
+2025-05-26 22:49:05,636 - INFO - Event logged: Walk In with ID 11510
+2025-05-26 22:49:05,636 - INFO - Event logged: Order Drink with ID 11511
+2025-05-26 22:49:05,637 - INFO - Triggered process 'Order Drink' (ID: 2569) from event 'Order Drink' (ID: 11511)
+2025-05-26 22:49:05,637 - INFO - Event logged: Customer Sign Up with ID 11512
+2025-05-26 22:49:05,637 - INFO - Triggered process 'Register Customer' (ID: 2570) from event 'Customer Sign Up' (ID: 11512)
+2025-05-26 22:49:05,638 - INFO - Event logged: Drink readied with ID 11513
+2025-05-26 22:49:05,638 - INFO - Event logged: Customer Walk Out with ID 11514
+2025-05-26 22:49:05,638 - INFO - Event logged: Walk In with ID 11515
+2025-05-26 22:49:05,639 - INFO - Event logged: Order Drink with ID 11516
+2025-05-26 22:49:05,639 - INFO - Triggered process 'Order Drink' (ID: 2571) from event 'Order Drink' (ID: 11516)
+2025-05-26 22:49:05,639 - INFO - Event logged: Customer Sign Up with ID 11517
+2025-05-26 22:49:05,640 - INFO - Triggered process 'Register Customer' (ID: 2572) from event 'Customer Sign Up' (ID: 11517)
+2025-05-26 22:49:05,640 - INFO - Event logged: Drink readied with ID 11518
+2025-05-26 22:49:05,640 - INFO - Event logged: Customer Walk Out with ID 11519
+2025-05-26 22:49:05,641 - INFO - Event logged: Walk In with ID 11520
+2025-05-26 22:49:05,641 - INFO - Event logged: Order Drink with ID 11521
+2025-05-26 22:49:05,641 - INFO - Triggered process 'Order Drink' (ID: 2573) from event 'Order Drink' (ID: 11521)
+2025-05-26 22:49:05,642 - INFO - Event logged: Customer Sign Up with ID 11522
+2025-05-26 22:49:05,642 - INFO - Triggered process 'Register Customer' (ID: 2574) from event 'Customer Sign Up' (ID: 11522)
+2025-05-26 22:49:05,642 - INFO - Event logged: Drink readied with ID 11523
+2025-05-26 22:49:05,643 - INFO - Event logged: Customer Walk Out with ID 11524
+2025-05-26 22:49:05,643 - INFO - Event logged: Walk In with ID 11525
+2025-05-26 22:49:05,643 - INFO - Event logged: Customer Walk Out with ID 11526
+2025-05-26 22:49:05,644 - INFO - Event logged: Walk In with ID 11527
+2025-05-26 22:49:05,644 - INFO - Event logged: Order Drink with ID 11528
+2025-05-26 22:49:05,644 - INFO - Triggered process 'Order Drink' (ID: 2575) from event 'Order Drink' (ID: 11528)
+2025-05-26 22:49:05,645 - INFO - Event logged: Customer Sign Up with ID 11529
+2025-05-26 22:49:05,645 - INFO - Triggered process 'Register Customer' (ID: 2576) from event 'Customer Sign Up' (ID: 11529)
+2025-05-26 22:49:05,645 - INFO - Event logged: Drink readied with ID 11530
+2025-05-26 22:49:05,646 - INFO - Event logged: Customer Walk Out with ID 11531
+2025-05-26 22:49:05,646 - INFO - Event logged: Walk In with ID 11532
+2025-05-26 22:49:05,646 - INFO - Event logged: Order Drink with ID 11533
+2025-05-26 22:49:05,647 - INFO - Triggered process 'Order Drink' (ID: 2577) from event 'Order Drink' (ID: 11533)
+2025-05-26 22:49:05,647 - INFO - Event logged: Customer Sign Up with ID 11534
+2025-05-26 22:49:05,647 - INFO - Triggered process 'Register Customer' (ID: 2578) from event 'Customer Sign Up' (ID: 11534)
+2025-05-26 22:49:05,648 - INFO - Event logged: Drink readied with ID 11535
+2025-05-26 22:49:05,648 - INFO - Event logged: Customer Walk Out with ID 11536
+2025-05-26 22:49:05,648 - INFO - Event logged: Walk In with ID 11537
+2025-05-26 22:49:05,648 - INFO - Event logged: Order Drink with ID 11538
+2025-05-26 22:49:05,649 - INFO - Triggered process 'Order Drink' (ID: 2579) from event 'Order Drink' (ID: 11538)
+2025-05-26 22:49:05,649 - INFO - Event logged: Customer Sign Up with ID 11539
+2025-05-26 22:49:05,650 - INFO - Triggered process 'Register Customer' (ID: 2580) from event 'Customer Sign Up' (ID: 11539)
+2025-05-26 22:49:05,650 - INFO - Event logged: Drink readied with ID 11540
+2025-05-26 22:49:05,650 - INFO - Event logged: Customer Walk Out with ID 11541
+2025-05-26 22:49:05,651 - INFO - Event logged: Walk In with ID 11542
+2025-05-26 22:49:05,651 - INFO - Event logged: Order Drink with ID 11543
+2025-05-26 22:49:05,651 - INFO - Triggered process 'Order Drink' (ID: 2581) from event 'Order Drink' (ID: 11543)
+2025-05-26 22:49:05,652 - INFO - Event logged: Customer Not Sign Up with ID 11544
+2025-05-26 22:49:05,652 - INFO - Event logged: Drink readied with ID 11545
+2025-05-26 22:49:05,652 - INFO - Event logged: Customer Walk Out with ID 11546
+2025-05-26 22:49:05,653 - INFO - Event logged: Walk In with ID 11547
+2025-05-26 22:49:05,653 - INFO - Event logged: Order Drink with ID 11548
+2025-05-26 22:49:05,653 - INFO - Triggered process 'Order Drink' (ID: 2582) from event 'Order Drink' (ID: 11548)
+2025-05-26 22:49:05,654 - INFO - Event logged: Customer Sign Up with ID 11549
+2025-05-26 22:49:05,654 - INFO - Triggered process 'Register Customer' (ID: 2583) from event 'Customer Sign Up' (ID: 11549)
+2025-05-26 22:49:05,654 - INFO - Event logged: Drink readied with ID 11550
+2025-05-26 22:49:05,655 - INFO - Event logged: Customer Walk Out with ID 11551
+2025-05-26 22:49:05,655 - INFO - Event logged: Walk In with ID 11552
+2025-05-26 22:49:05,655 - INFO - Event logged: Order Drink with ID 11553
+2025-05-26 22:49:05,655 - INFO - Triggered process 'Order Drink' (ID: 2584) from event 'Order Drink' (ID: 11553)
+2025-05-26 22:49:05,656 - INFO - Event logged: Customer Not Sign Up with ID 11554
+2025-05-26 22:49:05,656 - INFO - Event logged: Drink readied with ID 11555
+2025-05-26 22:49:05,656 - INFO - Event logged: Customer Walk Out with ID 11556
+2025-05-26 22:49:05,657 - INFO - Event logged: Walk In with ID 11557
+2025-05-26 22:49:05,657 - INFO - Event logged: Order Drink with ID 11558
+2025-05-26 22:49:05,657 - INFO - Triggered process 'Order Drink' (ID: 2585) from event 'Order Drink' (ID: 11558)
+2025-05-26 22:49:05,657 - INFO - Event logged: Customer Not Sign Up with ID 11559
+2025-05-26 22:49:05,658 - INFO - Event logged: Drink readied with ID 11560
+2025-05-26 22:49:05,658 - INFO - Event logged: Customer Walk Out with ID 11561
+2025-05-26 22:49:05,658 - INFO - Event logged: Walk In with ID 11562
+2025-05-26 22:49:05,659 - INFO - Event logged: Order Drink with ID 11563
+2025-05-26 22:49:05,659 - INFO - Triggered process 'Order Drink' (ID: 2586) from event 'Order Drink' (ID: 11563)
+2025-05-26 22:49:05,659 - INFO - Event logged: Customer Sign Up with ID 11564
+2025-05-26 22:49:05,660 - INFO - Triggered process 'Register Customer' (ID: 2587) from event 'Customer Sign Up' (ID: 11564)
+2025-05-26 22:49:05,660 - INFO - Event logged: Drink readied with ID 11565
+2025-05-26 22:49:05,660 - INFO - Event logged: Customer Walk Out with ID 11566
+2025-05-26 22:49:05,661 - INFO - Event logged: Walk In with ID 11567
+2025-05-26 22:49:05,661 - INFO - Event logged: Order Drink with ID 11568
+2025-05-26 22:49:05,661 - INFO - Triggered process 'Order Drink' (ID: 2588) from event 'Order Drink' (ID: 11568)
+2025-05-26 22:49:05,662 - INFO - Event logged: Customer Not Sign Up with ID 11569
+2025-05-26 22:49:05,662 - INFO - Event logged: Drink readied with ID 11570
+2025-05-26 22:49:05,662 - INFO - Event logged: Customer Walk Out with ID 11571
+2025-05-26 22:49:05,663 - INFO - Event logged: Walk In with ID 11572
+2025-05-26 22:49:05,663 - INFO - Event logged: Order Drink with ID 11573
+2025-05-26 22:49:05,663 - INFO - Triggered process 'Order Drink' (ID: 2589) from event 'Order Drink' (ID: 11573)
+2025-05-26 22:49:05,663 - INFO - Event logged: Customer Sign Up with ID 11574
+2025-05-26 22:49:05,664 - INFO - Triggered process 'Register Customer' (ID: 2590) from event 'Customer Sign Up' (ID: 11574)
+2025-05-26 22:49:05,664 - INFO - Event logged: Drink readied with ID 11575
+2025-05-26 22:49:05,664 - INFO - Event logged: Customer Walk Out with ID 11576
+2025-05-26 22:49:05,665 - INFO - Event logged: Walk In with ID 11577
+2025-05-26 22:49:05,665 - INFO - Event logged: Order Drink with ID 11578
+2025-05-26 22:49:05,665 - INFO - Triggered process 'Order Drink' (ID: 2591) from event 'Order Drink' (ID: 11578)
+2025-05-26 22:49:05,666 - INFO - Event logged: Customer Sign Up with ID 11579
+2025-05-26 22:49:05,666 - INFO - Triggered process 'Register Customer' (ID: 2592) from event 'Customer Sign Up' (ID: 11579)
+2025-05-26 22:49:05,666 - INFO - Event logged: Drink readied with ID 11580
+2025-05-26 22:49:05,667 - INFO - Event logged: Customer Walk Out with ID 11581
+2025-05-26 22:49:05,667 - INFO - Event logged: Walk In with ID 11582
+2025-05-26 22:49:05,667 - INFO - Event logged: Customer Walk Out with ID 11583
+2025-05-26 22:49:05,668 - INFO - Event logged: Walk In with ID 11584
+2025-05-26 22:49:05,668 - INFO - Event logged: Customer Walk Out with ID 11585
+2025-05-26 22:49:05,668 - INFO - Event logged: Walk In with ID 11586
+2025-05-26 22:49:05,669 - INFO - Event logged: Order Drink with ID 11587
+2025-05-26 22:49:05,669 - INFO - Triggered process 'Order Drink' (ID: 2593) from event 'Order Drink' (ID: 11587)
+2025-05-26 22:49:05,669 - INFO - Event logged: Customer Sign Up with ID 11588
+2025-05-26 22:49:05,670 - INFO - Triggered process 'Register Customer' (ID: 2594) from event 'Customer Sign Up' (ID: 11588)
+2025-05-26 22:49:05,670 - INFO - Event logged: Drink readied with ID 11589
+2025-05-26 22:49:05,670 - INFO - Event logged: Customer Walk Out with ID 11590
+2025-05-26 22:49:05,671 - INFO - Event logged: Walk In with ID 11591
+2025-05-26 22:49:05,671 - INFO - Event logged: Order Drink with ID 11592
+2025-05-26 22:49:05,671 - INFO - Triggered process 'Order Drink' (ID: 2595) from event 'Order Drink' (ID: 11592)
+2025-05-26 22:49:05,672 - INFO - Event logged: Customer Sign Up with ID 11593
+2025-05-26 22:49:05,672 - INFO - Triggered process 'Register Customer' (ID: 2596) from event 'Customer Sign Up' (ID: 11593)
+2025-05-26 22:49:05,672 - INFO - Event logged: Drink readied with ID 11594
+2025-05-26 22:49:05,673 - INFO - Event logged: Customer Walk Out with ID 11595
+2025-05-26 22:49:05,673 - INFO - Event logged: Walk In with ID 11596
+2025-05-26 22:49:05,673 - INFO - Event logged: Customer Walk Out with ID 11597
+2025-05-26 22:49:05,674 - INFO - Event logged: Walk In with ID 11598
+2025-05-26 22:49:05,674 - INFO - Event logged: Order Drink with ID 11599
+2025-05-26 22:49:05,674 - INFO - Triggered process 'Order Drink' (ID: 2597) from event 'Order Drink' (ID: 11599)
+2025-05-26 22:49:05,675 - INFO - Event logged: Customer Sign Up with ID 11600
+2025-05-26 22:49:05,675 - INFO - Triggered process 'Register Customer' (ID: 2598) from event 'Customer Sign Up' (ID: 11600)
+2025-05-26 22:49:05,675 - INFO - Event logged: Drink readied with ID 11601
+2025-05-26 22:49:05,676 - INFO - Event logged: Customer Walk Out with ID 11602
+2025-05-26 22:49:05,676 - INFO - Event logged: Walk In with ID 11603
+2025-05-26 22:49:05,676 - INFO - Event logged: Order Drink with ID 11604
+2025-05-26 22:49:05,677 - INFO - Triggered process 'Order Drink' (ID: 2599) from event 'Order Drink' (ID: 11604)
+2025-05-26 22:49:05,677 - INFO - Event logged: Customer Sign Up with ID 11605
+2025-05-26 22:49:05,677 - INFO - Triggered process 'Register Customer' (ID: 2600) from event 'Customer Sign Up' (ID: 11605)
+2025-05-26 22:49:05,677 - INFO - Event logged: Drink readied with ID 11606
+2025-05-26 22:49:05,678 - INFO - Event logged: Customer Walk Out with ID 11607
+2025-05-26 22:49:05,678 - INFO - Event logged: Walk In with ID 11608
+2025-05-26 22:49:05,678 - INFO - Event logged: Order Drink with ID 11609
+2025-05-26 22:49:05,679 - INFO - Triggered process 'Order Drink' (ID: 2601) from event 'Order Drink' (ID: 11609)
+2025-05-26 22:49:05,679 - INFO - Event logged: Customer Not Sign Up with ID 11610
+2025-05-26 22:49:05,679 - INFO - Event logged: Drink readied with ID 11611
+2025-05-26 22:49:05,680 - INFO - Event logged: Customer Walk Out with ID 11612
+2025-05-26 22:49:05,680 - INFO - Event logged: Walk In with ID 11613
+2025-05-26 22:49:05,680 - INFO - Event logged: Order Drink with ID 11614
+2025-05-26 22:49:05,681 - INFO - Triggered process 'Order Drink' (ID: 2602) from event 'Order Drink' (ID: 11614)
+2025-05-26 22:49:05,681 - INFO - Event logged: Customer Sign Up with ID 11615
+2025-05-26 22:49:05,681 - INFO - Triggered process 'Register Customer' (ID: 2603) from event 'Customer Sign Up' (ID: 11615)
+2025-05-26 22:49:05,681 - INFO - Event logged: Drink readied with ID 11616
+2025-05-26 22:49:05,682 - INFO - Event logged: Customer Walk Out with ID 11617
+2025-05-26 22:49:05,682 - INFO - Event logged: Walk In with ID 11618
+2025-05-26 22:49:05,682 - INFO - Event logged: Order Drink with ID 11619
+2025-05-26 22:49:05,683 - INFO - Triggered process 'Order Drink' (ID: 2604) from event 'Order Drink' (ID: 11619)
+2025-05-26 22:49:05,683 - INFO - Event logged: Customer Not Sign Up with ID 11620
+2025-05-26 22:49:05,683 - INFO - Event logged: Drink readied with ID 11621
+2025-05-26 22:49:05,684 - INFO - Event logged: Customer Walk Out with ID 11622
+2025-05-26 22:49:05,684 - INFO - Event logged: Walk In with ID 11623
+2025-05-26 22:49:05,684 - INFO - Event logged: Customer Walk Out with ID 11624
+2025-05-26 22:49:05,684 - INFO - Event logged: Walk In with ID 11625
+2025-05-26 22:49:05,685 - INFO - Event logged: Customer Walk Out with ID 11626
+2025-05-26 22:49:05,685 - INFO - Event logged: Walk In with ID 11627
+2025-05-26 22:49:05,685 - INFO - Event logged: Order Drink with ID 11628
+2025-05-26 22:49:05,686 - INFO - Triggered process 'Order Drink' (ID: 2605) from event 'Order Drink' (ID: 11628)
+2025-05-26 22:49:05,686 - INFO - Event logged: Customer Sign Up with ID 11629
+2025-05-26 22:49:05,686 - INFO - Triggered process 'Register Customer' (ID: 2606) from event 'Customer Sign Up' (ID: 11629)
+2025-05-26 22:49:05,687 - INFO - Event logged: Drink readied with ID 11630
+2025-05-26 22:49:05,687 - INFO - Event logged: Customer Walk Out with ID 11631
+2025-05-26 22:49:05,687 - INFO - Event logged: Walk In with ID 11632
+2025-05-26 22:49:05,688 - INFO - Event logged: Customer Walk Out with ID 11633
+2025-05-26 22:49:05,688 - INFO - Event logged: Walk In with ID 11634
+2025-05-26 22:49:05,688 - INFO - Event logged: Order Drink with ID 11635
+2025-05-26 22:49:05,689 - INFO - Triggered process 'Order Drink' (ID: 2607) from event 'Order Drink' (ID: 11635)
+2025-05-26 22:49:05,689 - INFO - Event logged: Customer Sign Up with ID 11636
+2025-05-26 22:49:05,689 - INFO - Triggered process 'Register Customer' (ID: 2608) from event 'Customer Sign Up' (ID: 11636)
+2025-05-26 22:49:05,690 - INFO - Event logged: Drink readied with ID 11637
+2025-05-26 22:49:05,690 - INFO - Event logged: Customer Walk Out with ID 11638
+2025-05-26 22:49:05,690 - INFO - Event logged: Walk In with ID 11639
+2025-05-26 22:49:05,691 - INFO - Event logged: Order Drink with ID 11640
+2025-05-26 22:49:05,691 - INFO - Triggered process 'Order Drink' (ID: 2609) from event 'Order Drink' (ID: 11640)
+2025-05-26 22:49:05,691 - INFO - Event logged: Customer Sign Up with ID 11641
+2025-05-26 22:49:05,692 - INFO - Triggered process 'Register Customer' (ID: 2610) from event 'Customer Sign Up' (ID: 11641)
+2025-05-26 22:49:05,692 - INFO - Event logged: Drink readied with ID 11642
+2025-05-26 22:49:05,692 - INFO - Event logged: Customer Walk Out with ID 11643
+2025-05-26 22:49:05,692 - INFO - Event logged: Walk In with ID 11644
+2025-05-26 22:49:05,693 - INFO - Event logged: Order Drink with ID 11645
+2025-05-26 22:49:05,693 - INFO - Triggered process 'Order Drink' (ID: 2611) from event 'Order Drink' (ID: 11645)
+2025-05-26 22:49:05,693 - INFO - Event logged: Customer Sign Up with ID 11646
+2025-05-26 22:49:05,694 - INFO - Triggered process 'Register Customer' (ID: 2612) from event 'Customer Sign Up' (ID: 11646)
+2025-05-26 22:49:05,694 - INFO - Event logged: Drink readied with ID 11647
+2025-05-26 22:49:05,695 - INFO - Event logged: Customer Walk Out with ID 11648
+2025-05-26 22:49:05,695 - INFO - Event logged: Walk In with ID 11649
+2025-05-26 22:49:05,695 - INFO - Event logged: Customer Walk Out with ID 11650
+2025-05-26 22:49:05,695 - INFO - Event logged: Walk In with ID 11651
+2025-05-26 22:49:05,696 - INFO - Event logged: Order Drink with ID 11652
+2025-05-26 22:49:05,696 - INFO - Triggered process 'Order Drink' (ID: 2613) from event 'Order Drink' (ID: 11652)
+2025-05-26 22:49:05,696 - INFO - Event logged: Customer Not Sign Up with ID 11653
+2025-05-26 22:49:05,697 - INFO - Event logged: Drink readied with ID 11654
+2025-05-26 22:49:05,697 - INFO - Event logged: Customer Walk Out with ID 11655
+2025-05-26 22:49:05,697 - INFO - Event logged: Walk In with ID 11656
+2025-05-26 22:49:05,698 - INFO - Event logged: Customer Walk Out with ID 11657
+2025-05-26 22:49:05,698 - INFO - Event logged: Walk In with ID 11658
+2025-05-26 22:49:05,698 - INFO - Event logged: Order Drink with ID 11659
+2025-05-26 22:49:05,699 - INFO - Triggered process 'Order Drink' (ID: 2614) from event 'Order Drink' (ID: 11659)
+2025-05-26 22:49:05,699 - INFO - Event logged: Customer Sign Up with ID 11660
+2025-05-26 22:49:05,699 - INFO - Triggered process 'Register Customer' (ID: 2615) from event 'Customer Sign Up' (ID: 11660)
+2025-05-26 22:49:05,699 - INFO - Event logged: Drink readied with ID 11661
+2025-05-26 22:49:05,700 - INFO - Event logged: Customer Walk Out with ID 11662
+2025-05-26 22:49:05,700 - INFO - Event logged: Walk In with ID 11663
+2025-05-26 22:49:05,700 - INFO - Event logged: Order Drink with ID 11664
+2025-05-26 22:49:05,701 - INFO - Triggered process 'Order Drink' (ID: 2616) from event 'Order Drink' (ID: 11664)
+2025-05-26 22:49:05,701 - INFO - Event logged: Customer Not Sign Up with ID 11665
+2025-05-26 22:49:05,702 - INFO - Event logged: Drink readied with ID 11666
+2025-05-26 22:49:05,702 - INFO - Event logged: Customer Walk Out with ID 11667
+2025-05-26 22:49:05,702 - INFO - Event logged: Walk In with ID 11668
+2025-05-26 22:49:05,702 - INFO - Event logged: Order Drink with ID 11669
+2025-05-26 22:49:05,703 - INFO - Triggered process 'Order Drink' (ID: 2617) from event 'Order Drink' (ID: 11669)
+2025-05-26 22:49:05,703 - INFO - Event logged: Customer Sign Up with ID 11670
+2025-05-26 22:49:05,704 - INFO - Triggered process 'Register Customer' (ID: 2618) from event 'Customer Sign Up' (ID: 11670)
+2025-05-26 22:49:05,704 - INFO - Event logged: Drink readied with ID 11671
+2025-05-26 22:49:05,704 - INFO - Event logged: Customer Walk Out with ID 11672
+2025-05-26 22:49:05,704 - INFO - Event logged: Walk In with ID 11673
+2025-05-26 22:49:05,705 - INFO - Event logged: Order Drink with ID 11674
+2025-05-26 22:49:05,705 - INFO - Triggered process 'Order Drink' (ID: 2619) from event 'Order Drink' (ID: 11674)
+2025-05-26 22:49:05,705 - INFO - Event logged: Customer Sign Up with ID 11675
+2025-05-26 22:49:05,706 - INFO - Triggered process 'Register Customer' (ID: 2620) from event 'Customer Sign Up' (ID: 11675)
+2025-05-26 22:49:05,706 - INFO - Event logged: Drink readied with ID 11676
+2025-05-26 22:49:05,706 - INFO - Event logged: Customer Walk Out with ID 11677
+2025-05-26 22:49:05,707 - INFO - Event logged: Walk In with ID 11678
+2025-05-26 22:49:05,707 - INFO - Event logged: Order Drink with ID 11679
+2025-05-26 22:49:05,707 - INFO - Triggered process 'Order Drink' (ID: 2621) from event 'Order Drink' (ID: 11679)
+2025-05-26 22:49:05,708 - INFO - Event logged: Customer Not Sign Up with ID 11680
+2025-05-26 22:49:05,708 - INFO - Event logged: Drink readied with ID 11681
+2025-05-26 22:49:05,708 - INFO - Event logged: Customer Walk Out with ID 11682
+2025-05-26 22:49:05,709 - INFO - Event logged: Walk In with ID 11683
+2025-05-26 22:49:05,709 - INFO - Event logged: Order Drink with ID 11684
+2025-05-26 22:49:05,709 - INFO - Triggered process 'Order Drink' (ID: 2622) from event 'Order Drink' (ID: 11684)
+2025-05-26 22:49:05,710 - INFO - Event logged: Customer Sign Up with ID 11685
+2025-05-26 22:49:05,710 - INFO - Triggered process 'Register Customer' (ID: 2623) from event 'Customer Sign Up' (ID: 11685)
+2025-05-26 22:49:05,710 - INFO - Event logged: Drink readied with ID 11686
+2025-05-26 22:49:05,711 - INFO - Event logged: Customer Walk Out with ID 11687
+2025-05-26 22:49:05,711 - INFO - Event logged: Walk In with ID 11688
+2025-05-26 22:49:05,711 - INFO - Event logged: Order Drink with ID 11689
+2025-05-26 22:49:05,712 - INFO - Triggered process 'Order Drink' (ID: 2624) from event 'Order Drink' (ID: 11689)
+2025-05-26 22:49:05,712 - INFO - Event logged: Customer Sign Up with ID 11690
+2025-05-26 22:49:05,712 - INFO - Triggered process 'Register Customer' (ID: 2625) from event 'Customer Sign Up' (ID: 11690)
+2025-05-26 22:49:05,713 - INFO - Event logged: Drink readied with ID 11691
+2025-05-26 22:49:05,713 - INFO - Event logged: Customer Walk Out with ID 11692
+2025-05-26 22:49:05,713 - INFO - Event logged: Walk In with ID 11693
+2025-05-26 22:49:05,713 - INFO - Event logged: Customer Walk Out with ID 11694
+2025-05-26 22:49:05,714 - INFO - Event logged: Walk In with ID 11695
+2025-05-26 22:49:05,714 - INFO - Event logged: Order Drink with ID 11696
+2025-05-26 22:49:05,714 - INFO - Triggered process 'Order Drink' (ID: 2626) from event 'Order Drink' (ID: 11696)
+2025-05-26 22:49:05,715 - INFO - Event logged: Customer Sign Up with ID 11697
+2025-05-26 22:49:05,715 - INFO - Triggered process 'Register Customer' (ID: 2627) from event 'Customer Sign Up' (ID: 11697)
+2025-05-26 22:49:05,716 - INFO - Event logged: Drink readied with ID 11698
+2025-05-26 22:49:05,716 - INFO - Event logged: Customer Walk Out with ID 11699
+2025-05-26 22:49:05,716 - INFO - Event logged: Walk In with ID 11700
+2025-05-26 22:49:05,716 - INFO - Event logged: Customer Walk Out with ID 11701
+2025-05-26 22:49:05,717 - INFO - Event logged: Walk In with ID 11702
+2025-05-26 22:49:05,717 - INFO - Event logged: Order Drink with ID 11703
+2025-05-26 22:49:05,717 - INFO - Triggered process 'Order Drink' (ID: 2628) from event 'Order Drink' (ID: 11703)
+2025-05-26 22:49:05,718 - INFO - Event logged: Customer Not Sign Up with ID 11704
+2025-05-26 22:49:05,718 - INFO - Event logged: Drink readied with ID 11705
+2025-05-26 22:49:05,718 - INFO - Event logged: Customer Walk Out with ID 11706
+2025-05-26 22:49:05,719 - INFO - Event logged: Walk In with ID 11707
+2025-05-26 22:49:05,719 - INFO - Event logged: Order Drink with ID 11708
+2025-05-26 22:49:05,719 - INFO - Triggered process 'Order Drink' (ID: 2629) from event 'Order Drink' (ID: 11708)
+2025-05-26 22:49:05,720 - INFO - Event logged: Customer Sign Up with ID 11709
+2025-05-26 22:49:05,720 - INFO - Triggered process 'Register Customer' (ID: 2630) from event 'Customer Sign Up' (ID: 11709)
+2025-05-26 22:49:05,720 - INFO - Event logged: Drink readied with ID 11710
+2025-05-26 22:49:05,721 - INFO - Event logged: Customer Walk Out with ID 11711
+2025-05-26 22:49:05,721 - INFO - Event logged: Walk In with ID 11712
+2025-05-26 22:49:05,721 - INFO - Event logged: Customer Walk Out with ID 11713
+2025-05-26 22:49:05,721 - INFO - Event logged: Walk In with ID 11714
+2025-05-26 22:49:05,722 - INFO - Event logged: Order Drink with ID 11715
+2025-05-26 22:49:05,722 - INFO - Triggered process 'Order Drink' (ID: 2631) from event 'Order Drink' (ID: 11715)
+2025-05-26 22:49:05,722 - INFO - Event logged: Customer Sign Up with ID 11716
+2025-05-26 22:49:05,723 - INFO - Triggered process 'Register Customer' (ID: 2632) from event 'Customer Sign Up' (ID: 11716)
+2025-05-26 22:49:05,723 - INFO - Event logged: Drink readied with ID 11717
+2025-05-26 22:49:05,723 - INFO - Event logged: Customer Walk Out with ID 11718
+2025-05-26 22:49:05,724 - INFO - Event logged: Walk In with ID 11719
+2025-05-26 22:49:05,724 - INFO - Event logged: Order Drink with ID 11720
+2025-05-26 22:49:05,724 - INFO - Triggered process 'Order Drink' (ID: 2633) from event 'Order Drink' (ID: 11720)
+2025-05-26 22:49:05,725 - INFO - Event logged: Customer Sign Up with ID 11721
+2025-05-26 22:49:05,725 - INFO - Triggered process 'Register Customer' (ID: 2634) from event 'Customer Sign Up' (ID: 11721)
+2025-05-26 22:49:05,725 - INFO - Event logged: Drink readied with ID 11722
+2025-05-26 22:49:05,726 - INFO - Event logged: Customer Walk Out with ID 11723
+2025-05-26 22:49:05,726 - INFO - Event logged: Walk In with ID 11724
+2025-05-26 22:49:05,726 - INFO - Event logged: Customer Walk Out with ID 11725
+2025-05-26 22:49:05,726 - INFO - Event logged: Walk In with ID 11726
+2025-05-26 22:49:05,727 - INFO - Event logged: Order Drink with ID 11727
+2025-05-26 22:49:05,727 - INFO - Triggered process 'Order Drink' (ID: 2635) from event 'Order Drink' (ID: 11727)
+2025-05-26 22:49:05,727 - INFO - Event logged: Customer Not Sign Up with ID 11728
+2025-05-26 22:49:05,728 - INFO - Event logged: Drink readied with ID 11729
+2025-05-26 22:49:05,728 - INFO - Event logged: Customer Walk Out with ID 11730
+2025-05-26 22:49:05,728 - INFO - Event logged: Walk In with ID 11731
+2025-05-26 22:49:05,729 - INFO - Event logged: Order Drink with ID 11732
+2025-05-26 22:49:05,729 - INFO - Triggered process 'Order Drink' (ID: 2636) from event 'Order Drink' (ID: 11732)
+2025-05-26 22:49:05,730 - INFO - Event logged: Customer Not Sign Up with ID 11733
+2025-05-26 22:49:05,730 - INFO - Event logged: Drink readied with ID 11734
+2025-05-26 22:49:05,730 - INFO - Event logged: Customer Walk Out with ID 11735
+2025-05-26 22:49:05,731 - INFO - Event logged: Walk In with ID 11736
+2025-05-26 22:49:05,731 - INFO - Event logged: Order Drink with ID 11737
+2025-05-26 22:49:05,731 - INFO - Triggered process 'Order Drink' (ID: 2637) from event 'Order Drink' (ID: 11737)
+2025-05-26 22:49:05,731 - INFO - Event logged: Customer Sign Up with ID 11738
+2025-05-26 22:49:05,732 - INFO - Triggered process 'Register Customer' (ID: 2638) from event 'Customer Sign Up' (ID: 11738)
+2025-05-26 22:49:05,732 - INFO - Event logged: Drink readied with ID 11739
+2025-05-26 22:49:05,732 - INFO - Event logged: Customer Walk Out with ID 11740
+2025-05-26 22:49:05,733 - INFO - Event logged: Walk In with ID 11741
+2025-05-26 22:49:05,733 - INFO - Event logged: Order Drink with ID 11742
+2025-05-26 22:49:05,733 - INFO - Triggered process 'Order Drink' (ID: 2639) from event 'Order Drink' (ID: 11742)
+2025-05-26 22:49:05,734 - INFO - Event logged: Customer Sign Up with ID 11743
+2025-05-26 22:49:05,734 - INFO - Triggered process 'Register Customer' (ID: 2640) from event 'Customer Sign Up' (ID: 11743)
+2025-05-26 22:49:05,734 - INFO - Event logged: Drink readied with ID 11744
+2025-05-26 22:49:05,735 - INFO - Event logged: Customer Walk Out with ID 11745
+2025-05-26 22:49:05,735 - INFO - Event logged: Walk In with ID 11746
+2025-05-26 22:49:05,735 - INFO - Event logged: Order Drink with ID 11747
+2025-05-26 22:49:05,736 - INFO - Triggered process 'Order Drink' (ID: 2641) from event 'Order Drink' (ID: 11747)
+2025-05-26 22:49:05,736 - INFO - Event logged: Customer Not Sign Up with ID 11748
+2025-05-26 22:49:05,736 - INFO - Event logged: Drink readied with ID 11749
+2025-05-26 22:49:05,737 - INFO - Event logged: Customer Walk Out with ID 11750
+2025-05-26 22:49:05,737 - INFO - Event logged: Walk In with ID 11751
+2025-05-26 22:49:05,737 - INFO - Event logged: Customer Walk Out with ID 11752
+2025-05-26 22:49:05,738 - INFO - Event logged: Walk In with ID 11753
+2025-05-26 22:49:05,738 - INFO - Event logged: Order Drink with ID 11754
+2025-05-26 22:49:05,738 - INFO - Triggered process 'Order Drink' (ID: 2642) from event 'Order Drink' (ID: 11754)
+2025-05-26 22:49:05,739 - INFO - Event logged: Customer Sign Up with ID 11755
+2025-05-26 22:49:05,739 - INFO - Triggered process 'Register Customer' (ID: 2643) from event 'Customer Sign Up' (ID: 11755)
+2025-05-26 22:49:05,739 - INFO - Event logged: Drink readied with ID 11756
+2025-05-26 22:49:05,739 - INFO - Event logged: Customer Walk Out with ID 11757
+2025-05-26 22:49:05,740 - INFO - Event logged: Walk In with ID 11758
+2025-05-26 22:49:05,740 - INFO - Event logged: Customer Walk Out with ID 11759
+2025-05-26 22:49:05,740 - INFO - Event logged: Walk In with ID 11760
+2025-05-26 22:49:05,741 - INFO - Event logged: Order Drink with ID 11761
+2025-05-26 22:49:05,741 - INFO - Triggered process 'Order Drink' (ID: 2644) from event 'Order Drink' (ID: 11761)
+2025-05-26 22:49:05,741 - INFO - Event logged: Customer Sign Up with ID 11762
+2025-05-26 22:49:05,742 - INFO - Triggered process 'Register Customer' (ID: 2645) from event 'Customer Sign Up' (ID: 11762)
+2025-05-26 22:49:05,742 - INFO - Event logged: Drink readied with ID 11763
+2025-05-26 22:49:05,742 - INFO - Event logged: Customer Walk Out with ID 11764
+2025-05-26 22:49:05,743 - INFO - Event logged: Walk In with ID 11765
+2025-05-26 22:49:05,743 - INFO - Event logged: Order Drink with ID 11766
+2025-05-26 22:49:05,743 - INFO - Triggered process 'Order Drink' (ID: 2646) from event 'Order Drink' (ID: 11766)
+2025-05-26 22:49:05,744 - INFO - Event logged: Customer Not Sign Up with ID 11767
+2025-05-26 22:49:05,744 - INFO - Event logged: Drink readied with ID 11768
+2025-05-26 22:49:05,744 - INFO - Event logged: Customer Walk Out with ID 11769
+2025-05-26 22:49:05,745 - INFO - Event logged: Walk In with ID 11770
+2025-05-26 22:49:05,745 - INFO - Event logged: Order Drink with ID 11771
+2025-05-26 22:49:05,745 - INFO - Triggered process 'Order Drink' (ID: 2647) from event 'Order Drink' (ID: 11771)
+2025-05-26 22:49:05,746 - INFO - Event logged: Customer Sign Up with ID 11772
+2025-05-26 22:49:05,746 - INFO - Triggered process 'Register Customer' (ID: 2648) from event 'Customer Sign Up' (ID: 11772)
+2025-05-26 22:49:05,746 - INFO - Event logged: Drink readied with ID 11773
+2025-05-26 22:49:05,746 - INFO - Event logged: Customer Walk Out with ID 11774
+2025-05-26 22:49:05,747 - INFO - Event logged: Walk In with ID 11775
+2025-05-26 22:49:05,747 - INFO - Event logged: Order Drink with ID 11776
+2025-05-26 22:49:05,748 - INFO - Triggered process 'Order Drink' (ID: 2649) from event 'Order Drink' (ID: 11776)
+2025-05-26 22:49:05,748 - INFO - Event logged: Customer Not Sign Up with ID 11777
+2025-05-26 22:49:05,748 - INFO - Event logged: Drink readied with ID 11778
+2025-05-26 22:49:05,748 - INFO - Event logged: Customer Walk Out with ID 11779
+2025-05-26 22:49:05,749 - INFO - Event logged: Walk In with ID 11780
+2025-05-26 22:49:05,749 - INFO - Event logged: Order Drink with ID 11781
+2025-05-26 22:49:05,749 - INFO - Triggered process 'Order Drink' (ID: 2650) from event 'Order Drink' (ID: 11781)
+2025-05-26 22:49:05,750 - INFO - Event logged: Customer Sign Up with ID 11782
+2025-05-26 22:49:05,750 - INFO - Triggered process 'Register Customer' (ID: 2651) from event 'Customer Sign Up' (ID: 11782)
+2025-05-26 22:49:05,750 - INFO - Event logged: Drink readied with ID 11783
+2025-05-26 22:49:05,751 - INFO - Event logged: Customer Walk Out with ID 11784
+2025-05-26 22:49:05,751 - INFO - Event logged: Walk In with ID 11785
+2025-05-26 22:49:05,751 - INFO - Event logged: Order Drink with ID 11786
+2025-05-26 22:49:05,752 - INFO - Triggered process 'Order Drink' (ID: 2652) from event 'Order Drink' (ID: 11786)
+2025-05-26 22:49:05,752 - INFO - Event logged: Customer Sign Up with ID 11787
+2025-05-26 22:49:05,753 - INFO - Triggered process 'Register Customer' (ID: 2653) from event 'Customer Sign Up' (ID: 11787)
+2025-05-26 22:49:05,753 - INFO - Event logged: Drink readied with ID 11788
+2025-05-26 22:49:05,753 - INFO - Event logged: Customer Walk Out with ID 11789
+2025-05-26 22:49:05,754 - INFO - Event logged: Walk In with ID 11790
+2025-05-26 22:49:05,754 - INFO - Event logged: Order Drink with ID 11791
+2025-05-26 22:49:05,754 - INFO - Triggered process 'Order Drink' (ID: 2654) from event 'Order Drink' (ID: 11791)
+2025-05-26 22:49:05,755 - INFO - Event logged: Customer Sign Up with ID 11792
+2025-05-26 22:49:05,755 - INFO - Triggered process 'Register Customer' (ID: 2655) from event 'Customer Sign Up' (ID: 11792)
+2025-05-26 22:49:05,755 - INFO - Event logged: Drink readied with ID 11793
+2025-05-26 22:49:05,756 - INFO - Event logged: Customer Walk Out with ID 11794
+2025-05-26 22:49:05,756 - INFO - Event logged: Walk In with ID 11795
+2025-05-26 22:49:05,756 - INFO - Event logged: Customer Walk Out with ID 11796
+2025-05-26 22:49:05,756 - INFO - Event logged: Walk In with ID 11797
+2025-05-26 22:49:05,757 - INFO - Event logged: Order Drink with ID 11798
+2025-05-26 22:49:05,757 - INFO - Triggered process 'Order Drink' (ID: 2656) from event 'Order Drink' (ID: 11798)
+2025-05-26 22:49:05,758 - INFO - Event logged: Customer Sign Up with ID 11799
+2025-05-26 22:49:05,758 - INFO - Triggered process 'Register Customer' (ID: 2657) from event 'Customer Sign Up' (ID: 11799)
+2025-05-26 22:49:05,758 - INFO - Event logged: Drink readied with ID 11800
+2025-05-26 22:49:05,758 - INFO - Event logged: Customer Walk Out with ID 11801
+2025-05-26 22:49:05,759 - INFO - Event logged: Walk In with ID 11802
+2025-05-26 22:49:05,759 - INFO - Event logged: Order Drink with ID 11803
+2025-05-26 22:49:05,760 - INFO - Triggered process 'Order Drink' (ID: 2658) from event 'Order Drink' (ID: 11803)
+2025-05-26 22:49:05,760 - INFO - Event logged: Customer Not Sign Up with ID 11804
+2025-05-26 22:49:05,760 - INFO - Event logged: Drink readied with ID 11805
+2025-05-26 22:49:05,760 - INFO - Event logged: Customer Walk Out with ID 11806
+2025-05-26 22:49:05,761 - INFO - Event logged: Walk In with ID 11807
+2025-05-26 22:49:05,761 - INFO - Event logged: Order Drink with ID 11808
+2025-05-26 22:49:05,761 - INFO - Triggered process 'Order Drink' (ID: 2659) from event 'Order Drink' (ID: 11808)
+2025-05-26 22:49:05,762 - INFO - Event logged: Customer Not Sign Up with ID 11809
+2025-05-26 22:49:05,762 - INFO - Event logged: Drink readied with ID 11810
+2025-05-26 22:49:05,762 - INFO - Event logged: Customer Walk Out with ID 11811
+2025-05-26 22:49:05,763 - INFO - Event logged: Walk In with ID 11812
+2025-05-26 22:49:05,763 - INFO - Event logged: Order Drink with ID 11813
+2025-05-26 22:49:05,763 - INFO - Triggered process 'Order Drink' (ID: 2660) from event 'Order Drink' (ID: 11813)
+2025-05-26 22:49:05,764 - INFO - Event logged: Customer Not Sign Up with ID 11814
+2025-05-26 22:49:05,764 - INFO - Event logged: Drink readied with ID 11815
+2025-05-26 22:49:05,764 - INFO - Event logged: Customer Walk Out with ID 11816
+2025-05-26 22:49:05,765 - INFO - Event logged: Walk In with ID 11817
+2025-05-26 22:49:05,765 - INFO - Event logged: Order Drink with ID 11818
+2025-05-26 22:49:05,765 - INFO - Triggered process 'Order Drink' (ID: 2661) from event 'Order Drink' (ID: 11818)
+2025-05-26 22:49:05,766 - INFO - Event logged: Customer Sign Up with ID 11819
+2025-05-26 22:49:05,766 - INFO - Triggered process 'Register Customer' (ID: 2662) from event 'Customer Sign Up' (ID: 11819)
+2025-05-26 22:49:05,766 - INFO - Event logged: Drink readied with ID 11820
+2025-05-26 22:49:05,767 - INFO - Event logged: Customer Walk Out with ID 11821
+2025-05-26 22:49:05,767 - INFO - Event logged: Walk In with ID 11822
+2025-05-26 22:49:05,767 - INFO - Event logged: Order Drink with ID 11823
+2025-05-26 22:49:05,768 - INFO - Triggered process 'Order Drink' (ID: 2663) from event 'Order Drink' (ID: 11823)
+2025-05-26 22:49:05,768 - INFO - Event logged: Customer Not Sign Up with ID 11824
+2025-05-26 22:49:05,768 - INFO - Event logged: Drink readied with ID 11825
+2025-05-26 22:49:05,769 - INFO - Event logged: Customer Walk Out with ID 11826
+2025-05-26 22:49:05,769 - INFO - Event logged: Walk In with ID 11827
+2025-05-26 22:49:05,769 - INFO - Event logged: Order Drink with ID 11828
+2025-05-26 22:49:05,770 - INFO - Triggered process 'Order Drink' (ID: 2664) from event 'Order Drink' (ID: 11828)
+2025-05-26 22:49:05,770 - INFO - Event logged: Customer Sign Up with ID 11829
+2025-05-26 22:49:05,771 - INFO - Triggered process 'Register Customer' (ID: 2665) from event 'Customer Sign Up' (ID: 11829)
+2025-05-26 22:49:05,771 - INFO - Event logged: Drink readied with ID 11830
+2025-05-26 22:49:05,771 - INFO - Event logged: Customer Walk Out with ID 11831
+2025-05-26 22:49:05,771 - INFO - Event logged: Walk In with ID 11832
+2025-05-26 22:49:05,772 - INFO - Event logged: Order Drink with ID 11833
+2025-05-26 22:49:05,772 - INFO - Triggered process 'Order Drink' (ID: 2666) from event 'Order Drink' (ID: 11833)
+2025-05-26 22:49:05,773 - INFO - Event logged: Customer Sign Up with ID 11834
+2025-05-26 22:49:05,773 - INFO - Triggered process 'Register Customer' (ID: 2667) from event 'Customer Sign Up' (ID: 11834)
+2025-05-26 22:49:05,773 - INFO - Event logged: Drink readied with ID 11835
+2025-05-26 22:49:05,773 - INFO - Event logged: Customer Walk Out with ID 11836
+2025-05-26 22:49:05,774 - INFO - Event logged: Walk In with ID 11837
+2025-05-26 22:49:05,774 - INFO - Event logged: Order Drink with ID 11838
+2025-05-26 22:49:05,775 - INFO - Triggered process 'Order Drink' (ID: 2668) from event 'Order Drink' (ID: 11838)
+2025-05-26 22:49:05,775 - INFO - Event logged: Customer Sign Up with ID 11839
+2025-05-26 22:49:05,775 - INFO - Triggered process 'Register Customer' (ID: 2669) from event 'Customer Sign Up' (ID: 11839)
+2025-05-26 22:49:05,776 - INFO - Event logged: Drink readied with ID 11840
+2025-05-26 22:49:05,776 - INFO - Event logged: Customer Walk Out with ID 11841
+2025-05-26 22:49:05,776 - INFO - Event logged: Walk In with ID 11842
+2025-05-26 22:49:05,776 - INFO - Event logged: Order Drink with ID 11843
+2025-05-26 22:49:05,777 - INFO - Triggered process 'Order Drink' (ID: 2670) from event 'Order Drink' (ID: 11843)
+2025-05-26 22:49:05,777 - INFO - Event logged: Customer Sign Up with ID 11844
+2025-05-26 22:49:05,778 - INFO - Triggered process 'Register Customer' (ID: 2671) from event 'Customer Sign Up' (ID: 11844)
+2025-05-26 22:49:05,778 - INFO - Event logged: Drink readied with ID 11845
+2025-05-26 22:49:05,778 - INFO - Event logged: Customer Walk Out with ID 11846
+2025-05-26 22:49:05,779 - INFO - Event logged: Walk In with ID 11847
+2025-05-26 22:49:05,779 - INFO - Event logged: Order Drink with ID 11848
+2025-05-26 22:49:05,779 - INFO - Triggered process 'Order Drink' (ID: 2672) from event 'Order Drink' (ID: 11848)
+2025-05-26 22:49:05,779 - INFO - Event logged: Customer Sign Up with ID 11849
+2025-05-26 22:49:05,780 - INFO - Triggered process 'Register Customer' (ID: 2673) from event 'Customer Sign Up' (ID: 11849)
+2025-05-26 22:49:05,780 - INFO - Event logged: Drink readied with ID 11850
+2025-05-26 22:49:05,780 - INFO - Event logged: Customer Walk Out with ID 11851
+2025-05-26 22:49:05,781 - INFO - Event logged: Walk In with ID 11852
+2025-05-26 22:49:05,781 - INFO - Event logged: Order Drink with ID 11853
+2025-05-26 22:49:05,781 - INFO - Triggered process 'Order Drink' (ID: 2674) from event 'Order Drink' (ID: 11853)
+2025-05-26 22:49:05,782 - INFO - Event logged: Customer Sign Up with ID 11854
+2025-05-26 22:49:05,782 - INFO - Triggered process 'Register Customer' (ID: 2675) from event 'Customer Sign Up' (ID: 11854)
+2025-05-26 22:49:05,782 - INFO - Event logged: Drink readied with ID 11855
+2025-05-26 22:49:05,783 - INFO - Event logged: Customer Walk Out with ID 11856
+2025-05-26 22:49:05,783 - INFO - Event logged: Walk In with ID 11857
+2025-05-26 22:49:05,783 - INFO - Event logged: Order Drink with ID 11858
+2025-05-26 22:49:05,784 - INFO - Triggered process 'Order Drink' (ID: 2676) from event 'Order Drink' (ID: 11858)
+2025-05-26 22:49:05,784 - INFO - Event logged: Customer Sign Up with ID 11859
+2025-05-26 22:49:05,784 - INFO - Triggered process 'Register Customer' (ID: 2677) from event 'Customer Sign Up' (ID: 11859)
+2025-05-26 22:49:05,785 - INFO - Event logged: Drink readied with ID 11860
+2025-05-26 22:49:05,785 - INFO - Event logged: Customer Walk Out with ID 11861
+2025-05-26 22:49:05,786 - INFO - Event logged: Walk In with ID 11862
+2025-05-26 22:49:05,786 - INFO - Event logged: Order Drink with ID 11863
+2025-05-26 22:49:05,786 - INFO - Triggered process 'Order Drink' (ID: 2678) from event 'Order Drink' (ID: 11863)
+2025-05-26 22:49:05,786 - INFO - Event logged: Customer Sign Up with ID 11864
+2025-05-26 22:49:05,787 - INFO - Triggered process 'Register Customer' (ID: 2679) from event 'Customer Sign Up' (ID: 11864)
+2025-05-26 22:49:05,787 - INFO - Event logged: Drink readied with ID 11865
+2025-05-26 22:49:05,788 - INFO - Event logged: Customer Walk Out with ID 11866
+2025-05-26 22:49:05,788 - INFO - Event logged: Walk In with ID 11867
+2025-05-26 22:49:05,788 - INFO - Event logged: Order Drink with ID 11868
+2025-05-26 22:49:05,789 - INFO - Triggered process 'Order Drink' (ID: 2680) from event 'Order Drink' (ID: 11868)
+2025-05-26 22:49:05,789 - INFO - Event logged: Customer Sign Up with ID 11869
+2025-05-26 22:49:05,789 - INFO - Triggered process 'Register Customer' (ID: 2681) from event 'Customer Sign Up' (ID: 11869)
+2025-05-26 22:49:05,789 - INFO - Event logged: Drink readied with ID 11870
+2025-05-26 22:49:05,790 - INFO - Event logged: Customer Walk Out with ID 11871
+2025-05-26 22:49:05,790 - INFO - Event logged: Walk In with ID 11872
+2025-05-26 22:49:05,790 - INFO - Event logged: Order Drink with ID 11873
+2025-05-26 22:49:05,791 - INFO - Triggered process 'Order Drink' (ID: 2682) from event 'Order Drink' (ID: 11873)
+2025-05-26 22:49:05,791 - INFO - Event logged: Customer Not Sign Up with ID 11874
+2025-05-26 22:49:05,791 - INFO - Event logged: Drink readied with ID 11875
+2025-05-26 22:49:05,792 - INFO - Event logged: Customer Walk Out with ID 11876
+2025-05-26 22:49:05,792 - INFO - Simulation complete.

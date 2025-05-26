@@ -3,10 +3,11 @@ import random
 from datetime import datetime
 
 class Customer:
-    def __init__(self, name):
+    def __init__(self, name, logger=None):
         self.name = name
         self.state = "Walk In"
         self.visited_at = datetime.now()
+        self.logger = logger
 
     def _create_event(self, event_name, metadata=None):
         metadata = metadata or {}
@@ -14,7 +15,8 @@ class Customer:
         event_id = create_event_and_handle(
             name=event_name,
             description=f"Customer {self.name} performed event: {event_name}",
-            metadata=metadata
+            metadata=metadata,
+            logger=self.logger  # <-- pass logger down
         )
         return event_id
 
