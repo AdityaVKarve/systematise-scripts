@@ -1,0 +1,7 @@
+﻿Process,Child Processes,Metadata,Child execution order,Trigger
+Order Drink,"Sign Customer Up, Prepare Drink, Serve Drink, Take Payment","time started, fulfillment time, order data",sequential,Order Drink
+Sign Customer Up,Register Customer,"customer email, sign up accepted",sequential,NA
+Prepare Drink,NA,"time started, time finished, assigned employee",NA,NA
+Serve Drink,NA,time started,NA,NA
+Take Payment,NA,"time started, cost",NA,NA
+Register Customer,NA,customer email,NA,Customer Sign Up
